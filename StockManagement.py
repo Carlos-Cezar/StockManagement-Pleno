@@ -63,19 +63,12 @@ def main():
     main()
 
 ### ↑ Escolhas ↑ ###
-def confirmar_retirada():
-  confirmar = input('Gostarian de retirar outro notebook? \n.1 Sim \n.2 Não \n: ')
-  if confirmar == "1":
-    retirar()
-  elif confirmar == "2":
-    print("Ok, você será redirecionado para o inicio do programa.")
-    main()
  
 ### ↓ Funções ↓ ###
  
 def retirar():
  print("Notebooks no estoque: " + str(notes_disponiveis_dicionario))
- note_selecionado = input("Digite o número do notebook que você deseja retirar:\n: ")
+ note_selecionado = input("Digite o id do notebook que você deseja retirar:\n: ")
  if note_selecionado in notes_disponiveis_dicionario:
    notes_disponiveis_dicionario.pop(note_selecionado)
    evento = input("Nome do evento?\n")
@@ -127,5 +120,3 @@ def retorno():
 ### ↑ Funções ↑ ###
 
 login()
- 
-
