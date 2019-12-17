@@ -79,6 +79,9 @@ def retirar():
  if note_selecionado in notes_disponiveis_dicionario:
    notes_disponiveis_dicionario.pop(note_selecionado)
    evento = input("Nome do evento?\n")
+   logs = open("logs.txt","a+")
+   logs.write("\nID: {} |Retirou o notebook: {} | para o evento: {} | às {} |".format(id, note_selecionado, evento, datetime.now(tz)))
+   logs.close()
    notes_evento_dicionario[note_selecionado] = evento
    print(notes_disponiveis_dicionario)
    print(notes_evento_dicionario)
