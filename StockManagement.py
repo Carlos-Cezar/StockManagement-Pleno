@@ -63,7 +63,13 @@ def main():
     main()
 
 ### ↑ Escolhas ↑ ###
-
+def confirmar_retirada():
+  confirmar = input('Gostarian de retirar outro notebook? \n.1 Sim \n.2 Não \n: ')
+  if confirmar == "1":
+    retirar()
+  elif confirmar == "2":
+    print("Ok, você será redirecionado para o inicio do programa.")
+    main()
  
 ### ↓ Funções ↓ ###
  
@@ -78,12 +84,14 @@ def retirar():
    print(notes_evento_dicionario)
    print("Notebook {} retirado com sucesso.".format(note_selecionado)
    )
-   confirmar = input('Gostaria de retirar outro notebook? \n.1 Sim \n.2 Não \n: ')
-   if confirmar == "1":
-     retirar()
-   elif confirmar == "2":
-     print("Ok, você será redirecionado para inicio do programa.")
-     main()
+   def confirmar_retirada():
+     confirmar = input('Gostarian de retirar outro notebook? \n.1 Sim \n.2 Não \n: ')
+     if confirmar == "1":
+       retirar()
+     elif confirmar == "2":
+       print("Ok, você será redirecionado para o inicio do programa.")
+       main()
+   confirmar_retirada()
   
  else:
    print("Notebook selecionado não está na unidade.")
