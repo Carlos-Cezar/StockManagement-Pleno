@@ -94,6 +94,9 @@ def retirar():
      elif confirmar == "2":
        print("Ok, você será redirecionado para o inicio do programa.")
        main()
+     else:
+       print("Número da ação inválido.")
+       confirmar_retirada()
    confirmar_retirada()
   
  else:
