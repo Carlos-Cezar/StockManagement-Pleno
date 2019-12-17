@@ -1,9 +1,8 @@
 from getpass import getpass
 from datetime import datetime
 import pytz
- 
-notes_disponiveis = ["01C", "02C", "03C"]
-notes_evento = []
+
+
 ids = ['Henrique@pleno', 'Carlos@pleno']
 tz = pytz.timezone('America/Sao_Paulo')
 
