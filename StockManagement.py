@@ -6,8 +6,38 @@ notes_disponiveis = ["01C", "02C", "03C"]
 notes_evento = []
 ids = ['Henrique2019', 'Carlos9100']
 tz = pytz.timezone('America/Sao_Paulo')
- 
- 
+
+### ↓ Estoque ↓ ###
+
+notes_disponiveis_dicionario = {
+  "01C": "Na unidade.",
+  "02C": "Na unidade.",
+  "03C": "Na unidade."
+}
+
+notes_evento_dicionario = {
+
+}
+
+# Create your dictionary class 
+class my_dictionary(dict):
+  
+  # __init__ function 
+  def __init__(self):
+    self = dict() 
+          
+  # Function to add key:value 
+  def add(self, key, value): 
+    self[key] = value 
+
+def dictionary():
+  for i in sorted (key_value.keys()):  
+     print(i, end = " ") 
+
+### ↑ Estoque ↑ ### 
+
+### ↓ Login ↓ ###
+
 def login():
  global id
  id = getpass("Insira seu ID: ")
@@ -20,11 +50,11 @@ def login():
    print("ID não está registrada.")
    login()
  
+### ↑ Login ↑ ###
  
+### ↓ Escolhas ↓ ###
 def main():
-  escolha = input('O que você gostaria de fazer, escolha o número da ação: \n1. Retirar \n2. Retorno \n3. Checar stock \n4. Sair \n: ')
-  notes_disponiveis.sort()
-  notes_evento.sort()
+  escolha = input('O que você gostaria de fazer, escolha o número da ação: \n1. Retirar \n2. Retorno \n3. Checar estoque \n4. Sair \n: ')
  
   if escolha == "1":
    retirar()
@@ -32,8 +62,8 @@ def main():
    retorno()
  
   elif escolha == "3":
-    print("Notebooks disponiveis: " + str(notes_disponiveis))
-    print("Notebooks em evento: " + str(notes_evento))
+    print("Notebooks disponiveis: " + str(notes_disponiveis_dicionario))
+    print("Notebooks em evento: " + str(notes_evento_dicionario))
     main()
  
   elif escolha == "4":
@@ -46,19 +76,21 @@ def main():
   else:
     print('Error: Digite o numero "1", numero "2" ou número "3".')
     main()
+
+### ↑ Escolhas ↑ ###
+
  
-### Ações ###
+### ↓ Funções ↓ ###
  
 def retirar():
- print("Notebooks no estoque: " + str(notes_disponiveis))
+ print("Notebooks no estoque: " + str(notes_disponiveis_dicionario))
  note_selecionado = input("Digite o número do notebook que você deseja retirar:\n: ")
- if note_selecionado in notes_disponiveis:
-   notes_disponiveis.remove(note_selecionado)
-   notes_evento.append(note_selecionado)
-   notes_disponiveis.sort()
-   notes_evento.sort()
-   print(notes_disponiveis)
-   print(notes_evento)
+ if note_selecionado in notes_disponiveis_dicionario:
+   notes_disponiveis_dicionario.pop(note_selecionado)
+   evento = input("Nome do evento?\n")
+   notes_evento_dicionario[note_selecionado] = evento
+   print(notes_disponiveis_dicionario)
+   print(notes_evento_dicionario)
    print("Notebook {} retirado com sucesso.".format(note_selecionado)
    )
    confirmar = input('Gostaria de retirar outro notebook? \n.1 Sim \n.2 Não \n: ')
@@ -93,6 +125,8 @@ def retorno():
    print("Notebook selecionado não é válido.")
    retorno()
  
+### ↑ Funções ↑ ###
+
 login()
  
 
