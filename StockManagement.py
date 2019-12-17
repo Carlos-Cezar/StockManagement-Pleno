@@ -19,21 +19,6 @@ notes_evento_dicionario = {
 
 }
 
-# Create your dictionary class 
-class my_dictionary(dict):
-  
-  # __init__ function 
-  def __init__(self):
-    self = dict() 
-          
-  # Function to add key:value 
-  def add(self, key, value): 
-    self[key] = value 
-
-def dictionary():
-  for i in sorted (key_value.keys()):  
-     print(i, end = " ") 
-
 ### ↑ Estoque ↑ ### 
 
 ### ↓ Login ↓ ###
