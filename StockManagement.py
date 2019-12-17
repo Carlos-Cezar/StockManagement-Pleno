@@ -4,7 +4,7 @@ import pytz
  
 notes_disponiveis = ["01C", "02C", "03C"]
 notes_evento = []
-ids = ['Henrique2019', 'Carlos9100']
+ids = ['Henrique@pleno', 'Carlos@pleno']
 tz = pytz.timezone('America/Sao_Paulo')
 
 ### ↓ Estoque ↓ ###
@@ -39,7 +39,7 @@ def login():
  
 ### ↓ Escolhas ↓ ###
 def main():
-  escolha = input('O que você gostaria de fazer, escolha o número da ação: \n1. Retirar \n2. Retorno \n3. Checar estoque \n4. Sair \n: ')
+  escolha = input('O que você gostaria de fazer, escolha o número da ação: \n1. Retirar \n2. Retorno \n3. Checar estoque \n4. Sair \n:')
  
   if escolha == "1":
    retirar()
@@ -68,7 +68,7 @@ def main():
  
 def retirar():
  print("Notebooks no estoque: " + str(notes_disponiveis_dicionario))
- note_selecionado = input("Digite o id do notebook que você deseja retirar:\n: ")
+ note_selecionado = input("Digite o id do notebook que você deseja retirar:\n:")
  if note_selecionado in notes_disponiveis_dicionario:
    notes_disponiveis_dicionario.pop(note_selecionado)
    evento = input("Nome do evento?\n")
@@ -81,7 +81,7 @@ def retirar():
    print("Notebook {} retirado com sucesso.".format(note_selecionado)
    )
    def confirmar_retirada():
-     confirmar = input('Gostarian de retirar outro notebook? \n.1 Sim \n.2 Não \n: ')
+     confirmar = input('Gostarian de retirar outro notebook? \n.1 Sim \n.2 Não \n:')
      if confirmar == "1":
        retirar()
      elif confirmar == "2":
@@ -97,22 +97,28 @@ def retirar():
    retirar()
  
 def retorno():
- print("Notebooks em uso: " + str(notes_evento))
- note_selecionado = input("Digite o número do notebook que você deseja retornar:\n")
- if note_selecionado in notes_evento:
-   notes_evento.remove(note_selecionado)
-   notes_disponiveis.append(note_selecionado)
-   notes_evento.sort()
-   notes_disponiveis.sort()
-   print(notes_disponiveis)
-   print(notes_evento)
+ print("Notebooks em uso: " + str(notes_evento_dicionario))
+ note_selecionado = input("Digite o número do notebook que você deseja retornar:\n:")
+ if note_selecionado in notes_evento_dicionario:
+   notes_evento_dicionario.pop(note_selecionado)
+   notes_disponiveis_dicionario[note_selecionado] = 'Na unidade.'
+   logs = open("logs.txt","a+")
+   logs.write("\nID: {} |Retornou o notebook: {} | às {} |".format(id, note_selecionado, datetime.now(tz)))
+   logs.close()
+   print(notes_disponiveis_dicionario)
+   print(notes_evento_dicionario)
    print("Notebook {} retornado com sucesso.".format(note_selecionado))
-   confirmar = input('Gostaria de retornar outro notebook? \n.1 Sim \n.2 Não \n: ')
-   if confirmar == "1":
-     retorno()
-   elif confirmar == "2":
-     print("Ok, você será redirecionado para inicio do programa.")
-     main()
+   def confirmar_retorno():
+     confirmar = input('Gostarian de retornar outro notebook? \n.1 Sim \n.2 Não \n:')
+     if confirmar == "1":
+       retirar()
+     elif confirmar == "2":
+       print("Ok, você será redirecionado para o inicio do programa.")
+       main()
+     else:
+       print("Número da ação inválido.")
+       confirmar_retorno()
+   confirmar_retorno()
  else:
    print("Notebook selecionado não é válido.")
    retorno()
