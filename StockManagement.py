@@ -3,7 +3,7 @@ from datetime import datetime
 import pytz
 
 
-ids = ['Henrique@pleno', 'Carlos@pleno']
+ids = ['cenrique@pleno', 'carlos@pleno', 'rogerio@pleno', 'rodrigo@pleno']
 tz = pytz.timezone('America/Sao_Paulo')
 
 ### ↓ Estoque ↓ ###
@@ -70,13 +70,12 @@ def retirar():
  note_selecionado = input("Digite o id do notebook que você deseja retirar:\n:")
  if note_selecionado in notes_disponiveis_dicionario:
    notes_disponiveis_dicionario.pop(note_selecionado)
-   evento = input("Nome do evento?\n")
+   evento = input("Nome do evento?\n:")
    logs = open("logs.txt","a+")
    logs.write("\nID: {} |Retirou o notebook: {} | para o evento: {} | às {} |".format(id, note_selecionado, evento, datetime.now(tz)))
    logs.close()
    notes_evento_dicionario[note_selecionado] = evento
-   print(notes_disponiveis_dicionario)
-   print(notes_evento_dicionario)
+   print("|||||||||Resumo|||||||||||\n" + "Notebooks no estoque " + str(notes_disponiveis_dicionario) + "\n" + "-\n" + "Notebooks em eventos " + str(notes_evento_dicionario) + "\n" + "||||||||||||||||||||")
    print("Notebook {} retirado com sucesso.".format(note_selecionado)
    )
    def confirmar_retirada():
@@ -104,8 +103,7 @@ def retorno():
    logs = open("logs.txt","a+")
    logs.write("\nID: {} |Retornou o notebook: {} | às {} |".format(id, note_selecionado, datetime.now(tz)))
    logs.close()
-   print(notes_disponiveis_dicionario)
-   print(notes_evento_dicionario)
+   print("|||||||||Resumo|||||||||||\n" + "Notebooks no estoque " + str(notes_disponiveis_dicionario) + "\n" + "-\n" + "Notebooks em eventos " + str(notes_evento_dicionario) + "\n" + "||||||||||||||||||||")
    print("Notebook {} retornado com sucesso.".format(note_selecionado))
    def confirmar_retorno():
      confirmar = input('Gostarian de retornar outro notebook? \n.1 Sim \n.2 Não \n:')
