@@ -46,8 +46,7 @@ def main():
    retorno()
  
   elif escolha == "3":
-    print("Notebooks disponiveis: " + str(notes_disponiveis_dicionario))
-    print("Notebooks em evento: " + str(notes_evento_dicionario))
+    print("_______________________________________________\n" + "\nNotebooks no estoque " + str(notes_disponiveis_dicionario) + "\n" + "------------------------------\n" + "Notebooks em eventos " + str(notes_evento_dicionario) + "\n_______________________________________________")
     main()
  
   elif escolha == "4":
@@ -68,6 +67,7 @@ def main():
 def retirar():
  print("\nNotebooks no estoque: " + str(notes_disponiveis_dicionario))
  note_selecionado = input("\nDigite o id do notebook que você deseja retirar:")
+ note_selecionado = note_selecionado.upper()
  if note_selecionado in notes_disponiveis_dicionario:
    notes_disponiveis_dicionario.pop(note_selecionado)
    evento = input("Nome do evento:")
@@ -101,6 +101,7 @@ def retirar():
 def retorno():
  print("Notebooks em uso: " + str(notes_evento_dicionario))
  note_selecionado = input("Digite o número do notebook que você deseja retornar:\n:")
+ note_selecionado = note_selecionado.upper()
  if note_selecionado in notes_evento_dicionario:
    notes_evento_dicionario.pop(note_selecionado)
    notes_disponiveis_dicionario[note_selecionado] = 'Na unidade.'
