@@ -1,6 +1,7 @@
 from getpass import getpass
 from datetime import datetime
 import pytz
+import json
 
 
 ids = ['cenrique@pleno', 'carlos@pleno', 'rogerio@pleno', 'rodrigo@pleno']
@@ -8,17 +9,15 @@ tz = pytz.timezone('America/Sao_Paulo')
 
 ### ↓ Estoque ↓ ###
 
-notes_disponiveis_dicionario = {
-  "01C": "Na unidade.",
-  "02C": "Na unidade.",
-  "03C": "Na unidade."
-}
+with open('notes_disponiveis_dicionario', 'r') as f:
+  notes_disponiveis_dicionario = json.load(f)
 
-notes_evento_dicionario = {
+with open('notes_evento_dicionario', 'r') as f:
+  notes_evento_dicionario = json.load(f)
 
-}
 
 ### ↑ Estoque ↑ ### 
+
 
 ### ↓ Login ↓ ###
 
@@ -75,6 +74,10 @@ def retirar():
    logs.write("\nID: {} |Retirou o notebook: {} | para o evento: {} | às {} |".format(id, note_selecionado, evento, datetime.now(tz)))
    logs.close()
    notes_evento_dicionario[note_selecionado] = evento
+   with open("notes_disponiveis_dicionario", 'w') as f:
+     json.dump(notes_disponiveis_dicionario, f)
+   with open("notes_evento_dicionario", 'w') as f:
+     json.dump(notes_evento_dicionario, f)
    print("|||||||||Resumo|||||||||||\n" + "Notebooks no estoque " + str(notes_disponiveis_dicionario) + "\n" + "-\n" + "Notebooks em eventos " + str(notes_evento_dicionario) + "\n" + "||||||||||||||||||||")
    print("Notebook {} retirado com sucesso.".format(note_selecionado)
    )
@@ -100,6 +103,10 @@ def retorno():
  if note_selecionado in notes_evento_dicionario:
    notes_evento_dicionario.pop(note_selecionado)
    notes_disponiveis_dicionario[note_selecionado] = 'Na unidade.'
+   with open("notes_evento_dicionario", 'w') as f:
+     json.dump(notes_evento_dicionario, f)
+   with open("notes_disponiveis_dicionario", 'w') as f:
+     json.dump(notes_disponiveis_dicionario, f)
    logs = open("logs.txt","a+")
    logs.write("\nID: {} |Retornou o notebook: {} | às {} |".format(id, note_selecionado, datetime.now(tz)))
    logs.close()
