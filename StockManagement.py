@@ -28,6 +28,7 @@ def login():
    logs = open("logs.txt","a+")
    logs.write("\nID: {} | connectado às {} |".format(id,datetime.now(tz)))
    logs.close()
+   print("\nConectado com sucesso. ")
    main()
  else:
    print("ID não está registrada.")
@@ -37,7 +38,7 @@ def login():
  
 ### ↓ Escolhas ↓ ###
 def main():
-  escolha = input('O que você gostaria de fazer, escolha o número da ação: \n1. Retirar \n2. Retorno \n3. Checar estoque \n4. Sair \n:')
+  escolha = input('\nO que você gostaria de fazer, escolha o número da ação: \n1. Retirar \n2. Retorno \n3. Checar estoque \n4. Sair \nPleno:')
  
   if escolha == "1":
    retirar()
@@ -65,11 +66,11 @@ def main():
 ### ↓ Funções ↓ ###
  
 def retirar():
- print("Notebooks no estoque: " + str(notes_disponiveis_dicionario))
- note_selecionado = input("Digite o id do notebook que você deseja retirar:\n:")
+ print("\nNotebooks no estoque: " + str(notes_disponiveis_dicionario))
+ note_selecionado = input("\nDigite o id do notebook que você deseja retirar:")
  if note_selecionado in notes_disponiveis_dicionario:
    notes_disponiveis_dicionario.pop(note_selecionado)
-   evento = input("Nome do evento?\n:")
+   evento = input("Nome do evento:")
    logs = open("logs.txt","a+")
    logs.write("\nID: {} |Retirou o notebook: {} | para o evento: {} | às {} |".format(id, note_selecionado, evento, datetime.now(tz)))
    logs.close()
@@ -78,11 +79,11 @@ def retirar():
      json.dump(notes_disponiveis_dicionario, f)
    with open("notes_evento_dicionario", 'w') as f:
      json.dump(notes_evento_dicionario, f)
-   print("|||||||||Resumo|||||||||||\n" + "Notebooks no estoque " + str(notes_disponiveis_dicionario) + "\n" + "-\n" + "Notebooks em eventos " + str(notes_evento_dicionario) + "\n" + "||||||||||||||||||||")
+   print("_______________________________________________\n" + "\nNotebooks no estoque " + str(notes_disponiveis_dicionario) + "\n" + "------------------------------\n" + "Notebooks em eventos " + str(notes_evento_dicionario) + "\n_______________________________________________")
    print("Notebook {} retirado com sucesso.".format(note_selecionado)
    )
    def confirmar_retirada():
-     confirmar = input('Gostarian de retirar outro notebook? \n.1 Sim \n.2 Não \n:')
+     confirmar = input('\nGostarian de retirar outro notebook? \n.1 Sim \n.2 Não \nPleno:')
      if confirmar == "1":
        retirar()
      elif confirmar == "2":
@@ -110,12 +111,12 @@ def retorno():
    logs = open("logs.txt","a+")
    logs.write("\nID: {} |Retornou o notebook: {} | às {} |".format(id, note_selecionado, datetime.now(tz)))
    logs.close()
-   print("|||||||||Resumo|||||||||||\n" + "Notebooks no estoque " + str(notes_disponiveis_dicionario) + "\n" + "-\n" + "Notebooks em eventos " + str(notes_evento_dicionario) + "\n" + "||||||||||||||||||||")
+   print("_______________________________________________\n" + "\nNotebooks no estoque " + str(notes_disponiveis_dicionario) + "\n" + "------------------------------\n" + "Notebooks em eventos " + str(notes_evento_dicionario) + "\n_______________________________________________")
    print("Notebook {} retornado com sucesso.".format(note_selecionado))
    def confirmar_retorno():
-     confirmar = input('Gostarian de retornar outro notebook? \n.1 Sim \n.2 Não \n:')
+     confirmar = input('\nGostaria de retornar outro notebook? \n.1 Sim \n.2 Não \nPleno:')
      if confirmar == "1":
-       retirar()
+       retorno()
      elif confirmar == "2":
        print("Ok, você será redirecionado para o inicio do programa.")
        main()
