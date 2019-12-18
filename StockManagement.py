@@ -71,10 +71,11 @@ def retirar():
  if note_selecionado in notes_disponiveis_dicionario:
    notes_disponiveis_dicionario.pop(note_selecionado)
    evento = input("Nome do evento:")
+   data = input("Data de retorno:")
    logs = open("logs.txt","a+")
    logs.write("\nID: {} |Retirou o notebook: {} | para o evento: {} | às {} |".format(id, note_selecionado, evento, datetime.now(tz)))
    logs.close()
-   notes_evento_dicionario[note_selecionado] = evento
+   notes_evento_dicionario[note_selecionado] = (evento, data)
    with open("notes_disponiveis_dicionario", 'w') as f:
      json.dump(notes_disponiveis_dicionario, f)
    with open("notes_evento_dicionario", 'w') as f:
