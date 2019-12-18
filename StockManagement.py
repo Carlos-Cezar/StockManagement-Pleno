@@ -94,8 +94,8 @@ def retirar():
    confirmar_retirada()
   
  else:
-   print("Notebook selecionado não está na unidade.")
-   retirar()
+   print("ID do notebook selecionado é inválido.")
+   main()
  
 def retorno():
  print("Notebooks em uso: " + str(notes_evento_dicionario))
@@ -124,8 +124,8 @@ def retorno():
        confirmar_retorno()
    confirmar_retorno()
  else:
-   print("Notebook selecionado não é válido.")
-   retorno()
+   print("ID do notebook selecionado inválido.")
+   main()
  
 ### ↑ Funções ↑ ###
 
