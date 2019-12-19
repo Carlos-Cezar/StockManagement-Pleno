@@ -84,7 +84,7 @@ def retirar():
    print("Notebook {} retirado com sucesso.".format(note_selecionado)
    )
    def confirmar_retirada():
-     confirmar = input('\nGostarian de retirar outro notebook? \n.1 Sim \n.2 Não \nPleno:')
+     confirmar = input('\nGostaria de retirar outro notebook? \n.1 Sim \n.2 Não \nPleno:')
      if confirmar == "1":
        retirar()
      elif confirmar == "2":
