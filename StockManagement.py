@@ -35,7 +35,20 @@ def login():
    login()
  
 ### ↑ Login ↑ ###
- 
+
+def print_notes_disponiveis():
+  print("\n↓ Notebooks no estoque ↓")
+  for key, value in notes_disponiveis_dicionario.items():
+    print(key, ' : ', value)
+  print("↑ Notebooks no estoque ↑") 
+
+def print_notes_evento():
+  print("\n↓ Notebooks em eventos ↓")
+  for key, value in notes_evento_dicionario.items():
+    print(key, ' : ', value)
+  print("↑ Notebooks em eventos ↑") 
+
+
 ### ↓ Escolhas ↓ ###
 def main():
   escolha = input('\nO que você gostaria de fazer, escolha o número da ação: \n1. Retirar \n2. Retorno \n3. Checar estoque \n4. Sair \nPleno:')
@@ -46,7 +59,8 @@ def main():
    retorno()
  
   elif escolha == "3":
-    print("_______________________________________________\n" + "\nNotebooks no estoque " + str(notes_disponiveis_dicionario) + "\n" + "------------------------------\n" + "Notebooks em eventos " + str(notes_evento_dicionario) + "\n_______________________________________________")
+    print_notes_disponiveis()
+    print_notes_evento()
     main()
  
   elif escolha == "4":
@@ -65,7 +79,7 @@ def main():
 ### ↓ Funções ↓ ###
  
 def retirar():
- print("\nNotebooks no estoque: " + str(notes_disponiveis_dicionario))
+ print_notes_disponiveis()
  note_selecionado = input("\nDigite o id do notebook que você deseja retirar:")
  note_selecionado = note_selecionado.upper()
  if note_selecionado in notes_disponiveis_dicionario:
@@ -80,7 +94,8 @@ def retirar():
      json.dump(notes_disponiveis_dicionario, f)
    with open("notes_evento_dicionario", 'w') as f:
      json.dump(notes_evento_dicionario, f)
-   print("_______________________________________________\n" + "\nNotebooks no estoque " + str(notes_disponiveis_dicionario) + "\n" + "------------------------------\n" + "Notebooks em eventos " + str(notes_evento_dicionario) + "\n_______________________________________________")
+   print_notes_disponiveis()
+   print_notes_evento()
    print("Notebook {} retirado com sucesso.".format(note_selecionado)
    )
    def confirmar_retirada():
@@ -100,8 +115,8 @@ def retirar():
    main()
  
 def retorno():
- print("Notebooks em uso: " + str(notes_evento_dicionario))
- note_selecionado = input("Digite o número do notebook que você deseja retornar:\n:")
+ print_notes_evento()
+ note_selecionado = input("Digite o número do notebook que você deseja retornar:")
  note_selecionado = note_selecionado.upper()
  if note_selecionado in notes_evento_dicionario:
    notes_evento_dicionario.pop(note_selecionado)
@@ -113,7 +128,8 @@ def retorno():
    logs = open("logs.txt","a+")
    logs.write("\nID: {} |Retornou o notebook: {} | às {} |".format(id, note_selecionado, datetime.now(tz)))
    logs.close()
-   print("_______________________________________________\n" + "\nNotebooks no estoque " + str(notes_disponiveis_dicionario) + "\n" + "------------------------------\n" + "Notebooks em eventos " + str(notes_evento_dicionario) + "\n_______________________________________________")
+   print_notes_disponiveis()
+   print_notes_evento()
    print("Notebook {} retornado com sucesso.".format(note_selecionado))
    def confirmar_retorno():
      confirmar = input('\nGostaria de retornar outro notebook? \n.1 Sim \n.2 Não \nPleno:')
