@@ -4,7 +4,7 @@ import pytz
 import json
 
 
-ids = ['cenrique@pleno', 'carlos@pleno', 'rogerio@pleno', 'rodrigo@pleno']
+ids = ['henrique@pleno', 'carlos@pleno', 'rogerio@pleno', 'rodrigo@pleno']
 tz = pytz.timezone('America/Sao_Paulo')
 
 ### ↓ Estoque ↓ ###
@@ -51,7 +51,7 @@ def print_notes_evento():
 
 ### ↓ Escolhas ↓ ###
 def main():
-  escolha = input('\nO que você gostaria de fazer, escolha o número da ação: \n1. Retirar \n2. Retorno \n3. Checar estoque \n4. Sair \nPleno:')
+  escolha = input('\nO que você gostaria de fazer, escolha o número da ação: \n[1] Retirar \n[2] Retorno \n[3] Checar estoque \n[4] Sair \nPleno:')
  
   if escolha == "1":
    retirar()
@@ -99,7 +99,7 @@ def retirar():
    print("Notebook {} retirado com sucesso.".format(note_selecionado)
    )
    def confirmar_retirada():
-     confirmar = input('\nGostaria de retirar outro notebook? \n.1 Sim \n.2 Não \nPleno:')
+     confirmar = input('\nGostaria de retirar outro notebook? \n[1] Sim \n[2] Não \nPleno:')
      if confirmar == "1":
        retirar()
      elif confirmar == "2":
@@ -132,7 +132,7 @@ def retorno():
    print_notes_evento()
    print("Notebook {} retornado com sucesso.".format(note_selecionado))
    def confirmar_retorno():
-     confirmar = input('\nGostaria de retornar outro notebook? \n.1 Sim \n.2 Não \nPleno:')
+     confirmar = input('\nGostaria de retornar outro notebook? \n[1] Sim \n[2] Não \nPleno:')
      if confirmar == "1":
        retorno()
      elif confirmar == "2":
