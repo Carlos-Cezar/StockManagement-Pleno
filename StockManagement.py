@@ -128,6 +128,9 @@ def retirar():
        else:
          print("Número da ação inválido.")
      confirmar_retirada()
+   else:
+     print(colored("\nCódigo de barras escaneado inválido ou não está em estoque.", 'yellow'))
+     main()
      
  else:
    print("Código de barras escaneado inválido.")
@@ -165,6 +168,9 @@ def retorno():
          print("Número da ação inválido.")
          confirmar_retorno()
      confirmar_retorno()
+   else:
+     print(colored("\nCódigo de barras escaneado inválido ou não está em evento.", 'yellow'))
+     main()
  else:
    print("Código de barras escaneado inválido.")
    main()
