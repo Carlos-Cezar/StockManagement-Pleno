@@ -2,6 +2,13 @@ from getpass import getpass
 from datetime import datetime
 import pytz
 import json
+import os
+
+##clear command###
+def cls():
+    os.system('cls' if os.name=='nt' else 'clear')
+    
+cls()
 
 
 ids = ['henrique@pleno', 'carlos@pleno', 'rogerio@pleno', 'rodrigo@pleno']
@@ -66,6 +73,7 @@ def main():
    retorno()
  
   elif escolha == "3":
+    cls()
     print_notes_disponiveis()
     print_notes_evento()
     main()
@@ -74,6 +82,7 @@ def main():
     logs = open("logs.txt","a+")
     logs.write("\nID: {} | foi desconnectado às {} |".format(id, datetime.now(tz)))
     logs.close()
+    cls()
     print("Você foi desconectado com sucesso.")
     login()
  
@@ -86,8 +95,9 @@ def main():
 ### ↓ Funções ↓ ###
  
 def retirar():
+ cls()
  print_notes_disponiveis()
- codigo_escaneado = getpass("\nEscaneie o código de barras do notebook que você deseja retirar:")
+ codigo_escaneado = input("\nEscaneie o código de barras do notebook que você deseja retirar:")
  if codigo_escaneado in codigo_de_barras:
    note_selecionado = codigo_de_barras.get(codigo_escaneado)
    if note_selecionado in notes_disponiveis_dicionario:
@@ -102,6 +112,7 @@ def retirar():
        json.dump(notes_disponiveis_dicionario, f)
      with open("notes_evento_dicionario", 'w') as f:
        json.dump(notes_evento_dicionario, f)
+     cls()
      print_notes_disponiveis()
      print_notes_evento()
      print("Notebook {} retirado com sucesso.".format(note_selecionado))
@@ -111,6 +122,7 @@ def retirar():
          retirar()
        elif confirmar == "2":
          print("Ok, você será redirecionado para o inicio do programa.")
+         cls()
          main()
        else:
          print("Número da ação inválido.")
@@ -121,8 +133,9 @@ def retirar():
    main()
  
 def retorno():
+ cls()
  print_notes_evento()
- codigo_escaneado = getpass("\nEscaneie o código de barras do notebook que você deseja retornar:")
+ codigo_escaneado = input("\nEscaneie o código de barras do notebook que você deseja retornar:")
  if codigo_escaneado in codigo_de_barras:
    note_selecionado = codigo_de_barras.get(codigo_escaneado)
    if note_selecionado in notes_evento_dicionario:
@@ -135,6 +148,7 @@ def retorno():
      logs = open("logs.txt","a+")
      logs.write("\nID: {} |Retornou o notebook: {} | às {} |".format(id, note_selecionado, datetime.now(tz)))
      logs.close()
+     cls()
      print_notes_disponiveis()
      print_notes_evento()
      print("Notebook {} retornado com sucesso.".format(note_selecionado))
@@ -144,6 +158,7 @@ def retorno():
          retorno()
        elif confirmar == "2":
          print("Ok, você será redirecionado para o inicio do programa.")
+         cls()
          main()
        else:
          print("Número da ação inválido.")
