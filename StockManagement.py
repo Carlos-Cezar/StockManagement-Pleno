@@ -1,5 +1,6 @@
 from getpass import getpass
 from datetime import datetime
+from termcolor import colored
 import pytz
 import json
 import os
@@ -7,8 +8,8 @@ import os
 ##clear command###
 def cls():
     os.system('cls' if os.name=='nt' else 'clear')
-    
 cls()
+
 
 
 ids = ['henrique@pleno', 'carlos@pleno', 'rogerio@pleno', 'rodrigo@pleno']
@@ -51,21 +52,21 @@ def login():
 ### ↑ Login ↑ ###
 
 def print_notes_disponiveis():
-  print("\n↓ Notebooks no estoque ↓")
+  print(colored("\n↓ Notebooks no estoque ↓", 'green'))
   for key, value in notes_disponiveis_dicionario.items():
     print(key, ' : ', value)
-  print("↑ Notebooks no estoque ↑") 
+  print(colored("↑ Notebooks no estoque ↑", 'green')) 
 
 def print_notes_evento():
-  print("\n↓ Notebooks em eventos ↓")
+  print(colored("\n↓ Notebooks em eventos ↓", 'red'))
   for key, value in notes_evento_dicionario.items():
     print(key, ' : ', value)
-  print("↑ Notebooks em eventos ↑") 
+  print(colored("↑ Notebooks em eventos ↑", 'red')) 
 
 
 ### ↓ Escolhas ↓ ###
 def main():
-  escolha = input('\nO que você gostaria de fazer, escolha o número da ação: \n[1] Retirar \n[2] Retorno \n[3] Checar estoque \n[4] Sair \nPleno:')
+  escolha = input('\nO que você gostaria de fazer, escolha o número da ação:\n \n[1] Retirar \n[2] Retorno \n[3] Checar estoque \n[4] Sair \nPleno:')
  
   if escolha == "1":
    retirar()
@@ -97,7 +98,7 @@ def main():
 def retirar():
  cls()
  print_notes_disponiveis()
- codigo_escaneado = input("\nEscaneie o código de barras do notebook que você deseja retirar:")
+ codigo_escaneado = getpass("\nEscaneie o código de barras do notebook que você deseja retirar:")
  if codigo_escaneado in codigo_de_barras:
    note_selecionado = codigo_de_barras.get(codigo_escaneado)
    if note_selecionado in notes_disponiveis_dicionario:
@@ -115,7 +116,7 @@ def retirar():
      cls()
      print_notes_disponiveis()
      print_notes_evento()
-     print("Notebook {} retirado com sucesso.".format(note_selecionado))
+     print("\n{} retirado com sucesso.".format(note_selecionado))
      def confirmar_retirada():
        confirmar = input('\nGostaria de retirar outro notebook? \n[1] Sim \n[2] Não \nPleno:')
        if confirmar == "1":
@@ -135,7 +136,7 @@ def retirar():
 def retorno():
  cls()
  print_notes_evento()
- codigo_escaneado = input("\nEscaneie o código de barras do notebook que você deseja retornar:")
+ codigo_escaneado = getpass("\nEscaneie o código de barras do notebook que você deseja retornar:")
  if codigo_escaneado in codigo_de_barras:
    note_selecionado = codigo_de_barras.get(codigo_escaneado)
    if note_selecionado in notes_evento_dicionario:
@@ -151,7 +152,7 @@ def retorno():
      cls()
      print_notes_disponiveis()
      print_notes_evento()
-     print("Notebook {} retornado com sucesso.".format(note_selecionado))
+     print("\n{} retornado com sucesso.".format(note_selecionado))
      def confirmar_retorno():
        confirmar = input('\nGostaria de retornar outro notebook? \n[1] Sim \n[2] Não \nPleno:')
        if confirmar == "1":
