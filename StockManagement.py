@@ -46,7 +46,7 @@ def login():
    print("\nConectado com sucesso. ")
    main()
  else:
-   print("ID não está registrada.")
+   print(colored("ERROR: ID não está registrada.", 'yellow'))
    login()
  
 ### ↑ Login ↑ ###
@@ -192,7 +192,7 @@ def retorno():
          cls()
          main()
        else:
-         print("Número da ação inválido.")
+         print(colored("ERROR: Número da ação inválido.", 'yellow'))
          confirmar_retorno()
      confirmar_retorno()
    else:
