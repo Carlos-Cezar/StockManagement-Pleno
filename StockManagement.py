@@ -77,6 +77,7 @@ def main():
     cls()
     print_notes_disponiveis()
     print_notes_evento()
+    print(colored('Total de notes em eventos: ' + str(len(notes_evento_dicionario.keys())), 'red'))
     main()
  
   elif escolha == "4":
