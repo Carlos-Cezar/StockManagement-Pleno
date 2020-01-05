@@ -106,7 +106,7 @@ def retirar():
      evento = 'Evento: ' + input("Nome do evento:")
      data = 'Retorna: ' + input("Data de retorno:")
      logs = open("logs.txt","a+")
-     logs.write("\nID: {} |Retirou o notebook: {} | para o evento: {} | ás {} |".format(id, note_selecionado, evento, datetime.now(tz)))
+     logs.write("\nID: {} |Retirou o notebook: {} | para o {} | ás {} |".format(id, note_selecionado, evento, datetime.now(tz)))
      logs.close()
      notes_evento_dicionario[note_selecionado] = (evento, data)
      with open("notes_disponiveis_dicionario", 'w') as f:
