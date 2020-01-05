@@ -81,7 +81,7 @@ def main():
  
   elif escolha == "4":
     logs = open("logs.txt","a+")
-    logs.write("\nID: {} | foi desconnectado às {} |".format(id, datetime.now(tz)))
+    logs.write("\nID: {} | foi desconnectado ás {} |".format(id, datetime.now(tz)))
     logs.close()
     cls()
     print("Você foi desconectado com sucesso.")
@@ -106,7 +106,7 @@ def retirar():
      evento = input("Nome do evento:")
      data = input("Data de retorno:")
      logs = open("logs.txt","a+")
-     logs.write("\nID: {} |Retirou o notebook: {} | para o evento: {} | às {} |".format(id, note_selecionado, evento, datetime.now(tz)))
+     logs.write("\nID: {} |Retirou o notebook: {} | para o evento: {} | ás {} |".format(id, note_selecionado, evento, datetime.now(tz)))
      logs.close()
      notes_evento_dicionario[note_selecionado] = (evento, data)
      with open("notes_disponiveis_dicionario", 'w') as f:
