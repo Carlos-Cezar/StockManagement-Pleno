@@ -41,7 +41,7 @@ def login():
  id = getpass("Insira seu ID: ")
  if id in ids:
    logs = open("logs.txt","a+")
-   logs.write("\nID: {} | connectado às {} |".format(id,datetime.now(tz)))
+   logs.write("\nID: {} | connectado ás {} |".format(id,datetime.now(tz)))
    logs.close()
    print("\nConectado com sucesso. ")
    main()
