@@ -61,7 +61,8 @@ def print_notes_evento():
   print(colored("\n↓ Notebooks em eventos ↓", 'red'))
   for key, value in notes_evento_dicionario.items():
     print(key, ': ', value)
-  print(colored("↑ Notebooks em eventos ↑", 'red')) 
+  print(colored("↑ Notebooks em eventos ↑", 'red'))
+  print(colored('Total de notes em eventos: ' + str(len(notes_evento_dicionario.keys())), 'red')) 
 
 
 ### ↓ Escolhas ↓ ###
@@ -77,12 +78,11 @@ def main():
     cls()
     print_notes_disponiveis()
     print_notes_evento()
-    print(colored('Total de notes em eventos: ' + str(len(notes_evento_dicionario.keys())), 'red'))
     main()
  
   elif escolha == "4":
     logs = open("logs.txt","a+")
-    logs.write("\nID: {} | foi desconnectado ás {} |".format(id, datetime.now(tz)))
+    logs.write("\nID: {} | foi desconnectado às {} |".format(id, datetime.now(tz)))
     logs.close()
     cls()
     print("Você foi desconectado com sucesso.")
@@ -93,7 +93,7 @@ def main():
     main()
 
 ### ↑ Escolhas ↑ ###
- 
+
 ### ↓ Funções ↓ ###
  
 def retirar():
@@ -119,22 +119,48 @@ def retirar():
      print_notes_evento()
      print("\n{} retirado com sucesso.".format(note_selecionado))
      def confirmar_retirada():
-       confirmar = input('\nGostaria de retirar outro notebook? \n[1] Sim \n[2] Não \nPleno:')
+       confirmar = input('\nGostaria de retirar outro notebook? \n[1] Mesmo evento \n[2] Diferente evento \n[3] Não \nPleno:')
        if confirmar == "1":
-         retirar()
+         cls()
+         print_notes_disponiveis()
+         codigo_escaneado = getpass("\nEscaneie o código de barras do notebook que você deseja retirar:")
+         if codigo_escaneado in codigo_de_barras:
+           note_selecionado = codigo_de_barras.get(codigo_escaneado)
+           if note_selecionado in notes_disponiveis_dicionario:
+             notes_disponiveis_dicionario.pop(note_selecionado)
+             logs = open("logs.txt","a+")
+             logs.write("\nID: {} |Retirou o notebook: {} | para o {} | ás {} |".format(id, note_selecionado, evento, datetime.now(tz)))
+             logs.close()
+             notes_evento_dicionario[note_selecionado] = (evento, data)
+             with open("notes_disponiveis_dicionario", 'w') as f:
+               json.dump(notes_disponiveis_dicionario, f)
+             with open("notes_evento_dicionario", 'w') as f:
+               json.dump(notes_evento_dicionario, f)
+             cls()
+             print_notes_disponiveis()
+             print_notes_evento()
+             print("\n{} retirado com sucesso.".format(note_selecionado))
+             confirmar_retirada()
+         else:
+           print(colored("\nERROR: Código de barras escaneado inválido.", 'yellow'))
+           confirmar_retirada()
        elif confirmar == "2":
+         cls()
+         retirar()
+       elif confirmar == "3":
          print("Ok, você será redirecionado para o inicio do programa.")
          cls()
          main()
        else:
-         print("Número da ação inválido.")
+         print(colored("\nERROR: Número da ação inválido.", 'yellow'))
+         confirmar_retirada()
      confirmar_retirada()
    else:
-     print(colored("\nCódigo de barras escaneado inválido ou não está em estoque.", 'yellow'))
+     print(colored("\nERROR: Código de barras escaneado inválido ou não está em estoque.", 'yellow'))
      main()
      
  else:
-   print("Código de barras escaneado inválido.")
+   print(colored("\n ERROR: Código de barras escaneado inválido ou não está em estoque.", 'yellow'))
    main()
  
 def retorno():
@@ -151,7 +177,7 @@ def retorno():
      with open("notes_disponiveis_dicionario", 'w') as f:
        json.dump(notes_disponiveis_dicionario, f)
      logs = open("logs.txt","a+")
-     logs.write("\nID: {} |Retornou o notebook: {} | às {} |".format(id, note_selecionado, datetime.now(tz)))
+     logs.write("\nID: {} |Retornou o notebook: {} | ás {} |".format(id, note_selecionado, datetime.now(tz)))
      logs.close()
      cls()
      print_notes_disponiveis()
@@ -170,10 +196,10 @@ def retorno():
          confirmar_retorno()
      confirmar_retorno()
    else:
-     print(colored("\nCódigo de barras escaneado inválido ou não está em evento.", 'yellow'))
+     print(colored("\nERROR: Código de barras escaneado inválido ou não está em evento.", 'yellow'))
      main()
  else:
-   print("Código de barras escaneado inválido.")
+   print(colored("\nERROR: Código de barras escaneado inválido ou não está em estoque.", 'yellow'))
    main()
  
 ### ↑ Funções ↑ ###
