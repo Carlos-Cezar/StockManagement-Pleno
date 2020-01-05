@@ -54,13 +54,13 @@ def login():
 def print_notes_disponiveis():
   print(colored("\n↓ Notebooks no estoque ↓", 'green'))
   for key, value in notes_disponiveis_dicionario.items():
-    print(key, ' : ', value)
+    print(key, ': ', value)
   print(colored("↑ Notebooks no estoque ↑", 'green')) 
 
 def print_notes_evento():
   print(colored("\n↓ Notebooks em eventos ↓", 'red'))
   for key, value in notes_evento_dicionario.items():
-    print(key, ' : ', value)
+    print(key, ': ', value)
   print(colored("↑ Notebooks em eventos ↑", 'red')) 
 
 
