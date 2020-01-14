@@ -29,6 +29,79 @@ with open('codigo_de_barras_f/codigo_de_barras', 'r') as f:
 
 ### ↑ Estoque Notebooks ↑ ###
 
+
+### ↓ Estoque Controladora ↓ ###
+
+with open('disponiveis/controladora_disponiveis_dicionario', 'r') as f:
+    controladora_disponiveis_dicionario = json.load(f)
+
+with open('eventos/controladora_evento_dicionario', 'r') as f:
+    controladora_evento_dicionario = json.load(f)
+
+with open('codigo_de_barras_f/codigo_de_barras_controladora', 'r') as f:
+    codigo_de_barras_controladora = json.load(f)
+
+### ↑ Estoque Controladora ↑ ###
+
+
+### ↓ Estoque LED 3.9 ↓ ###
+
+with open('disponiveis/led39_disponiveis_dicionario', 'r') as f:
+    led39_disponiveis_dicionario = json.load(f)
+
+with open('eventos/led39_evento_dicionario', 'r') as f:
+    led39_evento_dicionario = json.load(f)
+
+with open('codigo_de_barras_f/codigo_de_barras_led39', 'r') as f:
+    codigo_de_barras_led39 = json.load(f)
+
+### ↑ Estoque LED 3.9 ↑ ###
+
+
+### ↓ Estoque LED 3.0 ↓ ###
+
+with open('disponiveis/led30_disponiveis_dicionario', 'r') as f:
+    led30_disponiveis_dicionario = json.load(f)
+
+with open('eventos/led30_evento_dicionario', 'r') as f:
+    led30_evento_dicionario = json.load(f)
+
+with open('codigo_de_barras_f/codigo_de_barras_led30', 'r') as f:
+    codigo_de_barras_led30 = json.load(f)
+
+### ↑ Estoque LED 3.0 ↑ ###
+
+
+### ↓ Estoque LED 2.9 ↓ ###
+
+with open('disponiveis/led29_disponiveis_dicionario', 'r') as f:
+    led29_disponiveis_dicionario = json.load(f)
+
+with open('eventos/led29_evento_dicionario', 'r') as f:
+    led29_evento_dicionario = json.load(f)
+
+with open('codigo_de_barras_f/codigo_de_barras_led29', 'r') as f:
+    codigo_de_barras_led29 = json.load(f)
+
+### ↑ Estoque LED 2.9 ↑ ###
+
+
+### ↓ Estoque LED 2.6 ↓ ###
+
+with open('disponiveis/led26_disponiveis_dicionario', 'r') as f:
+    led26_disponiveis_dicionario = json.load(f)
+
+with open('eventos/led26_evento_dicionario', 'r') as f:
+    led26_evento_dicionario = json.load(f)
+
+with open('codigo_de_barras_f/codigo_de_barras_led26', 'r') as f:
+    codigo_de_barras_led26 = json.load(f)
+
+### ↑ Estoque LED 2.6 ↑ ###
+
+
+
+
 ### ↓ Estoque TV 42 ↓ ###
 
 with open('disponiveis/tv42_disponiveis_dicionario', 'r') as f:
@@ -262,6 +335,113 @@ def print_notes_evento():
 
 
 ### ↑ PRINT NOTES ↑ ###
+
+
+
+### ↓ PRINT CONTROLADORA ↓ ###
+
+def print_controladora_disponiveis():
+    print(colored("\n↓ Controladoras no estoque ↓", 'green'))
+    for key, value in controladora_disponiveis_dicionario.items():
+        print(key, ': ', value)
+    print(colored("↑ Controladoras no estoque ↑", 'green'))
+    print(colored('Total de Controladoras\" em estoque: ' + str(len(controladora_disponiveis_dicionario.keys())), 'green'))
+
+
+def print_controladora_evento():
+    print(colored("\n↓ Controladoras\" em eventos ↓", 'red'))
+    for key, value in controladora_evento_dicionario.items():
+        print(key, ': ', value)
+    print(colored("↑ Controladoras em eventos ↑", 'red'))
+    print(colored('Total de Controladoras\" em eventos: ' + str(len(controladora_evento_dicionario.keys())), 'red'))
+
+
+### ↑ PRINT CONTROLADORA ↑ ###
+
+### ↓ PRINT LED 3.9 ↓ ###
+
+def print_led39_disponiveis():
+    print(colored("\n↓ LED's 3.9\" no estoque ↓", 'green'))
+    for key, value in led39_disponiveis_dicionario.items():
+        print(key, ': ', value)
+    print(colored("↑ LED's 3.9\" no estoque ↑", 'green'))
+    print(colored('Total de LED\'s 3.9\" em estoque: ' + str(len(led39_disponiveis_dicionario.keys())), 'green'))
+
+
+def print_led39_evento():
+    print(colored("\n↓ LED's 3.9\" em eventos ↓", 'red'))
+    for key, value in led39_evento_dicionario.items():
+        print(key, ': ', value)
+    print(colored("↑ LED's 3.9\" em eventos ↑", 'red'))
+    print(colored('Total de LED\'s 3.9\" em eventos: ' + str(len(led39_evento_dicionario.keys())), 'red'))
+
+
+### ↑ PRINT LED 3.9 ↑ ###
+
+
+### ↓ PRINT LED 3.0 ↓ ###
+
+def print_led30_disponiveis():
+    print(colored("\n↓ LED's 3.0\" no estoque ↓", 'green'))
+    for key, value in led30_disponiveis_dicionario.items():
+        print(key, ': ', value)
+    print(colored("↑ LED's 3.0\" no estoque ↑", 'green'))
+    print(colored('Total de LED\'s 3.0\" em estoque: ' + str(len(led30_disponiveis_dicionario.keys())), 'green'))
+
+
+def print_led30_evento():
+    print(colored("\n↓ LED's 3.0\" em eventos ↓", 'red'))
+    for key, value in led30_evento_dicionario.items():
+        print(key, ': ', value)
+    print(colored("↑ LED's 3.0\" em eventos ↑", 'red'))
+    print(colored('Total de LED\'s 3.0\" em eventos: ' + str(len(led30_evento_dicionario.keys())), 'red'))
+
+
+### ↑ PRINT LED 3.0 ↑ ###
+
+
+### ↓ PRINT LED 2.9 ↓ ###
+
+def print_led29_disponiveis():
+    print(colored("\n↓ LED's 2.9\" no estoque ↓", 'green'))
+    for key, value in led29_disponiveis_dicionario.items():
+        print(key, ': ', value)
+    print(colored("↑ LED's 2.9\" no estoque ↑", 'green'))
+    print(colored('Total de LED\'s 2.9\" em estoque: ' + str(len(led29_disponiveis_dicionario.keys())), 'green'))
+
+
+def print_led29_evento():
+    print(colored("\n↓ LED's 2.9\" em eventos ↓", 'red'))
+    for key, value in led29_evento_dicionario.items():
+        print(key, ': ', value)
+    print(colored("↑ LED's 2.9\" em eventos ↑", 'red'))
+    print(colored('Total de LED\'s 2.9\" em eventos: ' + str(len(led29_evento_dicionario.keys())), 'red'))
+
+
+### ↑ PRINT LED 2.9 ↑ ###
+
+
+### ↓ PRINT LED 2.6 ↓ ###
+
+def print_led26_disponiveis():
+    print(colored("\n↓ LED's 2.6\" no estoque ↓", 'green'))
+    for key, value in led26_disponiveis_dicionario.items():
+        print(key, ': ', value)
+    print(colored("↑ LED's 2.6\" no estoque ↑", 'green'))
+    print(colored('Total de LED\'s 2.6\" em estoque: ' + str(len(led26_disponiveis_dicionario.keys())), 'green'))
+
+
+def print_led26_evento():
+    print(colored("\n↓ LED's 2.6\" em eventos ↓", 'red'))
+    for key, value in led26_evento_dicionario.items():
+        print(key, ': ', value)
+    print(colored("↑ LED's 2.6\" em eventos ↑", 'red'))
+    print(colored('Total de LED\'s 2.6\" em eventos: ' + str(len(led26_evento_dicionario.keys())), 'red'))
+
+
+### ↑ PRINT LED 2.6 ↑ ###
+
+
 
 ### ↓ PRINT TV42 ↓ ###
 
@@ -555,7 +735,7 @@ def print_vw55_evento():
 
 def menu():
     escolha = input(
-        '\nQual estoque você gostaria de acessar, escolha o número da ação:\n \n[1] Notebooks \n[2] TV\'s \n[3] Leds \n[9] Sair \nPleno:')
+        '\nQual estoque você gostaria de acessar, escolha o número da ação:\n \n[1] Notebooks \n[2] TV\'s \n[3] Leds \n[4] Controladoras \n[9] Sair \nPleno:')
     if escolha == "1":
         cls()
         print("\nRedirecionado para o estoque de notebooks.")
@@ -610,8 +790,26 @@ def menu():
             print(colored("ERROR: Opção inválida.", 'yellow'))
             menu()
     elif escolha == "3":
-        print("Woking on it")
-        menu()
+        cls()
+        modelo_led = input("Qual LED você gostaria?\n  \n[1] LED 2.6 \n[2] LED 2.9 \n[3] LED 3.0 \n[4] LED 3.9 \nPleno: ")
+        if modelo_led == "1":
+            print("\nRedirecionado para o estoque de LED\'s 2.6\".")
+            led26()
+        elif modelo_led == "2":
+            print("\nRedirecionado para o estoque de LED\'s 2.9\".")
+            led29()
+        elif modelo_led == "3":
+            print("\nRedirecionado para o estoque de LED\'s 3.0\".")
+            led30()
+        elif modelo_led == "4":
+            print("\nRedirecionado para o estoque de LED\'s 3.9\".")
+            led39()
+        else:
+            print(colored("ERROR: Opção inválida.", 'yellow'))
+            menu()
+    elif escolha == "4":
+        print("\nRedirecionado para o estoque de notebooks.")
+        controladora()
     elif escolha == "9":
         logs = open("logs.txt", "a+")
         logs.write("\nID: {} | foi desconnectado às {} |".format(id, datetime.now(tz)))
@@ -625,6 +823,164 @@ def menu():
 
 
 ### Menu Principal ###
+
+
+
+### ↓ Escolhas Controladora ↓ ###
+def controladora():
+    escolha = input(
+        '\nControladora: O que você gostaria de fazer, escolha o número da ação:\n \n[1] Retirar \n[2] Retorno \n[3] Checar estoque \n[4] Menu Principal \n[9] Sair \nPleno:')
+
+    if escolha == "1":
+        retirar_controladora()
+    elif escolha == "2":
+        retorno_controladora()
+
+    elif escolha == "3":
+        cls()
+        print_controladora_disponiveis()
+        print_controladora_evento()
+        controladora()
+
+    elif escolha == "4":
+        cls()
+        print('Redirecionado para o menu principal.')
+        menu()
+
+    elif escolha == "9":
+        logs = open("logs.txt", "a+")
+        logs.write("\nID: {} | foi desconnectado às {} |".format(id, datetime.now(tz)))
+        logs.close()
+        cls()
+        print("Você foi desconectado com sucesso.")
+        login()
+
+    else:
+        print(colored('Error: Opção inválida', 'yellow'))
+        controladora()
+
+
+### ↑ Escolhas Controladora ↑ ###
+### ↓ Funções Controladora ↓ ###
+
+def retirar_controladora():
+    cls()
+    print_controladora_disponiveis()
+    codigo_escaneado = getpass("\nEscaneie o código de barras que você deseja retirar:")
+    if codigo_escaneado in codigo_de_barras_controladora:
+        note_selecionado = codigo_de_barras_controladora.get(codigo_escaneado)
+        if note_selecionado in controladora_disponiveis_dicionario:
+            controladora_disponiveis_dicionario.pop(note_selecionado)
+            evento = 'Evento: ' + input("Nome do evento:")
+            data = 'Retorna: ' + input("Data de retorno:")
+            logs = open("logs.txt", "a+")
+            logs.write("\nID: {} |Retirou Controladora\": {} | para o {} | ás {} |".format(id, note_selecionado, evento,
+                                                                                    datetime.now(tz)))
+            logs.close()
+            controladora_evento_dicionario[note_selecionado] = (evento, data)
+            with open("controladora_disponiveis_dicionario", 'w') as f:
+                json.dump(controladora_disponiveis_dicionario, f)
+            with open("controladora_evento_dicionario", 'w') as f:
+                json.dump(controladora_evento_dicionario, f)
+            cls()
+            print_controladora_disponiveis()
+            print_controladora_evento()
+            print("\n{} retirado com sucesso.".format(note_selecionado))
+
+            def confirmar_retirada():
+                confirmar = input(
+                    '\nGostaria de retirar outra Controladora\"? \n[1] Mesmo evento \n[2] Diferente evento \n[3] Não \nPleno:')
+                if confirmar == "1":
+                    cls()
+                    print_controladora_disponiveis()
+                    codigo_escaneado = getpass("\nEscaneie o código de barras que você deseja retirar:")
+                    if codigo_escaneado in codigo_de_barras_controladora:
+                        note_selecionado = codigo_de_barras_controladora.get(codigo_escaneado)
+                        if note_selecionado in controladora_disponiveis_dicionario:
+                            controladora_disponiveis_dicionario.pop(note_selecionado)
+                            logs = open("logs.txt", "a+")
+                            logs.write(
+                                "\nID: {} |Retirou Controladora\": {} | para o {} | ás {} |".format(id, note_selecionado,
+                                                                                             evento, datetime.now(tz)))
+                            logs.close()
+                            controladora_evento_dicionario[note_selecionado] = (evento, data)
+                            with open("controladora_disponiveis_dicionario", 'w') as f:
+                                json.dump(controladora_disponiveis_dicionario, f)
+                            with open("controladora_evento_dicionario", 'w') as f:
+                                json.dump(controladora_evento_dicionario, f)
+                            cls()
+                            print_controladora_disponiveis()
+                            print_controladora_evento()
+                            print("\n{} retirado com sucesso.".format(note_selecionado))
+                            confirmar_retirada()
+                    else:
+                        print(colored("\nERROR: Código de barras escaneado inválido.", 'yellow'))
+                        confirmar_retirada()
+                elif confirmar == "2":
+                    cls()
+                    retirar_controladora()
+                elif confirmar == "3":
+                    print("Ok, você será redirecionado para o inicio do programa.")
+                    cls()
+                    controladora()
+                else:
+                    print(colored("\nERROR: Número da ação inválido.", 'yellow'))
+                    confirmar_retirada()
+
+            confirmar_retirada()
+        else:
+            print(colored("\nERROR: Código de barras escaneado inválido ou não está em estoque.", 'yellow'))
+            controladora()
+
+    else:
+        print(colored("\n ERROR: Código de barras escaneado inválido ou não está em estoque.", 'yellow'))
+        controladora()
+
+
+def retorno_controladora():
+    cls()
+    print_controladora_evento()
+    codigo_escaneado = getpass("\nEscaneie o código de barras que você deseja retornar:")
+    if codigo_escaneado in codigo_de_barras_controladora:
+        note_selecionado = codigo_de_barras_controladora.get(codigo_escaneado)
+        if note_selecionado in controladora_evento_dicionario:
+            controladora_evento_dicionario.pop(note_selecionado)
+            controladora_disponiveis_dicionario[note_selecionado] = 'Em estoque.'
+            with open("controladora_evento_dicionario", 'w') as f:
+                json.dump(controladora_evento_dicionario, f)
+            with open("controladora_disponiveis_dicionario", 'w') as f:
+                json.dump(controladora_disponiveis_dicionario, f)
+            logs = open("logs.txt", "a+")
+            logs.write("\nID: {} |Retornou Controladora\": {} | ás {} |".format(id, note_selecionado, datetime.now(tz)))
+            logs.close()
+            cls()
+            print_controladora_disponiveis()
+            print_controladora_evento()
+            print("\n{} retornado com sucesso.".format(note_selecionado))
+
+            def confirmar_retorno():
+                confirmar = input('\nGostaria de retornar outra Controladora\"? \n[1] Sim \n[2] Não \nPleno:')
+                if confirmar == "1":
+                    retorno_controladora()
+                elif confirmar == "2":
+                    print("Ok, você será redirecionado para o inicio do programa.")
+                    cls()
+                    menu()
+                else:
+                    print(colored("ERROR: Número da ação inválido.", 'yellow'))
+                    confirmar_retorno()
+
+            confirmar_retorno()
+        else:
+            print(colored("\nERROR: Código de barras escaneado inválido ou não está em evento.", 'yellow'))
+            controladora()
+    else:
+        print(colored("\nERROR: Código de barras escaneado inválido ou não está em estoque.", 'yellow'))
+        controladora()
+
+
+### ↑ Funções Controladora ↑ ###
+
 
 ### ↓ Escolhas TV 49 ↓ ###
 def tv49():
@@ -780,6 +1136,630 @@ def retorno_tv49():
 
 
 ### ↑ Funções TV 49 ↑ ###
+
+
+### ↓ Escolhas LED 29 ↓ ###
+def led29():
+    escolha = input(
+        '\nLED 29: O que você gostaria de fazer, escolha o número da ação:\n \n[1] Retirar \n[2] Retorno \n[3] Checar estoque \n[4] Menu Principal \n[9] Sair \nPleno:')
+
+    if escolha == "1":
+        retirar_led29()
+    elif escolha == "2":
+        retorno_led29()
+
+    elif escolha == "3":
+        cls()
+        print_led29_disponiveis()
+        print_led29_evento()
+        led29()
+
+    elif escolha == "4":
+        cls()
+        print('Redirecionado para o menu principal.')
+        menu()
+
+    elif escolha == "9":
+        logs = open("logs.txt", "a+")
+        logs.write("\nID: {} | foi desconnectado às {} |".format(id, datetime.now(tz)))
+        logs.close()
+        cls()
+        print("Você foi desconectado com sucesso.")
+        login()
+
+    else:
+        print(colored('Error: Opção inválida', 'yellow'))
+        led29()
+
+
+### ↑ Escolhas LED 29 ↑ ###
+### ↓ Funções LED 29 ↓ ###
+
+def retirar_led29():
+    cls()
+    print_led29_disponiveis()
+    codigo_escaneado = getpass("\nEscaneie o código de barras que você deseja retirar:")
+    if codigo_escaneado in codigo_de_barras_led29:
+        note_selecionado = codigo_de_barras_led29.get(codigo_escaneado)
+        if note_selecionado in led29_disponiveis_dicionario:
+            led29_disponiveis_dicionario.pop(note_selecionado)
+            evento = 'Evento: ' + input("Nome do evento:")
+            data = 'Retorna: ' + input("Data de retorno:")
+            logs = open("logs.txt", "a+")
+            logs.write("\nID: {} |Retirou LED 29\": {} | para o {} | ás {} |".format(id, note_selecionado, evento,
+                                                                                    datetime.now(tz)))
+            logs.close()
+            led29_evento_dicionario[note_selecionado] = (evento, data)
+            with open("led29_disponiveis_dicionario", 'w') as f:
+                json.dump(led29_disponiveis_dicionario, f)
+            with open("led29_evento_dicionario", 'w') as f:
+                json.dump(led29_evento_dicionario, f)
+            cls()
+            print_led29_disponiveis()
+            print_led29_evento()
+            print("\n{} retirado com sucesso.".format(note_selecionado))
+
+            def confirmar_retirada():
+                confirmar = input(
+                    '\nGostaria de retirar outra LED 29\"? \n[1] Mesmo evento \n[2] Diferente evento \n[3] Não \nPleno:')
+                if confirmar == "1":
+                    cls()
+                    print_led29_disponiveis()
+                    codigo_escaneado = getpass("\nEscaneie o código de barras que você deseja retirar:")
+                    if codigo_escaneado in codigo_de_barras_led29:
+                        note_selecionado = codigo_de_barras_led29.get(codigo_escaneado)
+                        if note_selecionado in led29_disponiveis_dicionario:
+                            led29_disponiveis_dicionario.pop(note_selecionado)
+                            logs = open("logs.txt", "a+")
+                            logs.write(
+                                "\nID: {} |Retirou LED 29\": {} | para o {} | ás {} |".format(id, note_selecionado,
+                                                                                             evento, datetime.now(tz)))
+                            logs.close()
+                            led29_evento_dicionario[note_selecionado] = (evento, data)
+                            with open("led29_disponiveis_dicionario", 'w') as f:
+                                json.dump(led29_disponiveis_dicionario, f)
+                            with open("led29_evento_dicionario", 'w') as f:
+                                json.dump(led29_evento_dicionario, f)
+                            cls()
+                            print_led29_disponiveis()
+                            print_led29_evento()
+                            print("\n{} retirado com sucesso.".format(note_selecionado))
+                            confirmar_retirada()
+                    else:
+                        print(colored("\nERROR: Código de barras escaneado inválido.", 'yellow'))
+                        confirmar_retirada()
+                elif confirmar == "2":
+                    cls()
+                    retirar_led29()
+                elif confirmar == "3":
+                    print("Ok, você será redirecionado para o inicio do programa.")
+                    cls()
+                    led29()
+                else:
+                    print(colored("\nERROR: Número da ação inválido.", 'yellow'))
+                    confirmar_retirada()
+
+            confirmar_retirada()
+        else:
+            print(colored("\nERROR: Código de barras escaneado inválido ou não está em estoque.", 'yellow'))
+            led29()
+
+    else:
+        print(colored("\n ERROR: Código de barras escaneado inválido ou não está em estoque.", 'yellow'))
+        led29()
+
+
+def retorno_led29():
+    cls()
+    print_led29_evento()
+    codigo_escaneado = getpass("\nEscaneie o código de barras que você deseja retornar:")
+    if codigo_escaneado in codigo_de_barras_led29:
+        note_selecionado = codigo_de_barras_led29.get(codigo_escaneado)
+        if note_selecionado in led29_evento_dicionario:
+            led29_evento_dicionario.pop(note_selecionado)
+            led29_disponiveis_dicionario[note_selecionado] = 'Em estoque.'
+            with open("led29_evento_dicionario", 'w') as f:
+                json.dump(led29_evento_dicionario, f)
+            with open("led29_disponiveis_dicionario", 'w') as f:
+                json.dump(led29_disponiveis_dicionario, f)
+            logs = open("logs.txt", "a+")
+            logs.write("\nID: {} |Retornou LED 29\": {} | ás {} |".format(id, note_selecionado, datetime.now(tz)))
+            logs.close()
+            cls()
+            print_led29_disponiveis()
+            print_led29_evento()
+            print("\n{} retornado com sucesso.".format(note_selecionado))
+
+            def confirmar_retorno():
+                confirmar = input('\nGostaria de retornar outra LED 29\"? \n[1] Sim \n[2] Não \nPleno:')
+                if confirmar == "1":
+                    retorno_led29()
+                elif confirmar == "2":
+                    print("Ok, você será redirecionado para o inicio do programa.")
+                    cls()
+                    menu()
+                else:
+                    print(colored("ERROR: Número da ação inválido.", 'yellow'))
+                    confirmar_retorno()
+
+            confirmar_retorno()
+        else:
+            print(colored("\nERROR: Código de barras escaneado inválido ou não está em evento.", 'yellow'))
+            led29()
+    else:
+        print(colored("\nERROR: Código de barras escaneado inválido ou não está em estoque.", 'yellow'))
+        led29()
+
+
+### ↑ Funções LED 29 ↑ ###
+
+
+### ↓ Escolhas LED 30 ↓ ###
+def led30():
+    escolha = input(
+        '\nLED 30: O que você gostaria de fazer, escolha o número da ação:\n \n[1] Retirar \n[2] Retorno \n[3] Checar estoque \n[4] Menu Principal \n[9] Sair \nPleno:')
+
+    if escolha == "1":
+        retirar_led30()
+    elif escolha == "2":
+        retorno_led30()
+
+    elif escolha == "3":
+        cls()
+        print_led30_disponiveis()
+        print_led30_evento()
+        led30()
+
+    elif escolha == "4":
+        cls()
+        print('Redirecionado para o menu principal.')
+        menu()
+
+    elif escolha == "9":
+        logs = open("logs.txt", "a+")
+        logs.write("\nID: {} | foi desconnectado às {} |".format(id, datetime.now(tz)))
+        logs.close()
+        cls()
+        print("Você foi desconectado com sucesso.")
+        login()
+
+    else:
+        print(colored('Error: Opção inválida', 'yellow'))
+        led30()
+
+
+### ↑ Escolhas LED 30 ↑ ###
+### ↓ Funções LED 30 ↓ ###
+
+def retirar_led30():
+    cls()
+    print_led30_disponiveis()
+    codigo_escaneado = getpass("\nEscaneie o código de barras que você deseja retirar:")
+    if codigo_escaneado in codigo_de_barras_led30:
+        note_selecionado = codigo_de_barras_led30.get(codigo_escaneado)
+        if note_selecionado in led30_disponiveis_dicionario:
+            led30_disponiveis_dicionario.pop(note_selecionado)
+            evento = 'Evento: ' + input("Nome do evento:")
+            data = 'Retorna: ' + input("Data de retorno:")
+            logs = open("logs.txt", "a+")
+            logs.write("\nID: {} |Retirou LED 30\": {} | para o {} | ás {} |".format(id, note_selecionado, evento,
+                                                                                    datetime.now(tz)))
+            logs.close()
+            led30_evento_dicionario[note_selecionado] = (evento, data)
+            with open("led30_disponiveis_dicionario", 'w') as f:
+                json.dump(led30_disponiveis_dicionario, f)
+            with open("led30_evento_dicionario", 'w') as f:
+                json.dump(led30_evento_dicionario, f)
+            cls()
+            print_led30_disponiveis()
+            print_led30_evento()
+            print("\n{} retirado com sucesso.".format(note_selecionado))
+
+            def confirmar_retirada():
+                confirmar = input(
+                    '\nGostaria de retirar outra LED 30\"? \n[1] Mesmo evento \n[2] Diferente evento \n[3] Não \nPleno:')
+                if confirmar == "1":
+                    cls()
+                    print_led30_disponiveis()
+                    codigo_escaneado = getpass("\nEscaneie o código de barras que você deseja retirar:")
+                    if codigo_escaneado in codigo_de_barras_led30:
+                        note_selecionado = codigo_de_barras_led30.get(codigo_escaneado)
+                        if note_selecionado in led30_disponiveis_dicionario:
+                            led30_disponiveis_dicionario.pop(note_selecionado)
+                            logs = open("logs.txt", "a+")
+                            logs.write(
+                                "\nID: {} |Retirou LED 30\": {} | para o {} | ás {} |".format(id, note_selecionado,
+                                                                                             evento, datetime.now(tz)))
+                            logs.close()
+                            led30_evento_dicionario[note_selecionado] = (evento, data)
+                            with open("led30_disponiveis_dicionario", 'w') as f:
+                                json.dump(led30_disponiveis_dicionario, f)
+                            with open("led30_evento_dicionario", 'w') as f:
+                                json.dump(led30_evento_dicionario, f)
+                            cls()
+                            print_led30_disponiveis()
+                            print_led30_evento()
+                            print("\n{} retirado com sucesso.".format(note_selecionado))
+                            confirmar_retirada()
+                    else:
+                        print(colored("\nERROR: Código de barras escaneado inválido.", 'yellow'))
+                        confirmar_retirada()
+                elif confirmar == "2":
+                    cls()
+                    retirar_led30()
+                elif confirmar == "3":
+                    print("Ok, você será redirecionado para o inicio do programa.")
+                    cls()
+                    led30()
+                else:
+                    print(colored("\nERROR: Número da ação inválido.", 'yellow'))
+                    confirmar_retirada()
+
+            confirmar_retirada()
+        else:
+            print(colored("\nERROR: Código de barras escaneado inválido ou não está em estoque.", 'yellow'))
+            led30()
+
+    else:
+        print(colored("\n ERROR: Código de barras escaneado inválido ou não está em estoque.", 'yellow'))
+        led30()
+
+
+def retorno_led30():
+    cls()
+    print_led30_evento()
+    codigo_escaneado = getpass("\nEscaneie o código de barras que você deseja retornar:")
+    if codigo_escaneado in codigo_de_barras_led30:
+        note_selecionado = codigo_de_barras_led30.get(codigo_escaneado)
+        if note_selecionado in led30_evento_dicionario:
+            led30_evento_dicionario.pop(note_selecionado)
+            led30_disponiveis_dicionario[note_selecionado] = 'Em estoque.'
+            with open("led30_evento_dicionario", 'w') as f:
+                json.dump(led30_evento_dicionario, f)
+            with open("led30_disponiveis_dicionario", 'w') as f:
+                json.dump(led30_disponiveis_dicionario, f)
+            logs = open("logs.txt", "a+")
+            logs.write("\nID: {} |Retornou LED 30\": {} | ás {} |".format(id, note_selecionado, datetime.now(tz)))
+            logs.close()
+            cls()
+            print_led30_disponiveis()
+            print_led30_evento()
+            print("\n{} retornado com sucesso.".format(note_selecionado))
+
+            def confirmar_retorno():
+                confirmar = input('\nGostaria de retornar outra LED 30\"? \n[1] Sim \n[2] Não \nPleno:')
+                if confirmar == "1":
+                    retorno_led30()
+                elif confirmar == "2":
+                    print("Ok, você será redirecionado para o inicio do programa.")
+                    cls()
+                    menu()
+                else:
+                    print(colored("ERROR: Número da ação inválido.", 'yellow'))
+                    confirmar_retorno()
+
+            confirmar_retorno()
+        else:
+            print(colored("\nERROR: Código de barras escaneado inválido ou não está em evento.", 'yellow'))
+            led30()
+    else:
+        print(colored("\nERROR: Código de barras escaneado inválido ou não está em estoque.", 'yellow'))
+        led30()
+
+
+### ↑ Funções LED 30 ↑ ###
+
+
+### ↓ Escolhas LED 39 ↓ ###
+def led39():
+    escolha = input(
+        '\nLED 39: O que você gostaria de fazer, escolha o número da ação:\n \n[1] Retirar \n[2] Retorno \n[3] Checar estoque \n[4] Menu Principal \n[9] Sair \nPleno:')
+
+    if escolha == "1":
+        retirar_led39()
+    elif escolha == "2":
+        retorno_led39()
+
+    elif escolha == "3":
+        cls()
+        print_led39_disponiveis()
+        print_led39_evento()
+        led39()
+
+    elif escolha == "4":
+        cls()
+        print('Redirecionado para o menu principal.')
+        menu()
+
+    elif escolha == "9":
+        logs = open("logs.txt", "a+")
+        logs.write("\nID: {} | foi desconnectado às {} |".format(id, datetime.now(tz)))
+        logs.close()
+        cls()
+        print("Você foi desconectado com sucesso.")
+        login()
+
+    else:
+        print(colored('Error: Opção inválida', 'yellow'))
+        led39()
+
+
+### ↑ Escolhas LED 39 ↑ ###
+### ↓ Funções LED 39 ↓ ###
+
+def retirar_led39():
+    cls()
+    print_led39_disponiveis()
+    codigo_escaneado = getpass("\nEscaneie o código de barras que você deseja retirar:")
+    if codigo_escaneado in codigo_de_barras_led39:
+        note_selecionado = codigo_de_barras_led39.get(codigo_escaneado)
+        if note_selecionado in led39_disponiveis_dicionario:
+            led39_disponiveis_dicionario.pop(note_selecionado)
+            evento = 'Evento: ' + input("Nome do evento:")
+            data = 'Retorna: ' + input("Data de retorno:")
+            logs = open("logs.txt", "a+")
+            logs.write("\nID: {} |Retirou LED 39\": {} | para o {} | ás {} |".format(id, note_selecionado, evento,
+                                                                                    datetime.now(tz)))
+            logs.close()
+            led39_evento_dicionario[note_selecionado] = (evento, data)
+            with open("led39_disponiveis_dicionario", 'w') as f:
+                json.dump(led39_disponiveis_dicionario, f)
+            with open("led39_evento_dicionario", 'w') as f:
+                json.dump(led39_evento_dicionario, f)
+            cls()
+            print_led39_disponiveis()
+            print_led39_evento()
+            print("\n{} retirado com sucesso.".format(note_selecionado))
+
+            def confirmar_retirada():
+                confirmar = input(
+                    '\nGostaria de retirar outra LED 39\"? \n[1] Mesmo evento \n[2] Diferente evento \n[3] Não \nPleno:')
+                if confirmar == "1":
+                    cls()
+                    print_led39_disponiveis()
+                    codigo_escaneado = getpass("\nEscaneie o código de barras que você deseja retirar:")
+                    if codigo_escaneado in codigo_de_barras_led39:
+                        note_selecionado = codigo_de_barras_led39.get(codigo_escaneado)
+                        if note_selecionado in led39_disponiveis_dicionario:
+                            led39_disponiveis_dicionario.pop(note_selecionado)
+                            logs = open("logs.txt", "a+")
+                            logs.write(
+                                "\nID: {} |Retirou LED 39\": {} | para o {} | ás {} |".format(id, note_selecionado,
+                                                                                             evento, datetime.now(tz)))
+                            logs.close()
+                            led39_evento_dicionario[note_selecionado] = (evento, data)
+                            with open("led39_disponiveis_dicionario", 'w') as f:
+                                json.dump(led39_disponiveis_dicionario, f)
+                            with open("led39_evento_dicionario", 'w') as f:
+                                json.dump(led39_evento_dicionario, f)
+                            cls()
+                            print_led39_disponiveis()
+                            print_led39_evento()
+                            print("\n{} retirado com sucesso.".format(note_selecionado))
+                            confirmar_retirada()
+                    else:
+                        print(colored("\nERROR: Código de barras escaneado inválido.", 'yellow'))
+                        confirmar_retirada()
+                elif confirmar == "2":
+                    cls()
+                    retirar_led39()
+                elif confirmar == "3":
+                    print("Ok, você será redirecionado para o inicio do programa.")
+                    cls()
+                    led39()
+                else:
+                    print(colored("\nERROR: Número da ação inválido.", 'yellow'))
+                    confirmar_retirada()
+
+            confirmar_retirada()
+        else:
+            print(colored("\nERROR: Código de barras escaneado inválido ou não está em estoque.", 'yellow'))
+            led39()
+
+    else:
+        print(colored("\n ERROR: Código de barras escaneado inválido ou não está em estoque.", 'yellow'))
+        led39()
+
+
+def retorno_led39():
+    cls()
+    print_led39_evento()
+    codigo_escaneado = getpass("\nEscaneie o código de barras que você deseja retornar:")
+    if codigo_escaneado in codigo_de_barras_led39:
+        note_selecionado = codigo_de_barras_led39.get(codigo_escaneado)
+        if note_selecionado in led39_evento_dicionario:
+            led39_evento_dicionario.pop(note_selecionado)
+            led39_disponiveis_dicionario[note_selecionado] = 'Em estoque.'
+            with open("led39_evento_dicionario", 'w') as f:
+                json.dump(led39_evento_dicionario, f)
+            with open("led39_disponiveis_dicionario", 'w') as f:
+                json.dump(led39_disponiveis_dicionario, f)
+            logs = open("logs.txt", "a+")
+            logs.write("\nID: {} |Retornou LED 39\": {} | ás {} |".format(id, note_selecionado, datetime.now(tz)))
+            logs.close()
+            cls()
+            print_led39_disponiveis()
+            print_led39_evento()
+            print("\n{} retornado com sucesso.".format(note_selecionado))
+
+            def confirmar_retorno():
+                confirmar = input('\nGostaria de retornar outra LED 39\"? \n[1] Sim \n[2] Não \nPleno:')
+                if confirmar == "1":
+                    retorno_led39()
+                elif confirmar == "2":
+                    print("Ok, você será redirecionado para o inicio do programa.")
+                    cls()
+                    menu()
+                else:
+                    print(colored("ERROR: Número da ação inválido.", 'yellow'))
+                    confirmar_retorno()
+
+            confirmar_retorno()
+        else:
+            print(colored("\nERROR: Código de barras escaneado inválido ou não está em evento.", 'yellow'))
+            led39()
+    else:
+        print(colored("\nERROR: Código de barras escaneado inválido ou não está em estoque.", 'yellow'))
+        led39()
+
+
+### ↑ Funções LED 39 ↑ ###
+
+
+### ↓ Escolhas LED 26 ↓ ###
+def led26():
+    escolha = input(
+        '\nLED 26: O que você gostaria de fazer, escolha o número da ação:\n \n[1] Retirar \n[2] Retorno \n[3] Checar estoque \n[4] Menu Principal \n[9] Sair \nPleno:')
+
+    if escolha == "1":
+        retirar_led26()
+    elif escolha == "2":
+        retorno_led26()
+
+    elif escolha == "3":
+        cls()
+        print_led26_disponiveis()
+        print_led26_evento()
+        led26()
+
+    elif escolha == "4":
+        cls()
+        print('Redirecionado para o menu principal.')
+        menu()
+
+    elif escolha == "9":
+        logs = open("logs.txt", "a+")
+        logs.write("\nID: {} | foi desconnectado às {} |".format(id, datetime.now(tz)))
+        logs.close()
+        cls()
+        print("Você foi desconectado com sucesso.")
+        login()
+
+    else:
+        print(colored('Error: Opção inválida', 'yellow'))
+        led26()
+
+
+### ↑ Escolhas LED 26 ↑ ###
+### ↓ Funções LED 26 ↓ ###
+
+def retirar_led26():
+    cls()
+    print_led26_disponiveis()
+    codigo_escaneado = getpass("\nEscaneie o código de barras que você deseja retirar:")
+    if codigo_escaneado in codigo_de_barras_led26:
+        note_selecionado = codigo_de_barras_led26.get(codigo_escaneado)
+        if note_selecionado in led26_disponiveis_dicionario:
+            led26_disponiveis_dicionario.pop(note_selecionado)
+            evento = 'Evento: ' + input("Nome do evento:")
+            data = 'Retorna: ' + input("Data de retorno:")
+            logs = open("logs.txt", "a+")
+            logs.write("\nID: {} |Retirou LED 26\": {} | para o {} | ás {} |".format(id, note_selecionado, evento,
+                                                                                    datetime.now(tz)))
+            logs.close()
+            led26_evento_dicionario[note_selecionado] = (evento, data)
+            with open("led26_disponiveis_dicionario", 'w') as f:
+                json.dump(led26_disponiveis_dicionario, f)
+            with open("led26_evento_dicionario", 'w') as f:
+                json.dump(led26_evento_dicionario, f)
+            cls()
+            print_led26_disponiveis()
+            print_led26_evento()
+            print("\n{} retirado com sucesso.".format(note_selecionado))
+
+            def confirmar_retirada():
+                confirmar = input(
+                    '\nGostaria de retirar outra LED 26\"? \n[1] Mesmo evento \n[2] Diferente evento \n[3] Não \nPleno:')
+                if confirmar == "1":
+                    cls()
+                    print_led26_disponiveis()
+                    codigo_escaneado = getpass("\nEscaneie o código de barras que você deseja retirar:")
+                    if codigo_escaneado in codigo_de_barras_led26:
+                        note_selecionado = codigo_de_barras_led26.get(codigo_escaneado)
+                        if note_selecionado in led26_disponiveis_dicionario:
+                            led26_disponiveis_dicionario.pop(note_selecionado)
+                            logs = open("logs.txt", "a+")
+                            logs.write(
+                                "\nID: {} |Retirou LED 26\": {} | para o {} | ás {} |".format(id, note_selecionado,
+                                                                                             evento, datetime.now(tz)))
+                            logs.close()
+                            led26_evento_dicionario[note_selecionado] = (evento, data)
+                            with open("led26_disponiveis_dicionario", 'w') as f:
+                                json.dump(led26_disponiveis_dicionario, f)
+                            with open("led26_evento_dicionario", 'w') as f:
+                                json.dump(led26_evento_dicionario, f)
+                            cls()
+                            print_led26_disponiveis()
+                            print_led26_evento()
+                            print("\n{} retirado com sucesso.".format(note_selecionado))
+                            confirmar_retirada()
+                    else:
+                        print(colored("\nERROR: Código de barras escaneado inválido.", 'yellow'))
+                        confirmar_retirada()
+                elif confirmar == "2":
+                    cls()
+                    retirar_led26()
+                elif confirmar == "3":
+                    print("Ok, você será redirecionado para o inicio do programa.")
+                    cls()
+                    led26()
+                else:
+                    print(colored("\nERROR: Número da ação inválido.", 'yellow'))
+                    confirmar_retirada()
+
+            confirmar_retirada()
+        else:
+            print(colored("\nERROR: Código de barras escaneado inválido ou não está em estoque.", 'yellow'))
+            led26()
+
+    else:
+        print(colored("\n ERROR: Código de barras escaneado inválido ou não está em estoque.", 'yellow'))
+        led26()
+
+
+def retorno_led26():
+    cls()
+    print_led26_evento()
+    codigo_escaneado = getpass("\nEscaneie o código de barras que você deseja retornar:")
+    if codigo_escaneado in codigo_de_barras_led26:
+        note_selecionado = codigo_de_barras_led26.get(codigo_escaneado)
+        if note_selecionado in led26_evento_dicionario:
+            led26_evento_dicionario.pop(note_selecionado)
+            led26_disponiveis_dicionario[note_selecionado] = 'Em estoque.'
+            with open("led26_evento_dicionario", 'w') as f:
+                json.dump(led26_evento_dicionario, f)
+            with open("led26_disponiveis_dicionario", 'w') as f:
+                json.dump(led26_disponiveis_dicionario, f)
+            logs = open("logs.txt", "a+")
+            logs.write("\nID: {} |Retornou LED 26\": {} | ás {} |".format(id, note_selecionado, datetime.now(tz)))
+            logs.close()
+            cls()
+            print_led26_disponiveis()
+            print_led26_evento()
+            print("\n{} retornado com sucesso.".format(note_selecionado))
+
+            def confirmar_retorno():
+                confirmar = input('\nGostaria de retornar outra LED 26\"? \n[1] Sim \n[2] Não \nPleno:')
+                if confirmar == "1":
+                    retorno_led26()
+                elif confirmar == "2":
+                    print("Ok, você será redirecionado para o inicio do programa.")
+                    cls()
+                    menu()
+                else:
+                    print(colored("ERROR: Número da ação inválido.", 'yellow'))
+                    confirmar_retorno()
+
+            confirmar_retorno()
+        else:
+            print(colored("\nERROR: Código de barras escaneado inválido ou não está em evento.", 'yellow'))
+            led26()
+    else:
+        print(colored("\nERROR: Código de barras escaneado inválido ou não está em estoque.", 'yellow'))
+        led26()
+
+
+### ↑ Funções LED 26 ↑ ###
 
 
 ### ↓ Escolhas TV 22 ↓ ###
