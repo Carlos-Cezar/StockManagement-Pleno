@@ -7149,6 +7149,8 @@ def retirar():
             fix_planilha_data = data.replace('Retorna: ', "")
             atualizar_evento = sheet.update_cell(cell, 6, fix_planilha_evento)
             atualizar_retorno = sheet.update_cell(cell, 8, fix_planilha_data)
+            atualizar_total_disponiveis = sheet.update_cell(38, 2, str(len(notes_disponiveis_dicionario.keys())))
+            atualizar_total_evento = sheet.update_cell(39, 2, str(len(notes_evento_dicionario.keys())))
 
             def confirmar_retirada():
                 confirmar = input(
@@ -7173,6 +7175,17 @@ def retirar():
                             with open("eventos/notes_evento_dicionario", 'w') as f:
                                 json.dump(notes_evento_dicionario, f)
                             cls()
+
+                            planilha_note = note_selecionado[-2:]
+                            planilha_note_int = int(planilha_note)
+                            cell = planilha_note_int + 1
+                            fix_planilha_evento = evento.replace('Evento: ', "")
+                            fix_planilha_data = data.replace('Retorna: ', "")
+                            atualizar_evento = sheet.update_cell(cell, 6, fix_planilha_evento)
+                            atualizar_retorno = sheet.update_cell(cell, 8, fix_planilha_data)
+                            atualizar_total_disponiveis = sheet.update_cell(38, 2, str(len(notes_disponiveis_dicionario.keys())))
+                            atualizar_total_evento = sheet.update_cell(39, 2, str(len(notes_evento_dicionario.keys())))
+
                             print_notes_disponiveis()
                             print_notes_evento()
                             print("\n{} retirado com sucesso.".format(note_selecionado))
@@ -7227,6 +7240,8 @@ def retorno():
             cell = planilha_note_int + 1
             atualizar_evento = sheet.update_cell(cell, 6, "Na unidade")
             atualizar_retorno = sheet.update_cell(cell, 8, "")
+            atualizar_total_disponiveis = sheet.update_cell(38, 2, str(len(notes_disponiveis_dicionario.keys())))
+            atualizar_total_evento = sheet.update_cell(39, 2, str(len(notes_evento_dicionario.keys())))
             
             def confirmar_retorno():
                 confirmar = input('\nGostaria de retornar outro notebook? \n[1] Sim \n[2] Não \nPleno:')
