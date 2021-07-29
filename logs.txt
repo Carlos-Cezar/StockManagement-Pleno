@@ -1,0 +1,1584 @@
+
+ID: rogerio@pleno | connectado às 2020-01-02 09:40:14.960527-03:00 |
+ID: rogerio@pleno |Retirou o notebook: 01C | para o evento: larrrat | às 2020-01-02 09:41:39.361566-03:00 |
+ID: rogerio@pleno | foi desconnectado às 2020-01-02 09:42:05.264871-03:00 |
+ID: carlos@pleno | connectado às 2020-01-02 09:43:09.046872-03:00 |
+ID: carlos@pleno | foi desconnectado às 2020-01-02 09:47:31.591349-03:00 |
+ID: rogerio@pleno | connectado às 2020-01-02 09:47:46.311489-03:00 |
+ID: carlos@pleno | connectado às 2020-01-02 11:06:52.412980-03:00 |
+ID: carlos@pleno | connectado às 2020-01-02 11:20:45.311243-03:00 |
+ID: carlos@pleno |Retornou o notebook: 01C | às 2020-01-02 11:21:11.780641-03:00 |
+ID: carlos@pleno |Retirou o notebook: 02C | para o evento: larrat | às 2020-01-02 11:21:44.844465-03:00 |
+ID: carlos@pleno | foi desconnectado às 2020-01-02 11:21:48.068831-03:00 |
+ID: carlos@pleno | connectado às 2020-01-02 11:32:53.836215-03:00 |
+ID: carlos@pleno | connectado Ã s 2020-01-02 13:42:58.258500-03:00 |
+ID: carlos@pleno | foi desconnectado Ã s 2020-01-02 13:43:10.030780-03:00 |
+ID: carlos@pleno | connectado Ã s 2020-01-02 13:43:24.690669-03:00 |
+ID: carlos@pleno | foi desconnectado Ã s 2020-01-02 13:43:28.434615-03:00 |
+ID: carlos@pleno | connectado Ã s 2020-01-02 13:50:32.250573-03:00 |
+ID: carlos@pleno | connectado Ã s 2020-01-02 13:52:57.634719-03:00 |
+ID: carlos@pleno | connectado Ã s 2020-01-02 13:58:19.550079-03:00 |
+ID: carlos@pleno | connectado Ã s 2020-01-02 13:59:45.843769-03:00 |
+ID: carlos@pleno | foi desconnectado Ã s 2020-01-02 13:59:49.802752-03:00 |
+ID: carlos@pleno | connectado Ã s 2020-01-02 14:02:56.435342-03:00 |
+ID: carlos@pleno | connectado Ã s 2020-01-02 14:04:28.190889-03:00 |
+ID: carlos@pleno |Retirou o notebook: 01C | para o evento: larrat | Ã s 2020-01-02 14:04:39.690809-03:00 |
+ID: carlos@pleno | connectado Ã s 2020-01-02 14:16:29.555856-03:00 |
+ID: carlos@pleno | connectado Ã s 2020-01-02 14:18:09.318596-03:00 |
+ID: carlos@pleno |Retirou o notebook: Notebook_Cinza_01 | para o evento: larrat | Ã s 2020-01-02 14:18:26.405313-03:00 |
+ID: carlos@pleno | connectado Ã s 2020-01-02 14:19:44.351902-03:00 |
+ID: carlos@pleno |Retirou o notebook: Notebook_Cinza_02 | para o evento: two light | Ã s 2020-01-02 14:20:03.087279-03:00 |
+ID: carlos@pleno | connectado Ã s 2020-01-02 14:22:11.605003-03:00 |
+ID: carlos@pleno |Retirou o notebook: Notebook_Cinza_03 | para o evento: augusto | Ã s 2020-01-02 14:22:25.166698-03:00 |
+ID: carlos@pleno | foi desconnectado Ã s 2020-01-02 14:22:33.216635-03:00 |
+ID: carlos@pleno | connectado Ã s 2020-01-02 14:24:46.665216-03:00 |
+ID: carlos@pleno | connectado Ã s 2020-01-02 14:28:49.132155-03:00 |
+ID: carlos@pleno | connectado às 2020-01-02 17:18:06.059581-03:00 |
+ID: carlos@pleno | connectado às 2020-01-02 17:22:05.036355-03:00 |
+ID: rogerio@pleno | connectado às 2020-01-02 17:26:09.831275-03:00 |
+ID: rogerio@pleno | foi desconnectado às 2020-01-02 17:29:56.178996-03:00 |
+ID: henrique@pleno | connectado às 2020-01-02 17:30:43.214895-03:00 |
+ID: henrique@pleno | foi desconnectado às 2020-01-02 17:31:31.522860-03:00 |
+ID: henrique@pleno | connectado às 2020-01-02 17:31:43.350843-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_01 | para o evento: larrat | às 2020-01-02 17:32:57.006710-03:00 |
+ID: henrique@pleno | connectado às 2020-01-02 17:34:57.618574-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_01 | às 2020-01-02 17:35:21.058502-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_01 | para o evento: paulo | às 2020-01-02 17:36:12.846432-03:00 |
+ID: carlos@pleno | connectado às 2020-01-02 17:43:46.458309-03:00 |
+ID: carlos@pleno | connectado às 2020-01-02 17:54:32.496248-03:00 |
+ID: carlos@pleno | connectado às 2020-01-03 09:44:20.253332-03:00 |
+ID: carlos@pleno |Retirou o notebook: Notebook_Cinza_04 | para o evento: larrat | às 2020-01-03 09:45:02.011923-03:00 |
+ID: carlos@pleno | foi desconnectado às 2020-01-03 09:45:46.489443-03:00 |
+ID: carlos@pleno | connectado às 2020-01-03 09:48:32.928281-03:00 |
+ID: carlos@pleno |Retornou o notebook: Notebook_Cinza_04 | às 2020-01-03 09:48:41.887249-03:00 |
+ID: carlos@pleno | connectado às 2020-01-03 10:01:48.951872-03:00 |
+ID: carlos@pleno |Retirou o notebook: Notebook_Cinza_14 | para o evento: larrat | às 2020-01-03 10:02:05.390333-03:00 |
+ID: carlos@pleno | connectado às 2020-01-03 10:26:39.261752-03:00 |
+ID: carlos@pleno |Retornou o notebook: Notebook_Cinza_14 | às 2020-01-03 10:26:55.196617-03:00 |
+ID: carlos@pleno | connectado às 2020-01-03 10:47:32.841573-03:00 |
+ID: carlos@pleno |Retornou o notebook: Notebook_Cinza_01 | às 2020-01-03 10:47:52.387608-03:00 |
+ID: carlos@pleno | connectado ás 2020-01-07 09:52:19.393179-03:00 |
+ID: carlos@pleno | foi desconnectado às 2020-01-07 09:52:56.580074-03:00 |
+ID: carlos@pleno | connectado Ã¡s 2020-01-07 10:14:48.058436-03:00 |
+ID: carlos@pleno | connectado Ã¡s 2020-01-07 10:18:00.358525-03:00 |
+ID: carlos@pleno | connectado Ã¡s 2020-01-07 10:18:26.166945-03:00 |
+ID: carlos@pleno | connectado Ã¡s 2020-01-07 10:19:26.455856-03:00 |
+ID: carlos@pleno | connectado Ã¡s 2020-01-07 10:26:37.582327-03:00 |
+ID: carlos@pleno | connectado Ã¡s 2020-01-07 10:28:40.736116-03:00 |
+ID: carlos@pleno | foi desconnectado Ã s 2020-01-07 10:28:42.258858-03:00 |
+ID: carlos@pleno | connectado Ã¡s 2020-01-07 10:30:54.911051-03:00 |
+ID: carlos@pleno | connectado Ã¡s 2020-01-07 10:31:36.918867-03:00 |
+ID: carlos@pleno | connectado Ã¡s 2020-01-07 10:32:15.423018-03:00 |
+ID: carlos@pleno | connectado Ã¡s 2020-01-07 10:33:38.335125-03:00 |
+ID: carlos@pleno | connectado Ã¡s 2020-01-07 10:35:37.976076-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-07 10:57:45.688405-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-07 10:58:49.947604-03:00 |
+ID: carlos@9100 | foi desconnectado Ã s 2020-01-07 10:59:37.945007-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-07 11:00:06.728282-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-07 11:02:06.464384-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-07 11:09:53.913430-03:00 |
+ID: carlos@9100 |Retirou TV 42": TV_42_02 | para o Evento: teste | Ã¡s 2020-01-07 11:10:42.353266-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-07 11:11:35.201793-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-07 11:17:07.102544-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-07 11:19:41.729315-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-07 11:20:45.977390-03:00 |
+ID: carlos@9100 |Retornou TV 42": TV_42_02 | Ã¡s 2020-01-07 11:21:00.418084-03:00 |
+ID: carlos@9100 |Retirou TV 42": TV_42_01 | para o Evento: teste | Ã¡s 2020-01-07 11:21:28.074066-03:00 |
+ID: carlos@9100 |Retirou TV 42": TV_42_02 | para o Evento: teste | Ã¡s 2020-01-07 11:21:38.945939-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-07 11:28:07.953467-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-07 11:32:53.643154-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-07 11:33:28.897647-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-07 11:34:14.258975-03:00 |
+ID: carlos@9100 |Retornou TV 42": TV_42_01 | Ã¡s 2020-01-07 11:34:57.218858-03:00 |
+ID: carlos@9100 |Retornou TV 42": TV_42_02 | Ã¡s 2020-01-07 11:35:08.362732-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-07 14:10:15.809948-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-07 14:11:52.578514-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-07 14:12:06.002800-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-07 14:14:00.082262-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-07 14:16:18.531083-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-07 14:17:40.778507-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-07 14:19:58.018613-03:00 |
+ID: carlos@9100 |Retirou TV 43": TV_43_01 | para o Evento: Test | Ã¡s 2020-01-07 14:20:26.946766-03:00 |
+ID: carlos@9100 |Retirou TV 43": TV_43_02 | para o Evento: Test | Ã¡s 2020-01-07 14:20:37.390223-03:00 |
+ID: carlos@9100 |Retornou TV 43": TV_43_01 | Ã¡s 2020-01-07 14:20:51.532757-03:00 |
+ID: carlos@9100 |Retornou TV 43": TV_43_02 | Ã¡s 2020-01-07 14:21:06.939826-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-07 14:32:35.202960-03:00 |
+ID: carlos@9100 | foi desconnectado Ã s 2020-01-07 14:33:05.251710-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-07 15:25:28.901167-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-07 15:26:12.981027-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-07 15:46:58.133810-03:00 |
+ID: carlos@9100 | foi desconnectado Ã s 2020-01-07 15:47:11.565703-03:00 |
+ID: carlos@9100 | connectado ás 2020-01-07 15:59:58.052510-03:00 |
+ID: carlos@9100 | connectado ás 2020-01-07 16:00:15.116009-03:00 |
+ID: carlos@9100 | connectado ás 2020-01-07 16:29:57.793500-03:00 |
+ID: carlos@9100 | foi desconnectado às 2020-01-07 16:30:06.042843-03:00 |
+ID: carlos@9100 | connectado ás 2020-01-07 16:50:20.904649-03:00 |
+ID: carlos@9100 | connectado ás 2020-01-07 16:55:10.134160-03:00 |
+ID: carlos@9100 | connectado ás 2020-01-07 16:58:14.997724-03:00 |
+ID: carlos@9100 | foi desconnectado às 2020-01-07 16:58:36.429651-03:00 |
+ID: carlos@9100 | connectado ás 2020-01-07 16:59:24.395733-03:00 |
+ID: carlos@9100 | foi desconnectado às 2020-01-07 16:59:34.731787-03:00 |
+ID: carlos@9100 | connectado ás 2020-01-07 17:16:20.953699-03:00 |
+ID: carlos@9100 | connectado ás 2020-01-07 17:22:25.525166-03:00 |
+ID: carlos@9100 | connectado ás 2020-01-07 17:25:42.483550-03:00 |
+ID: carlos@9100 | foi desconnectado às 2020-01-07 17:25:54.963400-03:00 |
+ID: carlos@9100 | connectado ás 2020-01-07 18:01:21.070779-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-09 16:01:41.106696-03:00 |
+ID: carlos@9100 | foi desconnectado Ã s 2020-01-09 16:01:56.738019-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-10 09:22:20.743027-03:00 |
+ID: carlos@9100 | foi desconnectado Ã s 2020-01-10 09:22:26.927219-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-10 09:34:49.000056-03:00 |
+ID: carlos@9100 |Retirou TV 55": TV_55_01 | para o Evento: teste | Ã¡s 2020-01-10 09:35:14.888670-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-14 14:38:37.223734-03:00 |
+ID: carlos@9100 | foi desconnectado Ã s 2020-01-14 14:38:42.754731-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-14 14:46:36.793019-03:00 |
+ID: carlos@9100 | foi desconnectado Ã s 2020-01-14 14:46:38.414422-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-14 15:00:15.632000-03:00 |
+ID: carlos@9100 | foi desconnectado Ã s 2020-01-14 15:00:21.065001-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-14 15:02:53.688860-03:00 |
+ID: carlos@9100 | foi desconnectado Ã s 2020-01-14 15:03:14.025004-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-14 15:12:53.944371-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-14 15:14:25.448310-03:00 |
+ID: carlos@9100 |Retirou Controladora": CONTROLADORA_600_01 | para o Evento: teste | Ã¡s 2020-01-14 15:14:38.157965-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-14 15:22:31.964722-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-14 16:13:42.922563-03:00 |
+ID: carlos@9100 | foi desconnectado Ã s 2020-01-14 16:13:47.249115-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-14 16:25:11.968724-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-14 16:26:54.345137-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-14 16:27:14.545480-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-14 16:27:57.577356-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-14 16:37:55.877255-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-14 16:38:24.401179-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-14 16:38:38.864975-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-14 16:38:57.369261-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-14 16:41:38.792948-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-14 16:42:07.241106-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-14 16:42:47.241907-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-14 16:50:26.776790-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-14 17:04:46.713711-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-14 17:05:55.731633-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-14 17:45:56.731969-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-14 17:46:56.520972-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-14 17:49:11.104982-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-14 18:09:28.042572-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-14 18:09:58.504548-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-14 18:10:59.928293-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-14 18:18:32.192472-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-14 18:48:33.316350-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-14 18:53:08.336220-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 09:18:49.295773-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-15 09:20:29.009367-03:00 |
+ID: carlos@9100 | foi desconnectado Ã s 2020-01-15 09:21:05.384145-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 09:21:08.360458-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 09:22:35.096696-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 09:42:27.033047-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 09:43:00.425006-03:00 |
+ID: rogerio@admin | connectado Ã¡s 2020-01-15 09:45:52.555701-03:00 |
+ID: rogerio@ | connectado Ã¡s 2020-01-15 09:46:45.297577-03:00 |
+ID: rogerio@ | foi desconnectado Ã s 2020-01-15 09:46:49.865609-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 09:47:50.873948-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 09:52:46.147838-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 09:54:23.778725-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 09:55:15.261173-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 09:55:55.073287-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 09:56:51.331605-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 09:57:20.673505-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 09:57:53.129257-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 09:59:35.091944-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 10:03:33.665730-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 10:06:38.322425-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 10:09:15.249850-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 10:10:45.274266-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 10:14:51.194254-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 10:16:13.555454-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 10:16:58.674337-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 10:18:04.818521-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 10:18:41.178233-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 10:22:03.259977-03:00 |
+ID: carlos@admin | foi desconnectado Ã s 2020-01-15 10:22:06.603678-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 10:23:59.298741-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 10:24:52.282551-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 10:29:57.355865-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 10:31:59.066666-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 10:39:22.106936-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 10:41:22.475449-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 10:43:45.667034-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 10:45:16.171458-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 10:46:15.203916-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 10:50:23.835088-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 10:51:03.243288-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 10:57:40.179255-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 10:59:48.559871-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-15 11:04:36.003225-03:00 |
+ID: carlos@9100 | foi desconnectado Ã s 2020-01-15 11:04:37.995485-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 11:04:44.618916-03:00 |
+ID: carlos@admin | foi desconnectado Ã s 2020-01-15 11:05:12.159180-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 11:06:17.644165-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 11:08:18.406757-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 11:11:50.698900-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 11:37:25.339633-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 11:38:40.251062-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 11:39:08.375955-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 11:45:34.019653-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 11:46:19.275546-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 11:46:45.444147-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 11:53:01.995634-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 11:53:52.235195-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-15 13:32:43.750485-03:00 |
+ID: carlos@9100 | foi desconnectado Ã s 2020-01-15 13:32:47.541652-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 13:32:53.581017-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 13:33:49.278851-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 13:42:03.340576-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 13:43:16.461711-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 13:43:51.936495-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 13:46:11.037856-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 13:46:33.892542-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 13:47:40.382456-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 13:47:59.884270-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 13:57:53.288222-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 14:03:14.852605-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 14:05:18.805701-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 14:11:10.732409-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 14:14:28.268245-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 14:18:55.724672-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 14:19:16.404300-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 14:21:29.956422-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 14:23:50.013040-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 14:26:26.876395-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 14:37:42.396554-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 14:42:49.068653-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 14:56:48.629522-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 14:59:50.454143-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 15:00:28.751643-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 15:04:52.274080-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 15:05:40.296920-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 15:06:27.793580-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 15:08:38.591458-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 15:12:06.663222-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 15:19:03.575991-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 15:19:53.385485-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 15:24:42.480480-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 15:25:21.241017-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 15:30:08.760630-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 15:32:28.184712-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 15:34:17.871985-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 15:37:54.601534-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 15:39:05.759732-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 15:40:43.042710-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 15:41:37.675435-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 15:43:16.792232-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 15:45:07.074462-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 15:48:48.040158-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 16:00:20.280716-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 16:01:13.774852-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 16:05:07.368604-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 16:14:50.369250-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 16:42:44.809374-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 16:45:34.209456-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 16:46:34.212810-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 16:52:13.225766-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 16:56:39.313227-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 17:06:21.409622-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 18:34:18.370633-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 18:34:55.035759-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-15 18:36:20.930717-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-16 09:05:13.671590-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-16 09:17:08.120782-03:00 |
+ID: carlos@admin | foi desconnectado Ã s 2020-01-16 09:17:13.648356-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-16 09:31:03.156717-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-16 09:32:03.042370-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-16 09:57:40.082792-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-16 09:58:27.490704-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-16 10:06:11.732404-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-16 10:09:40.851410-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-16 10:11:09.894052-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-16 10:20:35.956524-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-16 10:21:45.108986-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-16 10:25:10.160449-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-16 10:27:08.060823-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-16 10:28:34.933033-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-16 10:43:57.004939-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-16 10:46:32.653610-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-16 10:48:47.821965-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-16 10:51:31.032916-03:00 |
+ID: carlos@admin | foi desconnectado Ã s 2020-01-16 10:51:34.230997-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-16 10:51:38.549447-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-16 11:08:01.813026-03:00 |
+ID: carlos@admin | connectado Ã¡s 2020-01-16 11:08:42.090328-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-16 13:09:05.284178-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-16 13:33:54.828535-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-16 13:35:08.452751-03:00 |
+ID: carlos@9100 | connectado Ã¡s 2020-01-16 13:36:34.172927-03:00 |
+ID: carlos@9100 |Retirou X1 - X2": X1_01 | para o Evento: teste | Ã¡s 2020-01-16 13:37:47.261785-03:00 |
+ID: henrique@pleno | connectado ás 2020-01-22 15:55:53.003629-03:00 |
+ID: henrique@pleno | connectado ás 2020-01-22 15:58:21.286488-03:00 |
+ID: henrique@pleno | connectado ás 2020-01-24 10:43:35.220708-03:00 |
+ID: henrique@pleno | foi desconnectado às 2020-01-24 10:43:50.532583-03:00 |
+ID: henrique@pleno | connectado ás 2020-01-24 10:49:33.340722-03:00 |
+ID: henrique@pleno | connectado ás 2020-01-24 10:52:50.124042-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_07 | para o Evento: Rio Cake World | ás 2020-01-24 10:55:36.931587-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_08 | para o Evento: Rio Cake World | ás 2020-01-24 10:58:18.277280-03:00 |
+ID: henrique@pleno | foi desconnectado às 2020-01-24 10:58:42.908689-03:00 |
+ID: henrique@pleno | connectado ás 2020-01-24 11:08:06.090594-03:00 |
+ID: carlos@9100 | connectado ás 2020-01-24 11:42:35.731173-03:00 |
+ID: carlos@9100 | foi desconnectado às 2020-01-24 11:43:15.886445-03:00 |
+ID: henrique@pleno | connectado ás 2020-01-24 14:14:33.716849-03:00 |
+ID: henrique@pleno |Retirou TV 46": TV_46_02 | para o Evento: 1 | ás 2020-01-24 14:15:13.404318-03:00 |
+ID: henrique@pleno |Retirou TV 46": TV_46_01 | para o Evento: plug sub | ás 2020-01-24 14:16:47.066886-03:00 |
+ID: henrique@pleno |Retirou TV 46": TV_46_04 | para o Evento: plug sub | ás 2020-01-24 14:17:39.381777-03:00 |
+ID: carlos@9100 | connectado ás 2020-01-24 14:21:14.934160-03:00 |
+ID: carlos@9100 | connectado ás 2020-01-24 14:22:44.164319-03:00 |
+ID: henrique@pleno | connectado ás 2020-01-24 14:40:04.366163-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_01 | ás 2020-01-24 14:40:48.923643-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_02 | ás 2020-01-24 14:41:10.257682-03:00 |
+ID: henrique@pleno |Retirou TV 46": TV_46_19 | para o Evento: plug sub | ás 2020-01-24 14:42:33.560629-03:00 |
+ID: henrique@pleno |Retirou TV 46": TV_46_03 | para o Evento: plug sub | ás 2020-01-24 14:43:12.378898-03:00 |
+ID: henrique@pleno |Retirou TV 46": TV_46_09 | para o Evento: plug sub | ás 2020-01-24 14:43:31.131131-03:00 |
+ID: henrique@pleno |Retirou TV 46": TV_46_10 | para o Evento: plug sub | ás 2020-01-24 14:43:59.414782-03:00 |
+ID: henrique@pleno |Retirou TV 46": TV_46_01 | para o Evento: plug sub | ás 2020-01-24 14:44:12.722605-03:00 |
+ID: henrique@pleno |Retirou TV 46": TV_46_02 | para o Evento: plug sub | ás 2020-01-24 14:44:49.691471-03:00 |
+ID: henrique@pleno | connectado ás 2020-01-24 14:46:12.925017-03:00 |
+ID: henrique@pleno |Retirou TV 75": TV_75_01 | para o Evento: ambev | ás 2020-01-24 15:11:20.739112-03:00 |
+ID: henrique@pleno |Retirou TV 75": TV_75_04 | para o Evento: ambev | ás 2020-01-24 15:13:09.844305-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_05 | para o Evento: ambev | ás 2020-01-24 15:17:08.954169-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_17 | para o Evento: ambev | ás 2020-01-24 15:17:15.443780-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_29 | para o Evento: seals 2020 | ás 2020-01-24 15:19:10.109584-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_28 | para o Evento: seals 2020 | ás 2020-01-24 15:19:22.527205-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_13 | para o Evento: ambev | ás 2020-01-24 15:30:05.001945-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_11 | para o Evento: ambev | ás 2020-01-24 15:33:58.246759-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_04 | para o Evento: ambev | ás 2020-01-24 15:36:14.377398-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_20 | para o Evento: ambev | ás 2020-01-24 15:38:55.003684-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_20 | ás 2020-01-24 15:43:32.023574-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_20 | para o Evento: endcria | ás 2020-01-24 15:45:48.533416-03:00 |
+ID: henrique@pleno | foi desconnectado às 2020-01-24 15:52:07.517891-03:00 |
+ID: carlos@9100 | connectado ás 2020-01-24 16:12:02.483009-03:00 |
+ID: carlos@9100 | foi desconnectado às 2020-01-24 16:12:14.682230-03:00 |
+ID: henrique@pleno | connectado ás 2020-01-24 17:28:51.476966-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_34 | para o Evento: LBR | ás 2020-01-24 17:47:46.499640-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_30 | para o Evento: LBR | ás 2020-01-24 17:49:24.291012-03:00 |
+ID: henrique@pleno | connectado ás 2020-01-25 16:51:19.141868-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_07 | ás 2020-01-25 16:52:32.203796-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_20 | ás 2020-01-25 16:52:47.451023-03:00 |
+ID: carlos@9100 | connectado ás 2020-01-27 09:25:56.148348-03:00 |
+ID: carlos@9100 |Retornou o notebook: Notebook_Cinza_04 | ás 2020-01-27 09:26:06.147966-03:00 |
+ID: carlos@9100 |Retornou o notebook: Notebook_Cinza_13 | ás 2020-01-27 09:26:29.953607-03:00 |
+ID: henrique@pleno | connectado ás 2020-01-27 10:26:06.495262-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_17 | ás 2020-01-27 10:26:31.861906-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_29 | ás 2020-01-27 10:27:05.859167-03:00 |
+ID: henrique@pleno | foi desconnectado às 2020-01-27 10:28:29.783917-03:00 |
+ID: henrique@admin | connectado ás 2020-01-27 10:28:37.880331-03:00 |
+ID: henrique@admin | foi desconnectado às 2020-01-27 10:42:12.311955-03:00 |
+ID: henrique@pleno | connectado ás 2020-01-27 10:42:38.958801-03:00 |
+ID: henrique@pleno | foi desconnectado às 2020-01-27 10:44:34.189023-03:00 |
+ID: henrique@pleno | connectado ás 2020-01-27 10:45:42.769351-03:00 |
+ID: henrique@pleno | connectado ás 2020-01-27 10:47:08.702740-03:00 |
+ID: henrique@pleno | connectado ás 2020-01-27 10:48:57.566382-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_03 | para o Evento: AMBEV  | ás 2020-01-27 10:49:49.909275-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_04 | para o Evento: AMBEV  | ás 2020-01-27 10:50:15.525520-03:00 |
+ID: henrique@pleno | connectado ás 2020-01-27 14:48:40.913781-03:00 |
+ID: henrique@pleno | connectado ás 2020-01-27 15:21:11.089410-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_03 | ás 2020-01-27 15:22:06.734707-03:00 |
+ID: henrique@pleno | connectado ás 2020-01-27 15:39:37.521339-03:00 |
+ID: henrique@pleno |Retirou TV 46": TV_46_71 | para o Evento: allbusnes | ás 2020-01-27 15:41:53.288375-03:00 |
+ID: henrique@pleno | connectado ás 2020-01-27 16:10:31.379372-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_08 | para o Evento: AMBEV | ás 2020-01-27 16:11:59.176325-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_03 | para o Evento: AMBEV | ás 2020-01-27 16:13:32.994888-03:00 |
+ID: henrique@pleno | connectado ás 2020-01-27 18:54:49.892258-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_14 | para o Evento: all busines | ás 2020-01-27 18:55:49.687162-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_18 | para o Evento: all busines | ás 2020-01-27 18:56:13.586404-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_13 | para o Evento: all busines | ás 2020-01-27 19:03:19.155146-03:00 |
+ID: henrique@pleno | connectado ás 2020-01-27 19:11:07.311962-03:00 |
+ID: henrique@pleno |Retirou TV 28": TV_28_13 | para o Evento: allbusines | ás 2020-01-27 19:12:31.536509-03:00 |
+ID: henrique@pleno | foi desconnectado às 2020-01-27 19:13:49.380645-03:00 |
+ID: henrique@pleno | connectado ás 2020-01-28 09:04:58.644396-03:00 |
+ID: henrique@pleno | connectado ás 2020-01-28 09:11:36.607091-03:00 |
+ID: henrique@pleno | connectado ás 2020-01-28 13:21:49.940468-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_05 | para o Evento: kikjkjkj | ás 2020-01-28 13:22:26.553732-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_05 | ás 2020-01-28 13:22:56.864585-03:00 |
+ID: henrique@pleno | foi desconnectado às 2020-01-28 13:39:15.625892-03:00 |
+ID: carlos@9100 | connectado ás 2020-01-28 13:41:48.026958-03:00 |
+ID: carlos@9100 | foi desconnectado às 2020-01-28 13:45:32.308549-03:00 |
+ID: henrique@pleno | connectado ás 2020-01-28 13:45:50.888182-03:00 |
+ID: carlos@9100 | connectado ás 2020-01-29 14:23:12.366536-03:00 |
+ID: carlos@9100 | foi desconnectado às 2020-01-29 14:23:23.926157-03:00 |
+ID: henrique@pleno | connectado ás 2020-01-29 16:58:03.293636-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_16 | para o Evento: FARM | ás 2020-01-29 17:06:39.604137-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_20 | para o Evento: FARM | ás 2020-01-29 17:06:52.754960-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_05 | para o Evento: FARM | ás 2020-01-29 17:07:18.245404-03:00 |
+ID: henrique@pleno | foi desconnectado às 2020-01-29 17:09:56.616880-03:00 |
+ID: henrique@pleno | connectado ás 2020-01-29 17:11:31.545046-03:00 |
+ID: henrique@pleno | foi desconnectado às 2020-01-29 17:26:18.639663-03:00 |
+ID: carlos@9100 | connectado ás 2020-01-29 17:50:34.228649-03:00 |
+ID: carlos@9100 | foi desconnectado às 2020-01-29 17:50:39.085271-03:00 |
+ID: henrique@pleno | connectado ás 2020-01-29 17:54:58.868535-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_05 | ás 2020-01-29 17:55:57.589240-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_05 | para o Evento: FARM | ás 2020-01-29 17:56:34.713507-03:00 |
+ID: henrique@pleno | connectado ás 2020-01-29 18:24:20.370441-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_05 | ás 2020-01-29 18:25:13.998545-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_05 | para o Evento: FARM | ás 2020-01-29 18:26:28.909606-03:00 |
+ID: henrique@pleno | foi desconnectado às 2020-01-29 18:27:02.798159-03:00 |
+ID: henrique@pleno | connectado ás 2020-01-29 18:45:45.050765-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_05 | ás 2020-01-29 18:46:07.501204-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_05 | para o Evento: FARM | ás 2020-01-29 18:47:18.143338-03:00 |
+ID: carlos@9100 | connectado ás 2020-01-30 09:25:49.734629-03:00 |
+ID: carlos@9100 |Retornou o notebook: Notebook_Cinza_18 | ás 2020-01-30 09:34:26.953531-03:00 |
+ID: carlos@9100 |Retornou o notebook: Notebook_Cinza_14 | ás 2020-01-30 09:34:43.099559-03:00 |
+ID: carlos@9100 |Retornou o notebook: Notebook_Cinza_13 | ás 2020-01-30 09:35:00.431189-03:00 |
+ID: carlos@9100 |Retirou o notebook: Notebook_Cinza_14 | para o Evento: rogerio | ás 2020-01-30 09:35:28.573638-03:00 |
+ID: carlos@9100 |Retornou o notebook: Notebook_Cinza_14 | ás 2020-01-30 09:35:38.869656-03:00 |
+ID: carlos@9100 | foi desconnectado às 2020-01-30 09:35:43.908465-03:00 |
+ID: carlos@9100 | connectado ás 2020-01-30 13:05:33.034416-03:00 |
+ID: carlos@9100 |Retornou o notebook: Notebook_Cinza_03 | ás 2020-01-30 13:06:17.338493-03:00 |
+ID: carlos@9100 |Retornou o notebook: Notebook_Cinza_08 | ás 2020-01-30 13:06:33.858922-03:00 |
+ID: carlos@9100 |Retornou o notebook: Notebook_Cinza_04 | ás 2020-01-30 13:06:55.386959-03:00 |
+ID: carlos@9100 |Retornou o notebook: Notebook_Cinza_11 | ás 2020-01-30 13:07:10.924586-03:00 |
+ID: carlos@9100 | foi desconnectado às 2020-01-30 13:07:42.202641-03:00 |
+ID: henrique@pleno | connectado ás 2020-01-30 13:20:44.570082-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_28 | ás 2020-01-30 13:22:23.879855-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_08 | ás 2020-01-30 13:22:59.603918-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_05 | ás 2020-01-30 13:23:12.380340-03:00 |
+ID: henrique@pleno |Retornou TV 28": TV_28_13 | ás 2020-01-30 13:23:35.624381-03:00 |
+ID: henrique@pleno |Retornou TV 75": TV_75_01 | ás 2020-01-30 13:24:23.095263-03:00 |
+ID: henrique@pleno |Retornou TV 75": TV_75_04 | ás 2020-01-30 13:24:33.890482-03:00 |
+ID: henrique@pleno | connectado ás 2020-01-30 13:52:57.913454-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_71 | ás 2020-01-30 13:53:38.005524-03:00 |
+ID: henrique@pleno | connectado ás 2020-01-30 14:54:57.159577-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_13 | para o Evento: DELLA | ás 2020-01-30 14:57:09.401007-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_12 | para o Evento: DELLA | ás 2020-01-30 14:58:43.359971-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_06 | para o Evento: DELLA | ás 2020-01-30 14:59:01.658803-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_11 | para o Evento: DELLA | ás 2020-01-30 14:59:21.252437-03:00 |
+ID: carlos@9100 | connectado ás 2020-01-30 15:50:19.653654-03:00 |
+ID: carlos@9100 | foi desconnectado às 2020-01-30 15:53:30.344893-03:00 |
+ID: henrique@pleno | connectado ás 2020-01-30 16:01:09.562893-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_11 | para o Evento: DELLA | ás 2020-01-30 16:02:34.298183-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_04 | para o Evento: DELLA | ás 2020-01-30 16:05:03.817076-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_18 | para o Evento: DELLA | ás 2020-01-30 16:06:59.532487-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_30 | ás 2020-01-30 17:56:36.394179-03:00 |
+ID: henrique@pleno | connectado ás 2020-01-30 18:32:54.690640-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_13 | para o Evento: farm | ás 2020-01-30 18:33:53.549542-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_08 | para o Evento: farm | ás 2020-01-30 18:34:06.076364-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_14 | para o Evento: farm | ás 2020-01-30 18:34:23.407994-03:00 |
+ID: carlos@9100 | connectado ás 2020-01-31 10:15:55.098494-03:00 |
+ID: carlos@9100 | foi desconnectado às 2020-01-31 10:20:12.895075-03:00 |
+ID: carlos@9100 | connectado ás 2020-01-31 13:27:56.221753-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-03 09:27:19.913017-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_08 | ás 2020-02-03 09:31:32.789458-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_13 | ás 2020-02-03 09:32:23.770347-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_14 | ás 2020-02-03 09:34:40.598185-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_20 | ás 2020-02-03 09:37:20.124063-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_16 | ás 2020-02-03 09:40:12.816364-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_05 | ás 2020-02-03 09:41:10.614465-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-03 15:18:23.139080-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_04 | ás 2020-02-03 15:19:21.077581-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_01 | ás 2020-02-03 15:21:14.037378-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_09 | ás 2020-02-03 15:21:53.583447-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_03 | ás 2020-02-03 15:22:27.185906-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_02 | ás 2020-02-03 15:23:06.809975-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_10 | ás 2020-02-03 15:24:41.252540-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_19 | ás 2020-02-03 15:25:10.455790-03:00 |
+ID: carlos@9100 | connectado ás 2020-02-03 16:13:04.349866-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-03 16:34:52.276523-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_11 | ás 2020-02-03 16:36:20.166961-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_18 | ás 2020-02-03 16:37:25.138987-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_04 | ás 2020-02-03 16:38:15.473997-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_12 | ás 2020-02-03 16:40:48.978115-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_11 | ás 2020-02-03 16:40:56.086033-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_13 | ás 2020-02-03 16:42:11.466218-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_06 | ás 2020-02-03 16:42:28.817932-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-04 09:52:16.875421-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-04 18:59:17.117368-03:00 |
+ID: henrique@pleno |Retirou TV 46": TV_46_38 | para o Evento: jornada carioca | ás 2020-02-04 19:00:12.653465-03:00 |
+ID: henrique@pleno |Retirou TV 46": TV_46_02 | para o Evento: arch 2B | ás 2020-02-04 19:01:46.347228-03:00 |
+ID: henrique@pleno |Retirou TV 46": TV_46_04 | para o Evento: arch 2B | ás 2020-02-04 19:01:59.248451-03:00 |
+ID: henrique@pleno |Retirou TV 46": TV_46_01 | para o Evento: arch 2B | ás 2020-02-04 19:02:17.500483-03:00 |
+ID: henrique@pleno |Retirou TV 46": TV_46_03 | para o Evento: arch 2B | ás 2020-02-04 19:03:04.378564-03:00 |
+ID: henrique@pleno |Retirou TV 46": TV_46_09 | para o Evento: arch 2B | ás 2020-02-04 19:03:29.135808-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-05 09:13:49.077398-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_16 | para o Evento: ARCH 2B | ás 2020-02-05 09:15:50.913610-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_05 | para o Evento: ARCH 2B | ás 2020-02-05 09:16:40.412496-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_20 | para o Evento: ARCH 2B | ás 2020-02-05 09:16:49.320112-03:00 |
+ID: henrique@pleno | foi desconnectado às 2020-02-05 09:20:34.662505-03:00 |
+ID: carlos@9100 | connectado ás 2020-02-05 10:07:28.292101-03:00 |
+ID: carlos@9100 |Retornou o notebook: Notebook_Cinza_16 | ás 2020-02-05 10:07:38.603719-03:00 |
+ID: carlos@9100 |Retornou o notebook: Notebook_Cinza_20 | ás 2020-02-05 10:07:51.104599-03:00 |
+ID: carlos@9100 |Retornou o notebook: Notebook_Cinza_05 | ás 2020-02-05 10:08:11.073876-03:00 |
+ID: carlos@9100 | foi desconnectado às 2020-02-05 10:08:26.589748-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-05 14:46:44.124110-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_62 | ás 2020-02-05 14:47:09.021754-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_60 | ás 2020-02-05 14:47:58.068239-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_37 | ás 2020-02-05 14:57:08.577599-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_43 | ás 2020-02-05 14:57:22.321223-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_61 | ás 2020-02-05 14:57:44.707262-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_47 | ás 2020-02-05 14:58:04.347696-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_67 | ás 2020-02-05 14:58:17.592119-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_40 | ás 2020-02-05 14:59:38.010259-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_66 | ás 2020-02-05 15:00:00.349498-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_64 | ás 2020-02-05 15:00:36.432361-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_53 | ás 2020-02-05 15:00:52.001188-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_21 | ás 2020-02-05 15:01:13.700826-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_24 | ás 2020-02-05 15:01:26.071648-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_22 | ás 2020-02-05 15:01:34.807663-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_23 | ás 2020-02-05 15:01:49.003688-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_25 | ás 2020-02-05 15:01:57.848903-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_34 | ás 2020-02-05 15:02:50.249395-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_28 | ás 2020-02-05 15:03:02.448616-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_29 | ás 2020-02-05 15:03:16.145440-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_20 | ás 2020-02-05 15:03:36.690676-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_01 | ás 2020-02-05 15:06:18.837358-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_07 | ás 2020-02-05 15:06:32.222182-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_10 | ás 2020-02-05 15:11:17.577879-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_12 | ás 2020-02-05 15:11:30.291901-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_19 | ás 2020-02-05 15:12:04.549561-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_31 | ás 2020-02-05 15:12:38.963221-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_29 | ás 2020-02-05 15:14:47.117445-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_30 | ás 2020-02-05 15:15:10.283485-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_26 | ás 2020-02-05 15:15:44.260344-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_28 | ás 2020-02-05 15:16:00.687173-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_25 | ás 2020-02-05 15:16:28.158821-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_24 | ás 2020-02-05 15:16:38.345639-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_23 | ás 2020-02-05 15:16:46.005252-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_22 | ás 2020-02-05 15:17:07.346089-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_21 | ás 2020-02-05 15:17:18.843309-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-05 15:46:46.112391-03:00 |
+ID: henrique@pleno | foi desconnectado às 2020-02-05 16:07:31.805763-03:00 |
+ID: carlos@9100 | connectado ás 2020-02-05 16:52:59.077250-03:00 |
+ID: carlos@9100 |Retirou o notebook: Notebook_Cinza_05 | para o Evento: teste | ás 2020-02-05 16:54:05.663529-03:00 |
+ID: carlos@9100 | connectado ás 2020-02-05 16:54:20.483672-03:00 |
+ID: carlos@9100 |Retornou o notebook: Notebook_Cinza_05 | ás 2020-02-05 16:54:39.785212-03:00 |
+ID: carlos@9100 |Retirou o notebook: Notebook_Cinza_05 | para o Evento: testtt | ás 2020-02-05 16:54:59.787271-03:00 |
+ID: carlos@9100 |Retornou o notebook: Notebook_Cinza_05 | ás 2020-02-05 16:55:25.560302-03:00 |
+ID: carlos@9100 | foi desconnectado às 2020-02-05 16:55:49.764471-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-06 09:16:53.693316-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_38 | ás 2020-02-06 09:17:15.190154-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-06 15:52:02.488082-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_30 | para o Evento: rio som luz eventos | ás 2020-02-06 15:54:23.933529-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-06 18:19:36.133697-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_30 | ás 2020-02-06 18:19:47.240917-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-06 18:34:28.872455-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_05 | para o Evento: Rio som luz | ás 2020-02-06 18:35:29.429361-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_06 | para o Evento: Rio som luz | ás 2020-02-06 18:35:44.779787-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_01 | para o Evento: Rio som luz | ás 2020-02-06 18:35:55.294206-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_02 | para o Evento: Rio som luz | ás 2020-02-06 18:36:07.945828-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_12 | para o Evento: Rio som luz | ás 2020-02-06 18:36:21.112251-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-07 14:21:48.557308-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_10 | para o Evento: FABULA | ás 2020-02-07 14:22:53.562621-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_07 | para o Evento: FABULA | ás 2020-02-07 14:23:28.132282-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_01 | para o Evento: FABULA | ás 2020-02-07 14:23:40.752704-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-07 14:34:23.941825-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-07 16:54:18.102600-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-07 17:04:27.701747-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_20 | para o Evento: 2020-20 | ás 2020-02-07 17:07:55.525309-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_20 | ás 2020-02-07 17:08:23.808159-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_20 | para o Evento:  ARCH 2B  | ás 2020-02-07 17:09:53.352315-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_05 | para o Evento:  ARCH 2B  | ás 2020-02-07 17:10:16.362355-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-08 10:06:52.292518-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-08 11:13:17.033542-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_27 | ás 2020-02-08 11:13:45.453168-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_30 | ás 2020-02-08 11:14:00.022001-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_32 | ás 2020-02-08 11:15:32.721868-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_55 | ás 2020-02-08 11:16:43.647489-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_56 | ás 2020-02-08 11:16:52.439746-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_41 | ás 2020-02-08 11:17:03.706391-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_57 | ás 2020-02-08 11:17:09.692733-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_63 | ás 2020-02-08 11:18:52.012150-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_50 | ás 2020-02-08 11:19:05.212905-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_59 | ás 2020-02-08 11:20:33.698966-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_48 | ás 2020-02-08 11:20:40.082297-03:00 |
+ID: henrique@pleno | foi desconnectado às 2020-02-08 11:23:32.801037-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-08 11:23:41.729548-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_01 | ás 2020-02-08 11:25:52.119971-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_02 | ás 2020-02-08 11:26:57.279387-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_05 | ás 2020-02-08 11:27:17.780560-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_07 | ás 2020-02-08 11:34:11.463893-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_54 | ás 2020-02-08 11:34:42.434833-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_17 | ás 2020-02-08 11:34:51.751365-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_33 | ás 2020-02-08 11:37:35.075797-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_14 | ás 2020-02-08 11:38:00.337242-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_16 | ás 2020-02-08 11:44:50.745004-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_18 | ás 2020-02-08 11:45:03.884756-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_42 | ás 2020-02-08 11:45:14.460361-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_68 | ás 2020-02-08 11:45:34.005479-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_58 | ás 2020-02-08 11:45:47.616257-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_52 | ás 2020-02-08 11:45:58.752894-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_46 | ás 2020-02-08 11:46:11.164604-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_49 | ás 2020-02-08 11:47:09.065084-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_45 | ás 2020-02-08 11:47:20.596743-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_06 | ás 2020-02-08 11:48:16.372934-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_31 | ás 2020-02-08 11:48:26.964540-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_26 | ás 2020-02-08 11:48:36.092432-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_13 | ás 2020-02-08 11:48:48.136121-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_15 | ás 2020-02-08 11:48:57.920681-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_02 | ás 2020-02-08 11:50:10.616839-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_04 | ás 2020-02-08 11:50:23.396570-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_01 | ás 2020-02-08 11:50:49.784247-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_03 | ás 2020-02-08 11:51:00.960886-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_09 | ás 2020-02-08 11:51:16.256761-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_06 | ás 2020-02-08 11:51:45.164397-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_12 | ás 2020-02-08 11:52:05.600325-03:00 |
+ID: henrique@pleno |Retirou TV 46": TV_46_42 | para o Evento: ARCH 2B | ás 2020-02-08 11:58:32.686365-03:00 |
+ID: henrique@pleno |Retirou TV 46": TV_46_57 | para o Evento: ARCH 2B | ás 2020-02-08 11:58:51.801846-03:00 |
+ID: henrique@pleno |Retirou TV 46": TV_46_56 | para o Evento: ARCH 2B | ás 2020-02-08 11:59:17.615323-03:00 |
+ID: henrique@pleno |Retirou TV 46": TV_46_41 | para o Evento: ARCH 2B | ás 2020-02-08 11:59:35.334336-03:00 |
+ID: henrique@pleno |Retirou TV 46": TV_46_55 | para o Evento: ARCH 2B | ás 2020-02-08 11:59:45.701929-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-08 13:35:19.987575-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-08 13:50:10.890790-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_01 | para o Evento: GFT 2020 | ás 2020-02-08 13:50:59.216532-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_08 | para o Evento: GFT 2020 | ás 2020-02-08 13:53:33.686104-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-10 09:25:00.281686-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_20 | ás 2020-02-10 09:25:11.685306-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_10 | ás 2020-02-10 09:25:47.315768-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_01 | ás 2020-02-10 09:26:22.993030-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-10 10:32:16.911125-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-10 10:44:30.596004-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-10 11:30:39.207680-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-10 17:45:38.838765-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_41 | ás 2020-02-10 17:46:04.703610-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_55 | ás 2020-02-10 17:46:30.256455-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_05 | ás 2020-02-10 17:47:15.980135-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_07 | ás 2020-02-10 17:48:29.284663-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-10 18:17:38.274790-03:00 |
+ID: henrique@pleno |Retirou TV 75": TV_75_01 | para o Evento: SUB EMBRASOM | ás 2020-02-10 18:19:36.897397-03:00 |
+ID: henrique@pleno |Retirou TV 75": TV_75_02 | para o Evento: SUB EMBRASOM | ás 2020-02-10 18:20:26.099883-03:00 |
+ID: henrique@pleno |Retirou TV 75": TV_75_03 | para o Evento: SUB EMBRASOM | ás 2020-02-10 18:20:33.135495-03:00 |
+ID: henrique@pleno |Retirou TV 75": TV_75_04 | para o Evento: SUB EMBRASOM | ás 2020-02-10 18:20:41.653110-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_30 | para o Evento: SUB SP | ás 2020-02-10 18:23:36.123814-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_28 | para o Evento: SUB SP | ás 2020-02-10 18:23:49.212237-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_29 | para o Evento: SUB SP | ás 2020-02-10 18:23:59.133855-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_35 | para o Evento: SUB SP | ás 2020-02-10 18:24:09.414272-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_33 | para o Evento: SUB SP | ás 2020-02-10 18:24:16.933486-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_32 | para o Evento: SUB SP | ás 2020-02-10 18:24:24.343498-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_31 | para o Evento: SUB SP | ás 2020-02-10 18:24:32.689513-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_27 | para o Evento: SUB SP | ás 2020-02-10 18:24:44.327133-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_26 | para o Evento: SUB SP | ás 2020-02-10 18:24:54.264351-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_25 | para o Evento: SUB SP | ás 2020-02-10 18:25:01.939564-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_24 | para o Evento: SUB SP | ás 2020-02-10 18:25:08.007975-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_23 | para o Evento: SUB SP | ás 2020-02-10 18:25:22.812400-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_22 | para o Evento: SUB SP | ás 2020-02-10 18:25:41.345233-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_21 | para o Evento: SUB SP | ás 2020-02-10 18:26:50.297353-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_20 | para o Evento: SUB SP | ás 2020-02-10 18:26:57.332965-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_19 | para o Evento: SUB SP | ás 2020-02-10 18:27:06.739782-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_18 | para o Evento: SUB SP | ás 2020-02-10 18:27:12.995393-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_17 | para o Evento: SUB SP | ás 2020-02-10 18:27:29.843422-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_16 | para o Evento: SUB SP | ás 2020-02-10 18:27:36.551434-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_15 | para o Evento: SUB SP | ás 2020-02-10 18:27:52.572662-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_14 | para o Evento: SUB SP | ás 2020-02-10 18:27:58.282271-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_13 | para o Evento: SUB SP | ás 2020-02-10 18:28:05.817085-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_12 | para o Evento: SUB SP | ás 2020-02-10 18:28:19.638709-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_11 | para o Evento: SUB SP | ás 2020-02-10 18:28:36.939139-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_10 | para o Evento: SUB SP | ás 2020-02-10 18:28:46.767156-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_09 | para o Evento: SUB SP | ás 2020-02-10 18:28:55.237971-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_08 | para o Evento: SUB SP | ás 2020-02-10 18:29:02.772784-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_07 | para o Evento: SUB SP | ás 2020-02-10 18:29:09.964396-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_06 | para o Evento: SUB SP | ás 2020-02-10 18:29:20.432015-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_05 | para o Evento: SUB SP | ás 2020-02-10 18:29:44.768057-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_04 | para o Evento: SUB SP | ás 2020-02-10 18:29:53.847273-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_03 | para o Evento: SUB SP | ás 2020-02-10 18:30:00.992085-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_02 | para o Evento: SUB SP | ás 2020-02-10 18:30:11.475304-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_01 | para o Evento: SUB SP | ás 2020-02-10 18:30:21.802522-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-10 18:40:21.628638-03:00 |
+ID: carlos@9100 | connectado ás 2020-02-11 16:55:32.912557-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-12 15:10:42.219135-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-12 16:07:36.601369-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_13 | para o Evento: Exelts Urca | ás 2020-02-12 16:10:23.502269-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_25 | para o Evento: Exelts Urca | ás 2020-02-12 16:10:42.142925-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_01 | para o Evento: Exelts Urca | ás 2020-02-12 16:10:51.489240-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_10 | para o Evento: Exelts Urca | ás 2020-02-12 16:11:05.989239-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_12 | para o Evento: Exelts Urca | ás 2020-02-12 16:11:22.004863-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_18 | para o Evento: Profa de ouro | ás 2020-02-12 16:16:02.600399-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_04 | para o Evento: Profa de ouro | ás 2020-02-12 16:16:23.006680-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_08 | para o Evento: Profa de ouro | ás 2020-02-12 16:16:31.366070-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_14 | para o Evento: Profa de ouro | ás 2020-02-12 16:16:41.022354-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_12 | ás 2020-02-12 16:17:56.015984-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_10 | ás 2020-02-12 16:18:04.062856-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_01 | ás 2020-02-12 16:18:15.969107-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_25 | ás 2020-02-12 16:18:25.703475-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_13 | ás 2020-02-12 16:18:32.547260-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_13 | para o Evento: Morro da urca | ás 2020-02-12 16:19:11.250390-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_25 | para o Evento: Morro da urca | ás 2020-02-12 16:20:15.824614-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_10 | para o Evento: Morro da urca | ás 2020-02-12 16:20:46.230896-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_01 | para o Evento: Morro da urca | ás 2020-02-12 16:21:00.918366-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_12 | para o Evento: Morro da urca | ás 2020-02-12 16:21:15.421592-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_19 | para o Evento: Rio Opem | ás 2020-02-12 16:23:12.423769-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_03 | para o Evento: Rio Opem | ás 2020-02-12 16:23:22.580068-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_11 | para o Evento: Rio Opem | ás 2020-02-12 16:23:37.564442-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_16 | para o Evento: Rio Opem | ás 2020-02-12 16:24:03.048740-03:00 |
+ID: carlos@9100 | connectado ás 2020-02-12 16:43:55.641751-03:00 |
+ID: carlos@9100 | foi desconnectado às 2020-02-12 16:51:52.638116-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-12 17:21:56.659391-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_05 | para o Evento: Profa de Ouro | ás 2020-02-12 17:25:21.611571-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_12 | para o Evento: Profa de Ouro | ás 2020-02-12 17:25:29.697856-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_02 | para o Evento: Profa de Ouro | ás 2020-02-12 17:25:39.780254-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_06 | para o Evento: Profa de Ouro | ás 2020-02-12 17:26:25.945938-03:00 |
+ID: carlos@9100 | connectado ás 2020-02-12 17:30:55.476347-03:00 |
+ID: carlos@9100 | foi desconnectado às 2020-02-12 17:31:12.040340-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-12 18:23:28.751558-03:00 |
+ID: henrique@pleno |Retirou TV 32": TV_32_14 | para o Evento: Prodigy | ás 2020-02-12 18:24:19.814463-03:00 |
+ID: henrique@pleno |Retirou TV 32": TV_32_13 | para o Evento: Prodigy | ás 2020-02-12 18:24:35.084565-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-13 09:14:55.122581-03:00 |
+ID: henrique@pleno |Retirou TV 28": TV_28_07 | para o Evento: Profa de Ouro | ás 2020-02-13 09:22:49.818705-03:00 |
+ID: henrique@pleno |Retirou TV 28": TV_28_11 | para o Evento: Profa de Ouro | ás 2020-02-13 09:23:07.934460-03:00 |
+ID: henrique@pleno |Retirou TV 28": TV_28_15 | para o Evento: Profa de Ouro | ás 2020-02-13 09:23:23.058580-03:00 |
+ID: henrique@pleno |Retirou TV 28": TV_28_09 | para o Evento: Profa de Ouro | ás 2020-02-13 09:23:33.339606-03:00 |
+ID: carlos@9100 | connectado ás 2020-02-13 09:58:17.282658-03:00 |
+ID: carlos@9100 | foi desconnectado às 2020-02-13 09:58:23.632378-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-13 18:20:07.731981-03:00 |
+ID: carlos@9100 | connectado ás 2020-02-14 10:00:16.287718-03:00 |
+ID: carlos@9100 | foi desconnectado às 2020-02-14 10:00:25.888405-03:00 |
+ID: carlos@9100 | connectado ás 2020-02-14 10:01:10.445828-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-14 10:25:59.236249-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_13 | ás 2020-02-14 10:27:11.189242-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_25 | ás 2020-02-14 10:27:29.720862-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_01 | ás 2020-02-14 10:27:49.234839-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_10 | ás 2020-02-14 10:28:01.509327-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_12 | ás 2020-02-14 10:28:16.555700-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-14 11:04:06.466573-03:00 |
+ID: henrique@pleno |Retornou TV 32": TV_32_14 | ás 2020-02-14 11:04:28.066973-03:00 |
+ID: henrique@pleno |Retornou TV 32": TV_32_13 | ás 2020-02-14 11:04:37.195356-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-14 11:31:49.805249-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_07 | para o Evento: Data Soft | ás 2020-02-14 11:35:11.892579-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_05 | para o Evento: Data Soft | ás 2020-02-14 11:35:35.729742-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-14 11:39:38.582256-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-14 17:59:23.894883-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_56 | ás 2020-02-14 17:59:58.911045-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_57 | ás 2020-02-14 18:00:29.174640-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_42 | ás 2020-02-14 18:00:44.868095-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-15 11:37:33.839331-03:00 |
+ID: henrique@pleno |Retirou TV 46": TV_46_56 | para o Evento: Data Soft | ás 2020-02-15 11:39:21.468130-03:00 |
+ID: henrique@pleno |Retirou TV 46": TV_46_57 | para o Evento: Data Soft | ás 2020-02-15 11:41:11.252849-03:00 |
+ID: henrique@pleno |Retirou TV 46": TV_46_42 | para o Evento: Data Soft | ás 2020-02-15 11:41:32.856385-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-15 13:47:35.831911-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-15 16:58:18.599783-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_03 | ás 2020-02-15 17:01:51.916971-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_11 | ás 2020-02-15 17:02:05.437303-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-17 10:23:59.561304-03:00 |
+ID: henrique@pleno |Retornou TV 28": TV_28_11 | ás 2020-02-17 10:24:28.483407-03:00 |
+ID: henrique@pleno |Retornou TV 28": TV_28_15 | ás 2020-02-17 10:27:19.644888-03:00 |
+ID: henrique@pleno |Retornou TV 28": TV_28_09 | ás 2020-02-17 10:27:36.062602-03:00 |
+ID: henrique@pleno |Retornou TV 28": TV_28_07 | ás 2020-02-17 10:27:48.758642-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-17 10:31:43.397466-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_05 | ás 2020-02-17 10:32:10.533171-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_06 | ás 2020-02-17 10:32:44.619140-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_02 | ás 2020-02-17 10:32:52.568640-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_12 | ás 2020-02-17 10:33:01.459946-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_01 | ás 2020-02-17 10:34:30.239071-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_08 | ás 2020-02-17 10:34:40.919248-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_65 | ás 2020-02-17 10:36:43.923028-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_44 | ás 2020-02-17 10:36:53.902351-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_39 | ás 2020-02-17 10:37:09.752450-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_51 | ás 2020-02-17 10:38:33.051401-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_35 | ás 2020-02-17 10:38:49.611148-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_56 | ás 2020-02-17 10:40:20.721504-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_57 | ás 2020-02-17 10:40:31.415168-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_42 | ás 2020-02-17 10:40:43.827748-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-17 10:59:52.259075-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_04 | ás 2020-02-17 11:00:24.932320-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_18 | ás 2020-02-17 11:00:37.084097-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_14 | ás 2020-02-17 11:01:02.945589-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_08 | ás 2020-02-17 11:01:08.128599-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_07 | ás 2020-02-17 11:01:58.697288-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_05 | ás 2020-02-17 11:20:57.782714-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-17 15:21:31.725445-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_08 | para o Evento: ADUISER EVENTOS | ás 2020-02-17 15:23:19.193316-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_01 | para o Evento: ADUISER EVENTOS | ás 2020-02-17 15:23:33.509551-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_05 | para o Evento: ADUISER EVENTOS | ás 2020-02-17 15:23:44.421862-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_12 | para o Evento: ADUISER EVENTOS | ás 2020-02-17 15:23:55.162423-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_02 | para o Evento: ADUISER EVENTOS | ás 2020-02-17 15:24:05.902816-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_06 | para o Evento: ADUISER EVENTOS | ás 2020-02-17 15:24:15.337305-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-17 16:10:10.121449-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_14 | para o Evento: Projac | ás 2020-02-17 16:10:48.183912-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_08 | para o Evento:  ADVISER EVENTOS | ás 2020-02-17 16:11:39.487926-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-17 17:36:00.264060-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-18 10:46:12.607304-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-18 14:08:06.214047-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_10 | para o Evento: Neo Plub | ás 2020-02-18 14:09:11.308533-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_12 | para o Evento: Neo Plub | ás 2020-02-18 14:10:01.400702-03:00 |
+ID: carlos@9100 | connectado ás 2020-02-18 15:56:37.477576-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-18 16:41:08.740262-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_08 | ás 2020-02-18 16:41:54.868401-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_01 | ás 2020-02-18 16:42:04.410342-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_08 | ás 2020-02-18 16:42:18.490208-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-18 17:39:45.554991-03:00 |
+ID: henrique@pleno |Retirou TV 46": TV_46_30 | para o Evento: Neo Publi | ás 2020-02-18 17:40:31.249619-03:00 |
+ID: henrique@pleno |Retirou TV 46": TV_46_27 | para o Evento: Neo Publi | ás 2020-02-18 17:40:45.354056-03:00 |
+ID: carlos@9100 | connectado ás 2020-02-18 18:30:00.282273-03:00 |
+ID: carlos@9100 |Retirou o notebook: Notebook_Cinza_03 | para o Evento: LBR | ás 2020-02-18 18:30:29.851546-03:00 |
+ID: carlos@9100 |Retirou o notebook: Notebook_Cinza_08 | para o Evento: LBR | ás 2020-02-18 18:30:39.776077-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-19 15:59:22.422283-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_21 | para o Evento: CLAUDIO BARBIERE | ás 2020-02-19 15:59:58.754302-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_22 | para o Evento: CLAUDIO BARBIERE | ás 2020-02-19 16:00:07.740851-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_20 | para o Evento: CLAUDIO BARBIERE | ás 2020-02-19 16:00:16.078370-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_19 | para o Evento: CLAUDIO BARBIERE | ás 2020-02-19 16:00:33.207433-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_03 | para o Evento: CLAUDIO BARBIERE | ás 2020-02-19 16:00:49.393359-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_01 | para o Evento: CLAUDIO BARBIERE | ás 2020-02-19 16:00:58.047682-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_13 | para o Evento: CLAUDIO BARBIERE | ás 2020-02-19 16:01:12.821213-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_08 | para o Evento: CLAUDIO BARBIERE | ás 2020-02-19 16:01:20.562992-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_31 | para o Evento: CLAUDIO BARBIERE  | ás 2020-02-19 16:02:32.010280-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-19 16:45:45.892360-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_27 | ás 2020-02-19 16:46:18.274551-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_30 | ás 2020-02-19 16:46:27.033236-03:00 |
+ID: carlos@9100 | connectado ás 2020-02-19 17:49:05.914364-03:00 |
+ID: carlos@9100 | foi desconnectado às 2020-02-19 17:50:15.138501-03:00 |
+ID: carlos@9100 | connectado ás 2020-02-20 10:08:05.119766-03:00 |
+ID: carlos@9100 |Retornou o notebook: Notebook_Cinza_03 | ás 2020-02-20 10:08:17.549983-03:00 |
+ID: carlos@9100 |Retornou o notebook: Notebook_Cinza_08 | ás 2020-02-20 10:08:35.156908-03:00 |
+ID: carlos@9100 | foi desconnectado às 2020-02-20 10:08:40.516145-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-20 17:28:18.902989-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_31 | ás 2020-02-20 17:29:46.145690-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_10 | ás 2020-02-20 17:30:33.412180-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_03 | ás 2020-02-20 17:31:44.124953-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_13 | ás 2020-02-20 17:31:54.372640-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-20 18:47:43.599253-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_13 | para o Evento: PIER MAUA  | ás 2020-02-20 18:48:58.403749-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_20 | para o Evento: PIER MAUA  | ás 2020-02-20 18:50:13.647434-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_01 | para o Evento: PIER MAUA  | ás 2020-02-20 18:50:26.966135-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-21 09:05:48.332258-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_03 | para o Evento: CLAUDIO BARBIERE | ás 2020-02-21 09:06:54.241760-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-21 13:11:07.782535-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-21 16:19:53.073304-03:00 |
+ID: carlos@9100 | connectado ás 2020-02-21 16:49:50.696831-03:00 |
+ID: carlos@9100 |Retirou o notebook: Notebook_Cinza_10 | para o Evento: GRP8 | ás 2020-02-21 16:50:41.089165-03:00 |
+ID: carlos@9100 | foi desconnectado às 2020-02-21 16:50:46.856933-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-21 16:57:44.344250-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-21 17:13:58.057306-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_04 | para o Evento: 	AGENCIA PIMENTA  | ás 2020-02-21 17:15:08.423133-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_08 | para o Evento: 	AGENCIA PIMENTA  | ás 2020-02-21 17:15:35.561874-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_03 | para o Evento: 	AGENCIA PIMENTA  | ás 2020-02-21 17:15:54.885027-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-21 17:29:59.827688-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_25 | para o Evento:  SH7 Alto da boa vista | ás 2020-02-21 17:31:30.412312-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_31 | para o Evento:  SH7 Alto da boa vista | ás 2020-02-21 17:32:32.869822-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-21 18:04:59.585344-03:00 |
+ID: henrique@pleno |Retirou TV 32": TV_32_07 | para o Evento: SH7 ALTO DA BOA VISTA | ás 2020-02-21 18:05:54.210556-03:00 |
+ID: henrique@pleno |Retirou TV 32": TV_32_15 | para o Evento: SH7 ALTO DA BOA VISTA | ás 2020-02-21 18:06:02.850151-03:00 |
+ID: henrique@pleno |Retirou TV 32": TV_32_06 | para o Evento: SH7 ALTO DA BOA VISTA | ás 2020-02-21 18:06:13.824544-03:00 |
+ID: henrique@pleno |Retirou TV 32": TV_32_02 | para o Evento: SH7 ALTO DA BOA VISTA | ás 2020-02-21 18:06:22.804618-03:00 |
+ID: henrique@pleno |Retirou TV 32": TV_32_14 | para o Evento: SH7 ALTO DA BOA VISTA | ás 2020-02-21 18:06:32.776686-03:00 |
+ID: henrique@pleno |Retirou TV 32": TV_32_13 | para o Evento: SH7 ALTO DA BOA VISTA | ás 2020-02-21 18:06:46.878835-03:00 |
+ID: henrique@pleno |Retirou TV 32": TV_32_12 | para o Evento: SH7 ALTO DA BOA VISTA | ás 2020-02-21 18:07:13.292366-03:00 |
+ID: henrique@pleno |Retirou TV 32": TV_32_08 | para o Evento: SH7 ALTO DA BOA VISTA | ás 2020-02-21 18:07:27.731383-03:00 |
+ID: henrique@pleno |Retirou TV 32": TV_32_04 | para o Evento: SH7 ALTO DA BOA VISTA | ás 2020-02-21 18:07:36.269060-03:00 |
+ID: henrique@pleno |Retirou TV 32": TV_32_05 | para o Evento: SH7 ALTO DA BOA VISTA | ás 2020-02-21 18:07:43.962751-03:00 |
+ID: henrique@pleno |Retirou TV 32": TV_32_01 | para o Evento: SH7 ALTO DA BOA VISTA | ás 2020-02-21 18:07:52.508469-03:00 |
+ID: henrique@pleno |Retirou TV 32": TV_32_03 | para o Evento: SH7 ALTO DA BOA VISTA | ás 2020-02-21 18:07:59.612174-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-24 09:03:11.690399-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_16 | ás 2020-02-24 09:03:22.429401-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_19 | ás 2020-02-24 09:03:34.894132-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_14 | ás 2020-02-24 09:04:11.139405-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-24 09:23:39.138840-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-26 09:29:12.602715-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_03 | ás 2020-02-26 09:30:09.716523-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_08 | ás 2020-02-26 09:30:21.168810-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_04 | ás 2020-02-26 09:30:31.030207-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_31 | ás 2020-02-26 09:31:58.212114-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_25 | ás 2020-02-26 09:32:22.774077-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-26 11:36:14.067143-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-26 11:40:18.046314-03:00 |
+ID: henrique@pleno |Retornou TV 32": TV_32_07 | ás 2020-02-26 11:40:56.784519-03:00 |
+ID: henrique@pleno |Retornou TV 32": TV_32_15 | ás 2020-02-26 11:42:40.997161-03:00 |
+ID: henrique@pleno |Retornou TV 32": TV_32_06 | ás 2020-02-26 11:42:52.309903-03:00 |
+ID: henrique@pleno |Retornou TV 32": TV_32_02 | ás 2020-02-26 11:43:03.219603-03:00 |
+ID: henrique@pleno |Retornou TV 32": TV_32_14 | ás 2020-02-26 11:43:19.898688-03:00 |
+ID: henrique@pleno |Retornou TV 32": TV_32_13 | ás 2020-02-26 11:43:28.248733-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-26 13:01:03.083420-03:00 |
+ID: henrique@pleno |Retornou TV 32": TV_32_12 | ás 2020-02-26 13:03:10.669506-03:00 |
+ID: henrique@pleno |Retornou TV 32": TV_32_08 | ás 2020-02-26 13:03:18.397674-03:00 |
+ID: henrique@pleno |Retornou TV 32": TV_32_04 | ás 2020-02-26 13:03:26.692608-03:00 |
+ID: henrique@pleno |Retornou TV 32": TV_32_05 | ás 2020-02-26 13:03:36.688114-03:00 |
+ID: henrique@pleno |Retornou TV 32": TV_32_01 | ás 2020-02-26 13:03:47.056754-03:00 |
+ID: henrique@pleno |Retornou TV 32": TV_32_03 | ás 2020-02-26 13:03:55.708446-03:00 |
+ID: henrique@pleno | connectado ás 2020-02-29 10:14:52.969686-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-01 08:29:15.555431-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_12 | ás 2020-03-01 08:29:32.860612-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-01 08:59:38.986522-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_10 | ás 2020-03-01 08:59:55.099690-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-02 09:18:51.256276-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_13 | ás 2020-03-02 09:19:08.168258-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_20 | ás 2020-03-02 09:19:23.497350-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_01 | ás 2020-03-02 09:19:33.544238-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_19 | ás 2020-03-02 09:21:17.663028-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_01 | ás 2020-03-02 09:21:30.072485-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_21 | ás 2020-03-02 09:21:41.435050-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_08 | ás 2020-03-02 09:21:51.248145-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_22 | ás 2020-03-02 09:22:31.829205-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_20 | ás 2020-03-02 09:22:50.142345-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_03 | ás 2020-03-02 09:23:37.430602-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-02 09:50:18.015211-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_18 | para o Evento: two ligth | ás 2020-03-02 09:50:57.453840-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_05 | para o Evento: two ligth | ás 2020-03-02 09:51:09.936130-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_08 | para o Evento: two ligth | ás 2020-03-02 09:51:21.468386-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-02 11:47:22.959963-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_12 | para o Evento: Minas Gerais | ás 2020-03-02 11:48:46.124257-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_11 | para o Evento: Minas Gerais | ás 2020-03-02 11:48:56.386817-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_01 | para o Evento: Minas Gerais | ás 2020-03-02 11:49:13.655946-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-02 13:10:27.102590-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-02 13:39:58.099545-03:00 |
+ID: henrique@pleno |Retirou TV 46": TV_46_65 | para o Evento: SIEMENS | ás 2020-03-02 13:42:29.019374-03:00 |
+ID: henrique@pleno |Retirou TV 46": TV_46_44 | para o Evento: SIEMENS | ás 2020-03-02 13:42:47.879672-03:00 |
+ID: henrique@pleno |Retirou TV 46": TV_46_39 | para o Evento: SIEMENS | ás 2020-03-02 13:42:58.856268-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-02 14:12:03.435246-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-02 14:14:33.230339-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_04 | para o Evento: LARRAT | ás 2020-03-02 14:14:53.099808-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_07 | para o Evento: LARRAT | ás 2020-03-02 14:15:08.251000-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_03 | para o Evento: LARRAT | ás 2020-03-02 14:17:54.202568-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_14 | para o Evento: LARRAT | ás 2020-03-02 14:28:00.359876-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-02 15:39:55.962842-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_05 | ás 2020-03-02 15:40:52.517071-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_12 | ás 2020-03-02 15:41:07.790534-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_02 | ás 2020-03-02 15:41:59.989909-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_06 | ás 2020-03-02 15:42:10.670344-03:00 |
+ID: carlos@9100 | connectado ás 2020-03-03 13:45:31.873705-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-03 17:25:28.221300-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_10 | para o Evento: B. Ferraz | ás 2020-03-03 17:26:19.288753-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_20 | para o Evento: B. Ferraz | ás 2020-03-03 17:26:28.679469-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_23 | para o Evento: B. Ferraz | ás 2020-03-03 17:26:48.512115-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_30 | para o Evento: Projac | ás 2020-03-03 18:09:27.801570-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_13 | para o Evento: Projac | ás 2020-03-03 18:09:37.508665-03:00 |
+ID: henrique@pleno | foi desconnectado às 2020-03-03 18:11:10.719515-03:00 |
+ID: carlos@9100 | connectado ás 2020-03-03 18:11:13.985115-03:00 |
+ID: carlos@9100 | foi desconnectado às 2020-03-03 18:11:20.143719-03:00 |
+ID: carlos@9100 | connectado ás 2020-03-04 18:00:20.779578-03:00 |
+ID: carlos@9100 |Retornou o notebook: Notebook_Cinza_03 | ás 2020-03-04 18:01:10.094445-03:00 |
+ID: carlos@9100 |Retornou o notebook: Notebook_Cinza_04 | ás 2020-03-04 18:01:48.875697-03:00 |
+ID: carlos@9100 |Retornou o notebook: Notebook_Cinza_14 | ás 2020-03-04 18:02:17.371965-03:00 |
+ID: carlos@9100 |Retornou o notebook: Notebook_Cinza_07 | ás 2020-03-04 18:02:46.356288-03:00 |
+ID: carlos@9100 | foi desconnectado às 2020-03-04 18:25:26.391223-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-04 18:34:42.339520-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_14 | para o Evento: Two Ligth Globo | ás 2020-03-04 18:38:25.786189-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_03 | para o Evento: Two Ligth Globo | ás 2020-03-04 18:38:52.848640-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_04 | para o Evento: LC Led Projac | ás 2020-03-04 18:43:28.042794-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_07 | para o Evento: LC Led Projac | ás 2020-03-04 18:44:09.980248-03:00 |
+ID: henrique@pleno | foi desconnectado às 2020-03-04 18:45:41.360110-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-05 09:13:05.679489-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_05 | ás 2020-03-05 09:13:21.507566-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_18 | ás 2020-03-05 09:13:29.945117-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_08 | ás 2020-03-05 09:17:10.706052-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-05 10:54:38.452772-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_15 | para o Evento: ENDO 2020 | ás 2020-03-05 10:55:50.951924-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_18 | para o Evento: ENDO 2020 | ás 2020-03-05 10:56:01.780086-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_14 | para o Evento: ENDO 2020 | ás 2020-03-05 10:56:09.951912-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_16 | para o Evento: ENDO 2020 | ás 2020-03-05 10:56:40.701978-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_10 | para o Evento: ENDO 2020 | ás 2020-03-05 10:57:04.890941-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_26 | para o Evento: ENDO 2020 | ás 2020-03-05 10:57:15.718908-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_23 | para o Evento: ENDO 2020 | ás 2020-03-05 10:57:24.609915-03:00 |
+ID: henrique@pleno |Retirou TV 43": TV_43_24 | para o Evento: ENDO 2020 | ás 2020-03-05 10:57:32.750540-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_25 | ás 2020-03-05 11:00:05.912860-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_27 | ás 2020-03-05 11:00:15.490970-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_19 | ás 2020-03-05 11:00:26.084737-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_20 | ás 2020-03-05 11:00:39.366017-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_29 | ás 2020-03-05 11:00:59.483454-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_16 | ás 2020-03-05 11:01:08.139694-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_25 | para o Evento: ENDO 2020 | ás 2020-03-05 11:02:00.967868-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_27 | para o Evento: ENDO 2020 | ás 2020-03-05 11:02:08.295993-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_19 | para o Evento: ENDO 2020 | ás 2020-03-05 11:02:15.764767-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-05 11:02:46.664071-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_20 | para o Evento: ENDO 2020 | ás 2020-03-05 11:06:26.165278-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_29 | para o Evento: ENDO 2020 | ás 2020-03-05 11:06:37.071480-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_16 | para o Evento: ENDO 2020 | ás 2020-03-05 11:06:45.102810-03:00 |
+ID: henrique@pleno |Retornou TV 75": TV_75_02 | ás 2020-03-05 11:08:00.927611-03:00 |
+ID: henrique@pleno |Retornou TV 75": TV_75_04 | ás 2020-03-05 11:08:13.646389-03:00 |
+ID: henrique@pleno |Retirou TV 75": TV_75_02 | para o Evento: ENDO 2020 | ás 2020-03-05 11:08:45.208814-03:00 |
+ID: henrique@pleno |Retirou TV 75": TV_75_04 | para o Evento: ENDO 2020 | ás 2020-03-05 11:09:11.021395-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-05 13:21:02.782591-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_34 | ás 2020-03-05 13:28:49.834850-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_30 | ás 2020-03-05 13:29:06.256918-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_28 | ás 2020-03-05 13:29:19.350476-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_33 | ás 2020-03-05 13:29:34.772350-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_31 | ás 2020-03-05 13:29:46.772350-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_24 | ás 2020-03-05 13:29:56.982961-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_23 | ás 2020-03-05 13:30:26.795457-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_22 | ás 2020-03-05 13:30:56.607958-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_18 | ás 2020-03-05 13:31:08.092318-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_17 | ás 2020-03-05 13:31:19.748542-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_15 | ás 2020-03-05 13:31:29.357910-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_14 | ás 2020-03-05 13:31:41.091388-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_13 | ás 2020-03-05 13:31:59.575762-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_12 | ás 2020-03-05 13:32:09.200748-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_10 | ás 2020-03-05 13:32:15.466391-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_11 | ás 2020-03-05 13:32:26.075748-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_09 | ás 2020-03-05 13:32:36.028885-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_08 | ás 2020-03-05 13:32:42.231973-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_06 | ás 2020-03-05 13:32:58.716373-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_05 | ás 2020-03-05 13:33:13.403918-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_04 | ás 2020-03-05 13:33:20.236550-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_03 | ás 2020-03-05 13:33:26.503968-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_02 | ás 2020-03-05 13:33:38.660249-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_01 | ás 2020-03-05 13:33:51.441475-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_26 | ás 2020-03-05 13:43:20.959652-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_32 | ás 2020-03-05 13:43:46.303430-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_35 | ás 2020-03-05 13:43:57.133610-03:00 |
+ID: henrique@pleno |Retornou TV 75": TV_75_03 | ás 2020-03-05 13:44:27.289858-03:00 |
+ID: henrique@pleno |Retornou TV 75": TV_75_01 | ás 2020-03-05 13:44:35.071109-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-05 16:39:52.627008-03:00 |
+ID: henrique@pleno |Retirou TV 28": TV_28_11 | para o Evento: ALL Business | ás 2020-03-05 16:42:01.295932-03:00 |
+ID: henrique@pleno |Retirou TV 28": TV_28_04 | para o Evento: ALL Business | ás 2020-03-05 16:43:00.375915-03:00 |
+ID: henrique@pleno |Retirou TV 28": TV_28_08 | para o Evento: ALL Business | ás 2020-03-05 16:43:17.235532-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_16 | para o Evento: ENDO 2020 | ás 2020-03-05 16:49:44.466329-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_08 | para o Evento: ENDO 2020 | ás 2020-03-05 16:49:59.701014-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_05 | para o Evento: ENDO 2020 | ás 2020-03-05 16:52:04.856568-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_18 | para o Evento: ENDO 2020 | ás 2020-03-05 16:54:26.245484-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_19 | para o Evento: ENDO 2020 | ás 2020-03-05 16:55:31.373737-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_31 | para o Evento: ENDO 2020 | ás 2020-03-05 16:57:12.348244-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_25 | para o Evento: ENDO 2020 | ás 2020-03-05 16:59:56.921785-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-05 17:01:51.808246-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-06 07:31:03.502549-03:00 |
+ID: henrique@pleno | foi desconnectado às 2020-03-06 07:31:47.659148-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-06 07:31:56.768535-03:00 |
+ID: henrique@pleno |Retirou TV 75": TV_75_01 | para o Evento: ENDO 2020 | ás 2020-03-06 07:33:14.310036-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-06 07:34:26.447527-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_23 | ás 2020-03-06 07:34:48.494373-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_20 | ás 2020-03-06 07:34:59.041198-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_10 | ás 2020-03-06 07:35:15.025653-03:00 |
+ID: henrique@pleno | foi desconnectado às 2020-03-06 07:35:22.478744-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-06 08:27:37.723537-03:00 |
+ID: carlos@9100 | connectado ás 2020-03-07 10:11:29.655550-03:00 |
+ID: carlos@9100 |Retornou o notebook: Notebook_Cinza_14 | ás 2020-03-07 10:11:39.593344-03:00 |
+ID: carlos@9100 |Retornou o notebook: Notebook_Cinza_03 | ás 2020-03-07 10:12:01.155840-03:00 |
+ID: carlos@9100 | foi desconnectado às 2020-03-07 10:12:16.726462-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-07 11:08:28.271081-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_10 | para o Evento: ALL BUSINESS | ás 2020-03-07 11:12:51.347116-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_03 | para o Evento: ALL BUSINESS | ás 2020-03-07 11:12:57.737937-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_14 | para o Evento: ALL BUSINESS | ás 2020-03-07 11:13:11.425127-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_20 | para o Evento: ALL BUSINESS | ás 2020-03-07 11:14:07.362613-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-09 08:55:51.886162-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_07 | ás 2020-03-09 08:56:22.216899-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_04 | ás 2020-03-09 08:56:29.826254-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_30 | ás 2020-03-09 08:57:38.967550-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-09 09:12:00.948351-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_13 | ás 2020-03-09 09:14:58.985430-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_30 | para o Evento: Two Ligths Mar | ás 2020-03-09 09:41:52.185616-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_13 | para o Evento: Two Ligths Mar | ás 2020-03-09 09:42:01.179229-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_04 | para o Evento: Two ligths Hilton | ás 2020-03-09 10:10:49.667597-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_07 | para o Evento: Two ligths Hilton | ás 2020-03-09 10:11:42.214500-03:00 |
+ID: henrique@pleno | foi desconnectado às 2020-03-09 10:16:12.023244-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-09 15:29:17.629886-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_22 | para o Evento: Geometry | ás 2020-03-09 15:30:49.556723-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_21 | para o Evento: Geometry | ás 2020-03-09 15:31:02.666145-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-09 16:55:35.978933-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_24 | para o Evento: Imep Inovação | ás 2020-03-09 17:00:07.968937-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_23 | para o Evento: Imep Inovação | ás 2020-03-09 17:01:12.079116-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_26 | para o Evento: Sheraton-RJ | ás 2020-03-09 17:04:43.359193-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_28 | para o Evento: Sheraton-RJ | ás 2020-03-09 17:05:20.453769-03:00 |
+ID: henrique@pleno |Retirou TV 46": TV_46_43 | para o Evento: Imap Inovações | ás 2020-03-09 17:07:21.105291-03:00 |
+ID: henrique@pleno |Retirou TV 46": TV_46_38 | para o Evento: Imap Inovações | ás 2020-03-09 17:07:35.886527-03:00 |
+ID: henrique@pleno | foi desconnectado às 2020-03-09 17:10:37.901034-03:00 |
+ID: carlos@9100 | connectado ás 2020-03-10 13:59:20.559482-03:00 |
+ID: carlos@9100 |Retornou o notebook: Notebook_Cinza_19 | ás 2020-03-10 14:00:36.537891-03:00 |
+ID: carlos@9100 |Retornou o notebook: Notebook_Cinza_08 | ás 2020-03-10 14:00:50.444152-03:00 |
+ID: carlos@9100 |Retirou o notebook: Notebook_Cinza_08 | para o Evento: Two Lights Mar | ás 2020-03-10 14:09:52.019333-03:00 |
+ID: carlos@9100 |Retirou o notebook: Notebook_Cinza_19 | para o Evento: Two Lights Mar | ás 2020-03-10 14:10:15.537840-03:00 |
+ID: carlos@9100 | foi desconnectado às 2020-03-10 14:10:22.497661-03:00 |
+ID: carlos@9100 | connectado ás 2020-03-10 17:03:15.678907-03:00 |
+ID: carlos@9100 |Retornou o notebook: Notebook_Cinza_16 | ás 2020-03-10 17:03:28.163279-03:00 |
+ID: carlos@9100 |Retornou o notebook: Notebook_Branco_25 | ás 2020-03-10 17:04:21.168684-03:00 |
+ID: carlos@9100 |Retornou o notebook: Notebook_Branco_31 | ás 2020-03-10 17:04:48.496812-03:00 |
+ID: carlos@9100 |Retornou o notebook: Notebook_Cinza_18 | ás 2020-03-10 17:05:33.590561-03:00 |
+ID: carlos@9100 |Retornou o notebook: Notebook_Cinza_05 | ás 2020-03-10 17:06:33.313463-03:00 |
+ID: carlos@9100 |Retornou o notebook: Notebook_Branco_26 | ás 2020-03-10 17:13:22.306932-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-11 13:11:44.466777-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_04 | ás 2020-03-11 13:12:27.326148-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_07 | ás 2020-03-11 13:12:44.357349-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_13 | ás 2020-03-11 13:15:29.228440-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_08 | ás 2020-03-11 13:15:40.197233-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_19 | ás 2020-03-11 13:15:46.400392-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_30 | ás 2020-03-11 13:15:51.369111-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-11 16:29:28.514196-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-11 18:16:25.008518-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_19 | para o Evento: H2 | ás 2020-03-11 18:16:57.143087-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_18 | para o Evento: H2 | ás 2020-03-11 18:17:05.330586-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_05 | para o Evento: H2 | ás 2020-03-11 18:17:22.236789-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-12 11:42:30.217710-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_24 | ás 2020-03-12 11:42:58.107955-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_21 | ás 2020-03-12 11:46:25.373996-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-12 11:46:53.014640-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_16 | para o Evento: Sheraton-RJ | ás 2020-03-12 11:48:39.756807-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_23 | ás 2020-03-12 11:49:39.865853-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-12 13:11:39.443190-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-12 13:18:13.830474-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_22 | ás 2020-03-12 13:20:10.286122-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_22 | para o Evento: IMP | ás 2020-03-12 13:22:44.967683-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_30 | para o Evento: Projac | ás 2020-03-12 13:24:32.520128-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_13 | para o Evento: Projac | ás 2020-03-12 13:24:39.637834-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_26 | para o Evento: rio expo food | ás 2020-03-12 13:28:47.023262-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_24 | para o Evento: rio expo food | ás 2020-03-12 13:30:10.544485-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-12 13:32:32.023124-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-12 15:15:09.279189-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_22 | ás 2020-03-12 15:15:39.673149-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_01 | ás 2020-03-12 16:20:03.678976-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-12 16:20:47.295778-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_12 | ás 2020-03-12 16:21:05.655123-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_11 | ás 2020-03-12 16:21:17.623869-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_19 | ás 2020-03-12 16:24:43.742304-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_20 | ás 2020-03-12 16:24:53.945484-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_25 | ás 2020-03-12 16:25:05.351726-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_27 | ás 2020-03-12 16:25:17.242313-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_29 | ás 2020-03-12 16:25:28.793659-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_16 | ás 2020-03-12 16:25:41.402237-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_19 | para o Evento: H2 RIBALTAS | ás 2020-03-12 16:26:33.402239-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_20 | para o Evento: H2 RIBALTAS | ás 2020-03-12 16:26:53.308456-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_25 | para o Evento: H2 RIBALTAS | ás 2020-03-12 16:27:04.277189-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_29 | para o Evento: H2 RIBALTAS | ás 2020-03-12 16:27:12.667809-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_16 | para o Evento: H2 RIBALTAS | ás 2020-03-12 16:27:21.328284-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_27 | para o Evento: H2 RIBALTAS | ás 2020-03-12 16:27:29.953337-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_33 | para o Evento: H2 RIBALTAS | ás 2020-03-12 16:27:39.437711-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_18 | para o Evento: H2 RIBALTAS | ás 2020-03-12 16:27:48.109555-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_30 | para o Evento: H2 RIBALTAS | ás 2020-03-12 16:27:56.656412-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_24 | para o Evento: H2 RIBALTAS | ás 2020-03-12 16:28:04.547083-03:00 |
+ID: henrique@pleno |Retirou TV 65": TV_65_03 | para o Evento: H2 RIBALTAS  | ás 2020-03-12 16:28:59.269818-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-13 09:05:01.225113-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_18 | ás 2020-03-13 09:05:44.173169-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-13 09:06:38.860302-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_33 | ás 2020-03-13 09:06:53.549857-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_24 | ás 2020-03-13 09:07:02.591516-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-13 14:57:48.042112-03:00 |
+ID: henrique@pleno |Retirou TV 55": TV_55_24 | para o Evento: H2 RIBALTAS  | ás 2020-03-13 14:58:23.249376-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-13 16:53:20.625013-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_24 | ás 2020-03-13 16:53:37.626760-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_26 | ás 2020-03-13 16:54:08.736435-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_24 | para o Evento: Spot Vision | ás 2020-03-13 16:55:30.126516-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_26 | para o Evento: Spot Vision | ás 2020-03-13 16:55:38.443707-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-14 15:00:33.452630-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_18 | ás 2020-03-14 15:00:47.093289-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_05 | ás 2020-03-14 15:01:09.984185-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_19 | ás 2020-03-14 15:01:25.639127-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_20 | ás 2020-03-14 15:01:57.837275-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_14 | ás 2020-03-14 15:02:05.204546-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_03 | ás 2020-03-14 15:02:12.061328-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_10 | ás 2020-03-14 15:02:18.220478-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_30 | ás 2020-03-14 15:03:11.339736-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-16 09:56:00.227183-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_12 | para o Evento: HASTRO | ás 2020-03-16 10:06:50.985593-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_01 | para o Evento: HASTRO | ás 2020-03-16 10:07:30.760744-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_08 | para o Evento: HASTRO | ás 2020-03-16 10:08:12.587771-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-16 11:05:48.513692-03:00 |
+ID: henrique@pleno |Retornou TV 28": TV_28_11 | ás 2020-03-16 11:06:59.554775-03:00 |
+ID: henrique@pleno |Retornou TV 28": TV_28_08 | ás 2020-03-16 11:07:11.972948-03:00 |
+ID: henrique@pleno |Retornou TV 28": TV_28_04 | ás 2020-03-16 11:07:24.560705-03:00 |
+ID: henrique@pleno |Retirou TV 28": TV_28_06 | para o Evento: Hastro | ás 2020-03-16 11:08:13.273329-03:00 |
+ID: henrique@pleno |Retirou TV 28": TV_28_15 | para o Evento: Hastro | ás 2020-03-16 11:08:25.770604-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_65 | ás 2020-03-16 11:09:44.517784-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_44 | ás 2020-03-16 11:09:53.889580-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_39 | ás 2020-03-16 11:10:02.840365-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_43 | ás 2020-03-16 11:29:35.732312-03:00 |
+ID: henrique@pleno |Retornou TV 46": TV_46_38 | ás 2020-03-16 11:29:46.224928-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_24 | ás 2020-03-16 11:30:56.741854-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_23 | ás 2020-03-16 11:31:03.954315-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_26 | ás 2020-03-16 11:31:14.515660-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_10 | ás 2020-03-16 11:31:27.568775-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_16 | ás 2020-03-16 11:33:11.755074-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_15 | ás 2020-03-16 11:33:24.119512-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_14 | ás 2020-03-16 11:33:37.688828-03:00 |
+ID: henrique@pleno |Retornou TV 43": TV_43_18 | ás 2020-03-16 11:33:45.292410-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_21 | ás 2020-03-16 11:34:46.413879-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_07 | ás 2020-03-16 11:35:12.235241-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_19 | ás 2020-03-16 11:35:22.143760-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_20 | ás 2020-03-16 11:35:38.531429-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_25 | ás 2020-03-16 11:35:47.159927-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_29 | ás 2020-03-16 11:35:56.840589-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_16 | ás 2020-03-16 11:36:05.337083-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_27 | ás 2020-03-16 11:36:28.764210-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_30 | ás 2020-03-16 11:36:37.236777-03:00 |
+ID: henrique@pleno |Retornou TV 55": TV_55_24 | ás 2020-03-16 11:36:43.972501-03:00 |
+ID: henrique@pleno |Retornou TV 65": TV_65_03 | ás 2020-03-16 11:37:37.062255-03:00 |
+ID: henrique@pleno |Retornou TV 75": TV_75_02 | ás 2020-03-16 11:39:24.106339-03:00 |
+ID: henrique@pleno |Retornou TV 75": TV_75_04 | ás 2020-03-16 11:39:59.480535-03:00 |
+ID: henrique@pleno |Retornou TV 75": TV_75_01 | ás 2020-03-16 11:40:07.579292-03:00 |
+ID: henrique@pleno | foi desconnectado às 2020-03-16 11:41:29.810857-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-16 11:42:09.026154-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-16 11:43:03.193344-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_24 | ás 2020-03-16 11:43:29.478050-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_26 | ás 2020-03-16 11:44:12.023370-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_13 | ás 2020-03-16 11:44:35.258409-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_28 | ás 2020-03-16 11:44:43.562348-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_16 | ás 2020-03-16 11:44:53.712617-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-16 13:06:34.661981-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-17 09:09:54.576019-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_31 | para o Evento: plug | ás 2020-03-17 09:25:41.300821-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_29 | para o Evento: plug | ás 2020-03-17 09:25:52.502998-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_23 | para o Evento: plug | ás 2020-03-17 09:26:02.800083-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_21 | para o Evento: plug | ás 2020-03-17 09:26:15.254837-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_26 | para o Evento: plug | ás 2020-03-17 09:26:33.989236-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_05 | para o Evento: plug | ás 2020-03-17 09:37:03.776302-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_19 | para o Evento: plug | ás 2020-03-17 09:37:15.213769-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_16 | para o Evento: plug | ás 2020-03-17 09:37:23.899810-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_18 | para o Evento: plug | ás 2020-03-17 09:37:32.941409-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_13 | para o Evento: plug | ás 2020-03-17 09:37:44.129157-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_12 | ás 2020-03-17 09:50:07.436604-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_08 | ás 2020-03-17 09:50:15.651156-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_01 | ás 2020-03-17 09:50:21.067027-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_10 | para o Evento: Plug | ás 2020-03-17 09:50:51.444845-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_07 | para o Evento: Plug | ás 2020-03-17 09:50:57.847278-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_01 | para o Evento: Plug | ás 2020-03-17 09:51:39.211254-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_08 | para o Evento: Plug | ás 2020-03-17 09:51:47.753595-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_12 | para o Evento: Plug | ás 2020-03-17 09:51:56.015354-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_14 | para o Evento: HASTRO | ás 2020-03-17 09:52:20.639500-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_04 | para o Evento: HASTRO | ás 2020-03-17 09:52:30.119552-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_03 | para o Evento: HASTRO | ás 2020-03-17 09:52:37.388111-03:00 |
+ID: henrique@pleno | foi desconnectado às 2020-03-17 09:52:42.701833-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-18 09:35:05.833288-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_14 | ás 2020-03-18 09:35:20.567630-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_03 | ás 2020-03-18 09:35:30.161415-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_04 | ás 2020-03-18 09:35:42.036375-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-18 11:10:44.238301-03:00 |
+ID: henrique@pleno |Retornou TV 28": TV_28_06 | ás 2020-03-18 11:11:12.003927-03:00 |
+ID: henrique@pleno |Retornou TV 28": TV_28_15 | ás 2020-03-18 11:11:37.691438-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-18 17:02:19.416057-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_03 | para o Evento: projac | ás 2020-03-18 17:02:41.041011-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_14 | para o Evento: projac | ás 2020-03-18 17:02:51.025465-03:00 |
+ID: carlos@9100 | connectado ás 2020-03-30 09:39:02.005942-03:00 |
+ID: carlos@9100 |Retornou o notebook: Notebook_Cinza_03 | ás 2020-03-30 09:39:19.201808-03:00 |
+ID: carlos@9100 |Retornou o notebook: Notebook_Cinza_14 | ás 2020-03-30 09:39:41.522352-03:00 |
+ID: carlos@9100 | foi desconnectado às 2020-03-30 09:39:52.945018-03:00 |
+ID: carlos@admin | connectado ás 2020-03-30 14:05:16.609865-03:00 |
+ID: henrique@pleno | connectado ás 2020-03-31 14:19:37.226858-03:00 |
+ID: henrique@pleno | connectado ás 2020-04-01 09:13:57.873710-03:00 |
+ID: carlos@9100 | connectado ás 2020-04-29 10:33:43.480502-03:00 |
+ID: carlos@9100 | connectado ás 2020-04-29 10:36:12.923589-03:00 |
+ID: carlos@9100 | connectado ás 2020-11-06 11:02:58.746914-03:00 |
+ID: carlos@9100 | foi desconnectado às 2020-11-06 11:03:05.109520-03:00 |
+ID: carlos@9100 | connectado ás 2020-11-06 11:20:46.240420-03:00 |
+ID: carlos@9100 |Retornou o notebook: Notebook_Cinza_12 | ás 2020-11-06 11:24:00.984120-03:00 |
+ID: carlos@9100 |Retirou o notebook: Notebook_Cinza_12 | para o Evento: village mall | ás 2020-11-06 11:25:17.068292-03:00 |
+ID: carlos@9100 |Retirou o notebook: Notebook_Branco_24 | para o Evento: village mall | ás 2020-11-06 11:25:51.131967-03:00 |
+ID: carlos@9100 | foi desconnectado às 2020-11-06 11:27:09.467650-03:00 |
+ID: carlos@9100 | connectado ás 2020-11-06 11:51:00.385380-03:00 |
+ID: carlos@9100 |Retornou o notebook: Notebook_Cinza_05 | ás 2020-11-06 11:51:20.760448-03:00 |
+ID: carlos@9100 |Retornou o notebook: Notebook_Cinza_10 | ás 2020-11-06 11:51:38.551162-03:00 |
+ID: carlos@9100 |Retornou o notebook: Notebook_Cinza_18 | ás 2020-11-06 11:51:59.282977-03:00 |
+ID: carlos@9100 |Retornou o notebook: Notebook_Cinza_13 | ás 2020-11-06 11:52:16.225248-03:00 |
+ID: carlos@9100 |Retornou o notebook: Notebook_Cinza_19 | ás 2020-11-06 11:52:26.340069-03:00 |
+ID: carlos@9100 |Retornou o notebook: Notebook_Cinza_07 | ás 2020-11-06 11:52:35.657367-03:00 |
+ID: carlos@9100 | foi desconnectado às 2020-11-06 11:53:33.642033-03:00 |
+ID: henrique@pleno | connectado ás 2020-11-06 13:19:01.765987-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_10 | para o Evento: Hilton Barra | ás 2020-11-06 13:20:30.362558-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_13 | para o Evento: Hilton Barra | ás 2020-11-06 13:21:47.589302-03:00 |
+ID: henrique@pleno | connectado ás 2020-11-06 13:54:53.757244-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_08 | ás 2020-11-06 13:55:03.995292-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_01 | ás 2020-11-06 15:13:24.232231-03:00 |
+ID: henrique@pleno | connectado ás 2020-11-09 09:15:57.007565-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_12 | ás 2020-11-09 09:16:16.830114-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_10 | ás 2020-11-09 09:42:26.927723-03:00 |
+ID: henrique@pleno | connectado ás 2020-11-09 13:34:09.629223-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_08 | para o Evento: SOU LINK | ás 2020-11-09 13:36:39.566255-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_19 | para o Evento: SOU LINK | ás 2020-11-09 13:37:02.850459-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_18 | para o Evento: SOU LINK | ás 2020-11-09 13:38:40.810466-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_21 | ás 2020-11-09 13:45:45.526898-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_21 | para o Evento: Gravação | ás 2020-11-09 13:46:54.403469-03:00 |
+ID: henrique@pleno | connectado ás 2020-11-10 16:13:24.323003-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_07 | para o Evento: Gravação | ás 2020-11-10 16:14:59.827946-03:00 |
+ID: henrique@pleno | connectado ás 2020-11-10 17:19:48.702050-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_16 | ás 2020-11-10 17:20:58.136922-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_16 | para o Evento: Gravação | ás 2020-11-10 17:21:23.261837-03:00 |
+ID: henrique@pleno | connectado ás 2020-11-12 15:36:09.998556-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_21 | ás 2020-11-12 15:36:38.936673-03:00 |
+ID: henrique@pleno | connectado ás 2020-11-13 14:18:20.970693-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_18 | ás 2020-11-13 14:18:28.608039-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_19 | ás 2020-11-13 14:18:40.370461-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_08 | ás 2020-11-13 14:18:48.765124-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_07 | ás 2020-11-13 14:19:29.152905-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_16 | ás 2020-11-13 14:19:42.583904-03:00 |
+ID: henrique@pleno | connectado ás 2020-11-16 09:40:59.727896-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_13 | ás 2020-11-16 09:41:12.909766-03:00 |
+ID: henrique@pleno | connectado ás 2020-11-18 16:29:37.878758-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_23 | ás 2020-11-18 16:30:32.881202-03:00 |
+ID: henrique@pleno | connectado ás 2020-11-19 10:42:11.860065-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_05 | para o Evento: DELLA | ás 2020-11-19 10:44:49.088532-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_14 | para o Evento: DELLA | ás 2020-11-19 10:45:04.339773-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_12 | para o Evento: DELLA | ás 2020-11-19 10:45:47.960360-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_10 | para o Evento: PS-21 | ás 2020-11-19 13:05:25.179573-03:00 |
+ID: henrique@pleno | connectado ás 2020-11-19 13:05:43.106859-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_01 | para o Evento: PS-21 | ás 2020-11-19 13:06:39.587923-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_30 | para o Evento: corporativo-2020 | ás 2020-11-19 14:39:59.811203-03:00 |
+ID: henrique@pleno | connectado ás 2020-11-19 14:40:14.105892-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_18 | para o Evento: corporativo-2020 | ás 2020-11-19 14:41:13.177896-03:00 |
+ID: henrique@pleno | connectado ás 2020-11-19 16:21:23.531933-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_07 | para o Evento: parque olimpico | ás 2020-11-19 17:00:21.854152-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_13 | para o Evento: parque olimpico | ás 2020-11-19 17:00:37.448737-03:00 |
+ID: henrique@pleno | connectado ás 2020-11-19 17:45:17.693635-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_16 | para o Evento: cumulus midias | ás 2020-11-19 17:47:29.410353-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_23 | para o Evento: cumulus midias | ás 2020-11-19 17:47:47.663071-03:00 |
+ID: henrique@pleno | connectado ás 2020-11-23 11:57:32.240843-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_10 | ás 2020-11-23 12:01:30.185172-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_01 | ás 2020-11-23 12:01:40.413822-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_13 | ás 2020-11-23 12:02:39.284487-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_07 | ás 2020-11-23 12:02:45.837786-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_16 | ás 2020-11-24 09:06:40.736384-03:00 |
+ID: henrique@pleno | connectado ás 2020-11-24 09:07:23.503280-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_23 | ás 2020-11-24 09:07:41.954997-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_10 | para o Evento: PS-21 | ás 2020-11-24 09:40:43.155436-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_01 | para o Evento: PS-21 | ás 2020-11-24 09:41:00.138107-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_03 | para o Evento: sou link | ás 2020-11-24 15:13:05.091922-03:00 |
+ID: henrique@pleno | connectado ás 2020-11-24 15:13:21.103433-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_13 | para o Evento: sou link | ás 2020-11-24 15:13:59.244663-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_16 | para o Evento: sou link | ás 2020-11-24 15:14:13.448265-03:00 |
+ID: henrique@pleno | connectado ás 2020-11-25 09:49:51.562671-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_18 | ás 2020-11-25 09:50:06.390305-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_30 | ás 2020-11-25 09:50:18.703137-03:00 |
+ID: henrique@pleno | connectado ás 2020-11-25 17:09:03.669079-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_30 | para o Evento: ABO/RJ | ás 2020-11-25 17:10:00.055541-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_18 | para o Evento: ABO/RJ | ás 2020-11-25 17:10:13.070199-03:00 |
+ID: henrique@pleno | connectado ás 2020-11-26 10:46:07.115603-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_01 | ás 2020-11-26 10:46:56.921508-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_10 | ás 2020-11-26 10:47:09.195820-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_12 | ás 2020-11-26 10:55:46.567723-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_05 | ás 2020-11-26 10:57:23.050547-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_14 | ás 2020-11-26 10:57:36.803691-03:00 |
+ID: henrique@pleno | connectado ás 2020-11-27 11:56:03.831561-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_23 | para o Evento: spot vision | ás 2020-11-27 11:56:36.793488-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_03 | ás 2020-11-28 11:43:44.710914-03:00 |
+ID: henrique@pleno | connectado ás 2020-11-28 11:44:36.021616-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_03 | para o Evento: studio 145 | ás 2020-11-28 11:45:38.653541-03:00 |
+ID: henrique@pleno | connectado ás 2020-11-28 11:46:08.545059-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_13 | ás 2020-11-28 11:46:31.012301-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_13 | para o Evento: studio 145 | ás 2020-11-28 11:47:31.909168-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_07 | para o Evento: studio 145 | ás 2020-11-28 11:47:49.482455-03:00 |
+ID: henrique@pleno | connectado ás 2020-11-30 09:20:49.437679-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_14 | para o Evento: LSH | ás 2020-11-30 09:21:34.266533-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_01 | para o Evento: LSH | ás 2020-11-30 09:21:48.690946-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_10 | para o Evento: LSH | ás 2020-11-30 09:22:04.146544-03:00 |
+ID: henrique@pleno | connectado ás 2020-11-30 16:56:02.637811-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_18 | ás 2020-11-30 16:56:23.135166-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_05 | para o Evento: caravana de natal | ás 2020-11-30 16:59:40.982216-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_18 | para o Evento: caravana de natal | ás 2020-11-30 17:00:26.225725-03:00 |
+ID: henrique@pleno | connectado ás 2020-12-01 09:05:50.886748-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_12 | para o Evento: LSH | ás 2020-12-01 09:06:44.249065-03:00 |
+ID: henrique@pleno | connectado ás 2020-12-03 15:57:20.009861-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_10 | ás 2020-12-03 15:57:55.894710-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_12 | ás 2020-12-03 15:58:06.029970-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_01 | ás 2020-12-03 15:58:13.761217-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_14 | ás 2020-12-03 15:58:22.854694-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_23 | ás 2020-12-03 15:58:40.058289-03:00 |
+ID: henrique@pleno | connectado ás 2020-12-03 17:01:11.256305-03:00 |
+ID: henrique@pleno | connectado ás 2020-12-03 17:05:38.370754-03:00 |
+ID: henrique@pleno | connectado ás 2020-12-04 10:04:45.769739-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_23 | para o Evento: foxton | ás 2020-12-04 10:06:02.247028-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_13 | ás 2020-12-04 10:29:00.118166-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_30 | ás 2020-12-04 10:29:16.079305-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_13 | para o Evento: lojas rener | ás 2020-12-04 10:29:50.063444-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_30 | para o Evento: lojas rener | ás 2020-12-04 10:30:03.027633-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_16 | ás 2020-12-04 16:11:10.719802-03:00 |
+ID: henrique@pleno | connectado ás 2020-12-04 16:11:36.337490-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_16 | para o Evento: criart | ás 2020-12-04 16:13:04.416376-03:00 |
+ID: henrique@pleno | connectado ás 2020-12-04 16:14:17.573032-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_07 | ás 2020-12-04 16:14:52.798798-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_07 | para o Evento: criart | ás 2020-12-04 16:15:14.731909-03:00 |
+ID: henrique@pleno | connectado ás 2020-12-06 10:52:53.827491-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_07 | ás 2020-12-06 10:53:21.177129-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_16 | ás 2020-12-06 10:53:37.265354-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_03 | ás 2020-12-06 10:53:53.007800-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_07 | para o Evento: albussines | ás 2020-12-06 10:54:20.414513-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_03 | para o Evento: albussines | ás 2020-12-06 10:54:57.376523-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_16 | para o Evento: albussines | ás 2020-12-06 10:55:09.938856-03:00 |
+ID: henrique@pleno | connectado ás 2020-12-11 09:44:26.342897-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_03 | ás 2020-12-11 09:45:39.737065-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_16 | ás 2020-12-11 09:45:56.952092-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_07 | ás 2020-12-11 09:46:11.958691-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_13 | ás 2020-12-11 09:46:25.351158-03:00 |
+ID: henrique@pleno | connectado ás 2020-12-11 14:43:39.482157-03:00 |
+ID: henrique@pleno | connectado ás 2020-12-14 10:22:57.535462-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_01 | para o Evento: two ligths | ás 2020-12-14 10:24:06.350061-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_10 | para o Evento: two ligths | ás 2020-12-14 10:24:15.053372-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_19 | para o Evento: two ligths | ás 2020-12-14 10:24:25.975235-03:00 |
+ID: henrique@pleno | connectado ás 2020-12-16 16:51:08.354719-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_23 | ás 2020-12-16 16:51:52.389251-03:00 |
+ID: henrique@pleno | connectado ás 2020-12-18 11:58:09.264782-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_18 | ás 2020-12-18 13:18:15.835992-03:00 |
+ID: henrique@pleno | connectado ás 2020-12-18 13:18:40.098647-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_05 | ás 2020-12-18 13:19:07.420483-03:00 |
+ID: henrique@pleno | connectado ás 2021-01-07 10:38:01.675193-03:00 |
+ID: henrique@pleno | connectado ás 2021-01-14 11:36:40.836101-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_19 | ás 2021-01-14 11:37:13.940469-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_10 | ás 2021-01-14 11:37:47.591719-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_01 | ás 2021-01-14 11:40:23.677910-03:00 |
+ID: henrique@pleno | connectado ás 2021-01-21 11:59:15.980230-03:00 |
+ID: henrique@pleno | connectado ás 2021-02-04 13:51:43.565916-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_13 | para o Evento: C.C.S.A | ás 2021-02-04 13:53:08.477852-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_18 | para o Evento: C.C.S.A | ás 2021-02-04 13:53:39.940967-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_19 | para o Evento: C.C.S.A | ás 2021-02-04 13:53:58.518922-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_04 | para o Evento: C.C.S.A | ás 2021-02-04 13:54:14.236307-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_08 | para o Evento: C.C.S.A | ás 2021-02-04 13:54:39.049155-03:00 |
+ID: henrique@pleno | connectado ás 2021-02-08 11:56:05.854333-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_08 | ás 2021-02-08 11:56:31.324805-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_04 | ás 2021-02-08 11:56:41.464236-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_19 | ás 2021-02-08 11:56:52.292707-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_18 | ás 2021-02-08 11:57:05.898156-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_13 | ás 2021-02-08 11:57:14.836477-03:00 |
+ID: henrique@pleno | connectado ás 2021-02-18 14:37:12.199635-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_19 | para o Evento: otaviano | ás 2021-02-18 14:37:52.993638-03:00 |
+ID: henrique@pleno | connectado ás 2021-02-24 09:29:51.803170-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_01 | para o Evento: projac | ás 2021-02-24 09:30:40.161727-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_03 | para o Evento: projac | ás 2021-02-24 09:30:48.260139-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_12 | para o Evento: projac | ás 2021-02-24 09:31:47.308899-03:00 |
+ID: henrique@pleno | connectado ás 2021-03-05 09:10:02.234727-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_30 | ás 2021-03-05 15:51:39.590775-03:00 |
+ID: henrique@pleno | connectado ás 2021-03-05 15:52:25.067069-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_26 | ás 2021-03-05 15:53:10.171880-03:00 |
+ID: henrique@pleno | connectado ás 2021-03-05 16:56:06.996177-03:00 |
+ID: henrique@pleno | connectado ás 2021-03-08 11:53:12.196106-03:00 |
+ID: henrique@pleno | connectado ás 2021-03-08 14:56:39.667176-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_24 | ás 2021-03-08 14:59:08.186415-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_24 | para o Evento: maracana | ás 2021-03-08 16:25:47.366786-03:00 |
+ID: henrique@pleno | connectado ás 2021-03-08 16:26:43.586955-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_11 | para o Evento: sub | ás 2021-03-08 16:27:52.320504-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_16 | para o Evento: sub | ás 2021-03-08 16:28:06.933980-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_18 | para o Evento: sub | ás 2021-03-08 16:28:54.220497-03:00 |
+ID: henrique@pleno | connectado ás 2021-03-09 11:07:53.662017-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_01 | ás 2021-03-09 11:08:22.844463-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_03 | ás 2021-03-09 11:08:39.062991-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_12 | ás 2021-03-09 11:08:53.716473-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_29 | ás 2021-03-10 16:55:23.091139-03:00 |
+ID: henrique@pleno | connectado ás 2021-03-10 16:55:52.059647-03:00 |
+ID: henrique@pleno | connectado ás 2021-03-11 13:59:46.031210-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_05 | para o Evento: LSH | ás 2021-03-11 14:01:52.884118-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_10 | para o Evento: LSH | ás 2021-03-11 14:02:25.577122-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_14 | para o Evento: LSH | ás 2021-03-11 14:02:38.700300-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_03 | para o Evento: LSH | ás 2021-03-11 14:02:57.673507-03:00 |
+ID: henrique@pleno | connectado ás 2021-03-12 10:49:01.871230-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_04 | para o Evento: HYATT | ás 2021-03-12 10:49:36.244014-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_01 | para o Evento: HYATT | ás 2021-03-12 10:49:51.883594-03:00 |
+ID: henrique@pleno | connectado ás 2021-03-15 13:23:18.617054-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_05 | ás 2021-03-15 13:23:31.726299-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_05 | para o Evento: brisa | ás 2021-03-15 13:24:18.293064-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_08 | para o Evento: brisa | ás 2021-03-15 13:24:28.181909-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_12 | para o Evento: brisa | ás 2021-03-15 13:24:41.583118-03:00 |
+ID: henrique@pleno | connectado ás 2021-03-15 16:52:13.192995-03:00 |
+ID: henrique@pleno | connectado ás 2021-03-16 10:05:52.375543-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_13 | para o Evento: BRISA 210 | ás 2021-03-16 10:07:05.096521-03:00 |
+ID: henrique@pleno | connectado ás 2021-03-16 14:36:07.999023-03:00 |
+ID: henrique@pleno | connectado ás 2021-03-17 15:36:28.351036-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_07 | para o Evento: LSH | ás 2021-03-17 15:37:18.399281-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_20 | para o Evento: 31/12 | ás 2021-03-17 15:38:00.837657-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_20 | ás 2021-03-17 15:38:18.617395-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_20 | para o Evento:  | ás 2021-03-17 15:38:32.245112-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_20 | ás 2021-03-17 15:38:41.835828-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_20 | para o Evento: está com a leia | ás 2021-03-17 15:39:08.914999-03:00 |
+ID: henrique@pleno | connectado ás 2021-03-18 15:20:16.037523-03:00 |
+ID: henrique@pleno | connectado ás 2021-03-19 09:18:22.617450-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_10 | ás 2021-03-19 09:20:58.015779-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_14 | ás 2021-03-19 09:21:04.760766-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_03 | ás 2021-03-19 09:21:12.129791-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_07 | ás 2021-03-19 09:21:32.879161-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_07 | para o Evento: BRISA 210 | ás 2021-03-19 09:22:38.753422-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_03 | para o Evento: BRISA 210 | ás 2021-03-19 09:22:48.730353-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_14 | para o Evento: BRISA 210 | ás 2021-03-19 09:22:59.859712-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_10 | para o Evento: BRISA 210 | ás 2021-03-19 09:23:10.174754-03:00 |
+ID: henrique@pleno | connectado ás 2021-03-19 09:40:45.591022-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_26 | para o Evento: LSH | ás 2021-03-19 09:42:01.783204-03:00 |
+ID: henrique@pleno | connectado ás 2021-03-19 11:59:26.373883-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_21 | para o Evento: foxton | ás 2021-03-19 12:00:10.283220-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_28 | para o Evento: foxton | ás 2021-03-19 12:02:14.526907-03:00 |
+ID: henrique@pleno | connectado ás 2021-03-19 17:40:29.940431-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_12 | ás 2021-03-19 17:40:39.768365-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_07 | ás 2021-03-19 17:40:54.836905-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_26 | ás 2021-03-19 17:41:10.920701-03:00 |
+ID: henrique@pleno | connectado ás 2021-03-20 08:03:13.443133-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_07 | para o Evento: Prefeitura | ás 2021-03-20 08:25:57.970295-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_12 | para o Evento: Prefeitura | ás 2021-03-20 08:26:10.398848-03:00 |
+ID: henrique@pleno | connectado ás 2021-03-20 15:16:45.199309-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_21 | ás 2021-03-20 15:17:04.943481-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_28 | ás 2021-03-20 15:17:14.114822-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_21 | para o Evento: Foxton 46" | ás 2021-03-20 15:18:03.178555-03:00 |
+ID: henrique@pleno | connectado ás 2021-03-21 16:46:01.782679-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_12 | ás 2021-03-21 16:46:19.093861-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_07 | ás 2021-03-21 16:46:26.844117-03:00 |
+ID: henrique@pleno | connectado ás 2021-03-24 13:16:52.783666-03:00 |
+ID: henrique@pleno | connectado ás 2021-04-05 13:51:44.750854-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_10 | ás 2021-04-05 13:52:27.196173-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_14 | ás 2021-04-05 13:53:01.164676-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_03 | ás 2021-04-05 13:53:16.399557-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_13 | ás 2021-04-05 13:53:27.911757-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_08 | ás 2021-04-05 13:53:36.550924-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_05 | ás 2021-04-05 13:54:17.832565-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_01 | ás 2021-04-05 13:54:24.164119-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_04 | ás 2021-04-05 13:54:38.342905-03:00 |
+ID: henrique@pleno | connectado ás 2021-04-05 14:30:41.489007-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_31 | ás 2021-04-05 14:55:51.961063-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_31 | para o Evento: juliana barra shopping LK | ás 2021-04-05 14:56:40.604992-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_25 | para o Evento: BELEZA NATURAL | ás 2021-04-05 14:59:58.103732-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_22 | para o Evento: MOMBOX BARRA | ás 2021-04-05 15:01:43.447021-03:00 |
+ID: henrique@pleno | connectado ás 2021-04-05 16:51:30.495659-03:00 |
+ID: henrique@pleno | connectado ás 2021-04-06 15:52:40.073391-03:00 |
+ID: henrique@pleno | connectado ás 2021-04-07 09:26:08.417786-03:00 |
+ID: henrique@pleno | connectado ás 2021-04-07 16:01:54.444760-03:00 |
+ID: henrique@pleno | connectado ás 2021-04-08 10:58:13.075609-03:00 |
+ID: henrique@pleno | connectado ás 2021-04-09 10:16:46.241266-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_04 | para o Evento: BARRA MANSA | ás 2021-04-09 10:19:01.061122-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_08 | para o Evento: BARRA MANSA | ás 2021-04-09 10:19:25.598187-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_10 | para o Evento: BARRA MANSA | ás 2021-04-09 10:19:39.594635-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_14 | para o Evento: BARRA MANSA | ás 2021-04-09 10:19:51.660009-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_01 | para o Evento: BARRA MANSA | ás 2021-04-09 10:20:08.623385-03:00 |
+ID: henrique@pleno | connectado ás 2021-04-09 14:37:13.357746-03:00 |
+ID: henrique@pleno | connectado ás 2021-04-12 15:16:47.305685-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_05 | para o Evento: STUDIO SOU LINK | ás 2021-04-12 15:17:36.923900-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_07 | para o Evento: STUDIO SOU LINK | ás 2021-04-12 15:17:51.021825-03:00 |
+ID: henrique@pleno | connectado ás 2021-04-13 09:06:31.797467-03:00 |
+ID: henrique@pleno | connectado ás 2021-04-14 15:43:45.744024-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_16 | ás 2021-04-14 15:56:44.948232-03:00 |
+ID: henrique@pleno | connectado ás 2021-04-15 08:50:47.134346-03:00 |
+ID: henrique@pleno | connectado ás 2021-04-15 13:55:12.708672-03:00 |
+ID: henrique@pleno | connectado ás 2021-04-15 16:21:05.112841-03:00 |
+ID: henrique@pleno | connectado ás 2021-04-15 16:39:59.690988-03:00 |
+ID: henrique@pleno | connectado ás 2021-04-16 09:06:19.108041-03:00 |
+ID: henrique@pleno | connectado ás 2021-04-16 14:37:35.676294-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_01 | ás 2021-04-16 14:38:36.880170-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_05 | ás 2021-04-16 14:38:45.814685-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_14 | ás 2021-04-16 14:38:54.611886-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_10 | ás 2021-04-16 14:39:08.814292-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_08 | ás 2021-04-16 14:39:19.172860-03:00 |
+ID: henrique@pleno | connectado ás 2021-04-19 13:45:03.121859-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_08 | para o Evento: Rodrigo/W | ás 2021-04-19 13:46:03.451491-03:00 |
+ID: henrique@pleno | connectado ás 2021-04-20 15:04:20.774188-03:00 |
+ID: henrique@pleno | connectado ás 2021-04-22 09:11:16.075124-03:00 |
+ID: henrique@pleno | connectado ás 2021-04-26 09:45:30.464668-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_14 | para o Evento: visual best | ás 2021-04-26 09:46:18.492376-03:00 |
+ID: henrique@pleno | connectado ás 2021-04-26 09:46:47.973621-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_11 | ás 2021-04-26 09:47:16.474375-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_11 | para o Evento: visual best | ás 2021-04-26 09:47:42.656189-03:00 |
+ID: henrique@pleno | connectado ás 2021-04-26 13:16:26.746044-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_16 | para o Evento: LSH | ás 2021-04-26 13:17:20.969302-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_01 | para o Evento: LSH | ás 2021-04-26 13:17:38.823373-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_05 | para o Evento: LSH | ás 2021-04-26 13:17:51.117099-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_12 | para o Evento: LSH | ás 2021-04-26 13:17:59.768351-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_03 | para o Evento: LSH | ás 2021-04-26 13:18:16.339943-03:00 |
+ID: henrique@pleno | connectado ás 2021-04-27 09:47:33.483527-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_14 | ás 2021-04-27 09:49:07.355991-03:00 |
+ID: henrique@pleno | connectado ás 2021-04-28 11:13:02.807308-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_14 | para o Evento: HOFFIMAN | ás 2021-04-28 11:13:41.574545-03:00 |
+ID: henrique@pleno | connectado ás 2021-04-30 11:47:36.335952-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_26 | para o Evento: DIO MKT | ás 2021-04-30 11:48:14.783446-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_30 | para o Evento: DIO MKT | ás 2021-04-30 11:48:25.368235-03:00 |
+ID: henrique@pleno | connectado ás 2021-05-03 11:18:17.473602-03:00 |
+ID: henrique@pleno | connectado ás 2021-05-04 11:58:28.838284-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_04 | ás 2021-05-04 12:07:26.703847-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_14 | ás 2021-05-04 12:07:33.165926-03:00 |
+ID: henrique@pleno | connectado ás 2021-05-04 13:31:33.413168-03:00 |
+ID: henrique@pleno | connectado ás 2021-05-04 18:23:22.028481-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_03 | ás 2021-05-04 18:23:44.832951-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_03 | para o Evento: DIO MKT | ás 2021-05-04 18:24:50.500881-03:00 |
+ID: henrique@pleno | connectado ás 2021-05-05 10:21:12.076632-03:00 |
+ID: henrique@pleno | connectado ás 2021-05-10 14:34:18.359460-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_11 | ás 2021-05-10 15:58:35.379151-03:00 |
+ID: henrique@pleno | connectado ás 2021-05-10 15:59:03.026622-03:00 |
+ID: henrique@pleno | connectado ás 2021-05-11 10:01:49.163078-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_03 | ás 2021-05-11 10:05:30.811486-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_30 | ás 2021-05-11 10:05:40.706873-03:00 |
+ID: henrique@pleno | connectado ás 2021-05-11 10:09:55.783859-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_26 | ás 2021-05-11 10:10:05.625798-03:00 |
+ID: henrique@pleno | connectado ás 2021-05-11 14:13:59.550309-03:00 |
+ID: henrique@pleno | connectado ás 2021-05-15 10:07:49.654548-03:00 |
+ID: henrique@pleno | connectado ás 2021-05-17 10:13:06.323609-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_03 | para o Evento: larrat | ás 2021-05-17 10:17:20.080765-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_13 | para o Evento: larrat | ás 2021-05-17 10:17:28.134833-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_04 | para o Evento: larrat | ás 2021-05-17 10:17:38.469884-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Branco_29 | para o Evento: larrat | ás 2021-05-17 10:17:49.376552-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_16 | ás 2021-05-17 10:18:10.861463-03:00 |
+ID: henrique@pleno |Retirou o notebook: Notebook_Cinza_16 | para o Evento: larrat | ás 2021-05-17 10:18:29.111934-03:00 |
+ID: henrique@pleno | connectado ás 2021-05-20 15:33:28.980323-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_07 | ás 2021-05-20 15:34:19.958281-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_21 | ás 2021-05-20 15:35:00.505817-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Branco_29 | ás 2021-05-20 15:35:45.977197-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_04 | ás 2021-05-20 15:36:34.352360-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_03 | ás 2021-05-20 15:36:52.493267-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_13 | ás 2021-05-20 15:37:40.055662-03:00 |
+ID: henrique@pleno |Retornou o notebook: Notebook_Cinza_16 | ás 2021-05-20 15:37:56.134636-03:00 |
+ID: henrique@pleno | connectado ás 2021-05-21 09:39:26.008193-03:00 |
+ID: henrique@pleno | connectado ás 2021-05-21 10:34:57.315249-03:00 |
+ID: henrique@pleno | connectado ás 2021-05-21 14:27:05.190027-03:00 |
