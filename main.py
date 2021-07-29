@@ -24,7 +24,7 @@ def cls():
 
 cls()
 
-ids = ['henrique@pleno', 'carlos@9100', 'rogerio@', 'rodrigo@']
+ids = ['henrique@pleno', 'carlos@', 'rogerio@', 'rodrigo@']
 admins = ['carlos@admin', 'rogerio@admin', 'rodrigo@admin', 'henrique@admin']
 tz = pytz.timezone('America/Sao_Paulo')
 
